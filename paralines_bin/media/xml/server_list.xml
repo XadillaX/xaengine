@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<config>
+	<list name="电信" type="1" num="8">
+		<!--  电信  -->
+		<list_unit title="电信一区" ip="192.168.1.1" port="2048" type="1" load_lev="高" describe="新服推荐1"/>
+		<list_unit title="电信二区" ip="192.168.1.1" port="2048" type="1" load_lev="中" describe="新服推荐2"/>
+		<list_unit title="电信三区" ip="192.168.1.1" port="2048" type="1" load_lev="高" describe="新服推荐3"/>
+		<list_unit title="电信四区" ip="192.168.1.1" port="2048" type="1" load_lev="中" describe="新服推荐4"/>
+		<list_unit title="电信五区" ip="192.168.1.1" port="2048" type="1" load_lev="高" describe="新服推荐5"/>
+		<list_unit title="电信六区" ip="192.168.1.1" port="2048" type="1" load_lev="高" describe="新服推荐6"/>
+		<list_unit title="电信七区" ip="192.168.1.1" port="2048" type="1" load_lev="低" describe="新服推荐7"/>
+		<list_unit title="电信八区" ip="192.168.1.1" port="2048" type="1" load_lev="高" describe="新服推荐8"/>
+	</list>
+	
+	<list name="网通" type="2" num="4">
+		<!--  网通  -->
+		<list_unit title="网通一区" ip="192.168.1.1" port="2048" type="2" load_lev="高" describe="新服推荐9"/>
+		<list_unit title="网通二区" ip="192.168.1.1" port="2048" type="2" load_lev="低" describe="新服推荐10"/>
+		<list_unit title="网通三区" ip="192.168.1.1" port="2048" type="2" load_lev="高" describe="新服推荐11"/>
+		<list_unit title="网通四区" ip="192.168.1.1" port="2048" type="2" load_lev="高" describe="新服推荐12"/>
+	</list>
+	
+	<list name="双线" type="3" num="4">
+		<!--  双线  -->
+		<list_unit title="双线一区" ip="192.168.1.1" port="2048" type="3" load_lev="高" describe="新服推荐13"/>
+		<list_unit title="双线二区" ip="192.168.1.1" port="2048" type="3" load_lev="高" describe="新服推荐14"/>
+		<list_unit title="双线三区" ip="192.168.1.1" port="2048" type="3" load_lev="高" describe="新服推荐15"/>
+		<list_unit title="双线四区" ip="192.168.1.1" port="2048" type="3" load_lev="高" describe="新服推荐16"/>
+	</list>
+</config>

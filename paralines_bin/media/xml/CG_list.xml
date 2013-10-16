@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="GB2312"?>
+<config>
+		<CG_pic big_jpg_url="990001" small_jpg_url="990001_small" />
+		<CG_pic big_jpg_url="990002" small_jpg_url="990002_small" />
+		<CG_pic big_jpg_url="990008" small_jpg_url="990008_small" />
+		<CG_pic big_jpg_url="990023" small_jpg_url="990023_small" />
+		<CG_pic big_jpg_url="990003" small_jpg_url="990003_small" />
+		<CG_pic big_jpg_url="990021" small_jpg_url="990021_small" />
+		<CG_pic big_jpg_url="990004" small_jpg_url="990004_small" />
+		<CG_pic big_jpg_url="990005" small_jpg_url="990005_small" />
+		<CG_pic big_jpg_url="990006" small_jpg_url="990006_small" />
+		<CG_pic big_jpg_url="990007" small_jpg_url="990007_small" />
+		<CG_pic big_jpg_url="990024" small_jpg_url="990024_small" />
+		<CG_pic big_jpg_url="990009" small_jpg_url="990009_small" />
+		<CG_pic big_jpg_url="990011" small_jpg_url="990011_small" />
+		<CG_pic big_jpg_url="990012" small_jpg_url="990012_small" />
+		<CG_pic big_jpg_url="990013" small_jpg_url="990013_small" />
+		<CG_pic big_jpg_url="990022" small_jpg_url="990022_small" />
+		<CG_pic big_jpg_url="990015" small_jpg_url="990015_small" />
+		<CG_pic big_jpg_url="990020" small_jpg_url="990020_small" />
+		<CG_pic big_jpg_url="990016" small_jpg_url="990016_small" />
+</config>

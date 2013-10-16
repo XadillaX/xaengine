@@ -1,0 +1,1534 @@
+<config>
+	<para_date date="？？" week="？？" weather="雪">
+	<para_msg paragraph="10454500" start_scence_sound="950004.mp3">
+			<content effect_num="0" />
+	</para_msg>	
+	<para_msg paragraph="10454600" >
+			<content effect_num="0" >我被关在了教堂里，没有可以出去的地方。</content>
+	</para_msg>
+	<para_msg paragraph="10454700" >
+			<content effect_num="0" >我不明白，在我身边究竟发生了什么。</content>
+  </para_msg>
+  <para_msg paragraph="10454800" >
+			<content effect_num="0" >音姐和卢医生离开的那扇门，莫名其妙地消失了。</content>
+  </para_msg>
+  <para_msg paragraph="10454900" >
+			<content effect_num="0" >不知道外面过了多久，在我看来仿佛有一个世纪那么漫长。</content>
+	</para_msg>
+  <para_msg paragraph="10455000" >
+			<content effect_num="0" index="1">我没有进食也没有喝水，教堂里没那种东西。但是，我依旧好好地活着。</content>
+			<content effect_num="0" index="2">这是为什么呢？我无法理解。是因为我其实只是一个人偶吗？</content>
+	</para_msg>
+  <para_msg paragraph="10455100" >
+			<content effect_num="0" >自那之后，我开始频繁徘徊于半梦半醒之间。</content>
+	</para_msg>
+  <para_msg paragraph="10455200" >
+			<content effect_num="0" index="1">同时，内心深处也产生了一个强烈的预感。</content>		
+	    <content effect_num="0" index="2">——梦的终结即将到来。</content>	
+	</para_msg>
+  <para_msg paragraph="10455300" >
+			<content effect_num="0" index="1">不，现在名为李俊明的这个我才是在梦中。</content>		
+	    <content effect_num="0" index="2">毕竟，我只是一个虚假的存在罢了。</content>
+	</para_msg>
+  <para_msg paragraph="10455400" >
+			<content effect_num="0" >而且，不论多么美好的梦也终有醒来的那一天。</content>   
+	</para_msg>
+  <para_msg paragraph="10455500" end_scence_sound="true">
+			<content effect_num="2" />
+	</para_msg>
+  <para_msg paragraph="10455600" start_scence_sound="960011.mp3">
+			<content effect_num="2" index="1">没有可供选择的余地了。</content>		
+	    <content effect_num="0" index="2">如果不打倒眼前这个敌人，全世界都会跟着我们一起完蛋。</content>	
+	</para_msg>
+  <para_msg paragraph="10455700" >
+			<content effect_num="0" >风刮得越来越猛，漫天的雪令我们连睁眼都困难。</content> 
+	</para_msg>
+  <para_msg paragraph="10455800" >
+			<content effect_num="0" index="1">全身上下每一处都在抗拒着继续行动下去的指令。</content>		
+	    <content effect_num="0" index="2">但不行，不能在这儿倒下。</content>	
+	</para_msg>
+  <para_msg paragraph="10455900" >
+			<content effect_num="0" >我们的使命……还未完成。</content>  		   		    
+	</para_msg>
+  <para_msg paragraph="10456000" >
+			<content effect_num="0" talker="巴塞特">如果可以的话，我真不想对女人动手。</content>  
+	</para_msg>
+  <para_msg paragraph="10456100" >
+			<content effect_num="0" talker="司马雪">哎呀哎呀，你这句话是逞强呢，还是示弱呢？</content> 
+	</para_msg>
+  <para_msg paragraph="10456200" >
+			<content effect_num="0" talker="巴塞特">随你怎么想……娜薇，卡尔，我们上。</content>			
+	</para_msg>
+  <para_msg paragraph="10456300" >
+			<content effect_num="0" talker="巴塞特">我希望……这一次能把该了结的事情都了结了。</content>
+	</para_msg>
+  <para_msg paragraph="10456400" >
+			<content effect_num="0">我在内心告诫自己，不能再被那张脸蒙蔽内心了。</content>		
+	</para_msg>
+  <para_msg paragraph="10456500" >
+			<content effect_num="0" >——绝对不能。</content>	
+	</para_msg>
+  <para_msg paragraph="10456600" >
+			<content effect_num="0" >因为，我现在还有更重要的事要做，有更重要的人要守护。</content>					
+	</para_msg>
+  <para_msg paragraph="10456700" >
+			<content effect_num="0" >这么想着的时候，我最后朝娜薇看了一眼。</content>	
+	</para_msg>
+  <para_msg paragraph="10456800" >
+			<content effect_num="0" index="1">她的神情异乎寻常的坚定。</content>		
+	    <content effect_num="0" index="2">从第一天与她相遇开始，她就没变过。</content>	
+	</para_msg>
+  <para_msg paragraph="10456900" >
+			<content effect_num="0" >也许是被她感染，我的心也缓和了下来。</content>    		
+	</para_msg>
+  <para_msg paragraph="10457000" end_scence_sound="true">
+			<content effect_num="0" >我早该明白才对……我心中最深的愿望……</content>
+	</para_msg>
+  <para_msg paragraph="10457100" start_scence_sound="950004.mp3">
+			<content effect_num="2" >但，我面临的却是和许多年前我杀死那个女人时的那一仗，何其相似的战斗……</content>		
+	</para_msg>
+  <para_msg paragraph="10457200" >
+			<content effect_num="0" >明明已经做出了嚣张的宣言，甚至在我们面前展露了圣痕，她却像是放弃胜利一样，消极地抵挡我们的进攻。</content>	
+	</para_msg>
+  <para_msg paragraph="10457300" >
+			<content effect_num="0" >——完全不反击，从一开始她就把自己摆在被动挨打的地位上。</content>		
+	</para_msg>
+  <para_msg paragraph="10457400" >
+			<content effect_num="0" >而且，她的目光始终落在我身上，脸上挂着诡异的微笑。</content>
+	</para_msg>
+  <para_msg paragraph="10457500" >
+			<content effect_num="0" >太像了……不管是那张脸，还是此刻的行为，都太像当年那个女人了。</content>		
+	</para_msg>
+  <para_msg paragraph="10457600" >
+			<content effect_num="0" >为什么？她难道知晓我的痛处，故意要将以往的回忆再次展示给我看吗？</content>	
+	</para_msg>
+  <para_msg paragraph="10457700" >
+			<content effect_num="0" >我明明已经下定决心不再去想的。明明已经决定了的。</content>	
+	</para_msg>
+  <para_msg paragraph="10457800" >
+			<content effect_num="0" >她就这样看着我，直到支持不住，跪倒在地。</content>		
+	</para_msg>
+  <para_msg paragraph="10457900" >
+			<content effect_num="0" >结束了——这场战斗对我而言更像是一场拷问。</content>	
+	</para_msg>
+  <para_msg paragraph="10458000" >
+			<content effect_num="0" >终于结束了……</content>		
+	</para_msg>
+  <para_msg paragraph="10458100" end_scence_sound="true">
+			<content effect_num="0" talker="司马雪">…… ……</content>		
+	</para_msg>
+  <para_msg paragraph="10458200" >
+			<content effect_num="0" talker="司马雪">唔，我战败了？</content>	
+	</para_msg>
+  <para_msg paragraph="10458300" >
+			<content effect_num="0" index="1" talker="巴塞特">嗯。所以赶快放下武器。</content>		
+	    <content effect_num="0" index="2" talker="巴塞特">我们要在这儿逮捕你，将你移交教会审判。</content>
+	</para_msg>
+  <para_msg paragraph="10458400" >
+			<content effect_num="0" talker="司马雪">哎呀，听上去很可怕的样子。</content>    				
+	</para_msg>
+  <para_msg paragraph="10458500" >
+			<content effect_num="0" talker="司马雪">但是呢……</content>	
+	</para_msg>
+  <para_msg paragraph="10458600" start_scence_sound="950003.mp3">
+			<content effect_num="0" >她突然低下头，嘴唇开始飞快地翻动。</content>		
+	</para_msg>
+  <para_msg paragraph="10458700" >
+			<content effect_num="0" >这个动作令我意想不到。同样作为魔法使，我立刻就反应过来，她是在吟唱法术。</content>																					
+	</para_msg>
+  <para_msg paragraph="10458800" >
+			<content effect_num="0" >来不及多想了，我举起右手，准备利落地结束她的性命。</content>	
+	</para_msg>
+  <para_msg paragraph="10458900" >
+			<content effect_num="1" index="1" >但是，手刚刚扬起来，身子就突然僵住了，一动也不能动。</content>		
+	    <content effect_num="0" index="2" >在我们脚下，赫然出现了一个巨大的魔法阵。</content>	
+	</para_msg>
+  <para_msg paragraph="10459000" >
+			<content effect_num="1" talker="卡尔">糟糕，我们上当了！</content>	
+	</para_msg>
+  <para_msg paragraph="10459100" >
+			<content effect_num="0" talker="阿娜丝塔夏">是反魔法结界……不对，是更高阶的法术，是……！</content>	
+	</para_msg>
+  <para_msg paragraph="10459200" >
+			<content effect_num="0" index="1" talker="司马雪">是范围僵化术，对我来说得花费点时间来施展的能力。</content>		
+	    <content effect_num="0" index="2" talker="司马雪">这是你们第二次掉进陷阱了哦。</content>	
+	</para_msg>
+  <para_msg paragraph="10459300" >
+			<content effect_num="0" index="1" talker="司马雪">如何？行动被封死的滋味。</content>		
+	    <content effect_num="0" index="2" talker="司马雪">这个魔法阵我在昨天就布置好了，专等你们上钩。</content>	
+	</para_msg>
+  <para_msg paragraph="10459400" >
+			<content effect_num="0" talker="巴塞特">见鬼……</content>	
+	</para_msg>
+  <para_msg paragraph="10459500" >
+			<content effect_num="0" talker="司马雪">嘿嘿，你们有你们的使命要完成，但我也一样。</content>			        				    		
+	</para_msg>
+  <para_msg paragraph="10459600" >
+			<content effect_num="0" talker="司马雪">我要打败你们，然后当着你们的面拿走原罪，让这个世界朝正确的方向发展。</content>	
+	</para_msg>
+  <para_msg paragraph="10459700" >
+			<content effect_num="0" talker="司马雪">黄昏之铃不能容忍凡人永远被天堂欺骗和奴役。</content>	
+	</para_msg>
+  <para_msg paragraph="10459800" >
+			<content effect_num="0" talker="司马雪">至于你们这些天堂的走狗，我不打算留情。</content>	
+	</para_msg>
+  <para_msg paragraph="10459900" >
+			<content effect_num="0" talker="司马雪">我不会杀掉你的同伴，我要看着他们背负耻辱活下去。</content>	
+	</para_msg>
+  <para_msg paragraph="10460000" >
+			<content effect_num="0" talker="司马雪">但是，对于你，巴塞特修士……</content>	
+	</para_msg>
+  <para_msg paragraph="10460100" >
+			<content effect_num="0" >她的话停顿了一会儿。</content>		
+	</para_msg>
+  <para_msg paragraph="10460200" >
+			<content effect_num="0" >大概是想故意激怒我，她径直走到动弹不得的我面前，将箭头顶在我的心脏部位上。</content>
+	</para_msg>
+  <para_msg paragraph="10460300" >
+			<content effect_num="0" >与现在带给我的巨大压迫感截然相反的是，她的笑容依旧迷人。</content>
+	</para_msg>
+  <para_msg paragraph="10460400" >
+			<content effect_num="0" talker="司马雪">你是结界法术大师，如果我对你放着不管的话，说不定一会儿你会想出破解的办法，然后坏了我的好事。</content>			
+	</para_msg>
+  <para_msg paragraph="10460500" >
+			<content effect_num="0" talker="司马雪">唉，你看。有时候有一技之长并不见得就是什么好事呢！</content>	
+	</para_msg>
+  <para_msg paragraph="10460600" >
+			<content effect_num="0" talker="阿娜丝塔夏">你……你这个恶妇，要做什么？！</content>	
+	</para_msg>
+  <para_msg paragraph="10460700" >
+			<content effect_num="0" talker="司马雪">…… ……</content>		
+	</para_msg>
+  <para_msg paragraph="10460800" >
+			<content effect_num="0" >娜薇的叱骂让司马雪沉默了一会儿。但她的目光始终没有从我身上移开。</content>		
+	</para_msg>
+  <para_msg paragraph="10460900" >
+			<content effect_num="0" talker="司马雪">记得之前腹部中的箭么？亲爱的巴塞特修士。</content>								
+	</para_msg>
+  <para_msg paragraph="10461000" >
+			<content effect_num="0" talker="司马雪">是我干的哦。</content>		
+	</para_msg>
+  <para_msg paragraph="10461100" >
+		  <content effect_num="0" talker="司马雪">不过呢，那一箭并不是为了杀你，而是为了在不接近你的前提下找到你身体铭刻圣痕的位置。</content>	
+  </para_msg>
+  <para_msg paragraph="10461200" >
+			<content effect_num="0" index="1" talker="司马雪">之前化装接近你的刺杀计划失败后，我想到了一个万无一失的主意。</content>		
+	    <content effect_num="0" index="2" talker="司马雪">我在箭头上刻了一个魔法印记。这个印记在射中你之后就起效了,它会在你全身上下游走，寻找圣痕实体。</content>		
+	</para_msg>
+  <para_msg paragraph="10461300" >
+			<content effect_num="0" talker="司马雪">我一直耐心和你们周旋，就是为了等待这一时刻。</content>	      
+	</para_msg>
+  <para_msg paragraph="10461400" >
+			<content effect_num="0" talker="司马雪">真是聪明呢，将圣痕刻在最靠近心脏的部位……</content>	
+	</para_msg>
+  <para_msg paragraph="10461500" >
+			<content effect_num="0" talker="巴塞特">…… ……</content>			  
+  </para_msg>
+  <para_msg paragraph="10461600" >
+			<content effect_num="0" talker="巴塞特">已经被找到了么……</content>
+	</para_msg>
+  <para_msg paragraph="10461700" >
+			<content effect_num="0" talker="司马雪">当知道铭刻者必须被摧毁圣痕实体之后才会死亡之后，你的敌人就会把注意力放在寻找圣痕上，而不是按往常的方法攻击身体要害部位。</content>				
+  </para_msg>
+  <para_msg paragraph="10461800" >
+			<content effect_num="0" talker="司马雪">结果，最危险的地方反而成了最安全的地方。</content>	
+  </para_msg>
+  <para_msg paragraph="10461900" >
+			<content effect_num="0" talker="司马雪">可惜啊，真可惜……巴塞特修士，现在我们得道别了。</content>	
+	</para_msg>
+  <para_msg paragraph="10462000" >
+			<content effect_num="0" >我明白，这场斗智斗勇的较量结束了。</content>		
+  </para_msg>
+  <para_msg paragraph="10462100" >
+			<content effect_num="0" >曾对自己力量无比自信的我，最终败在了这个少女手下。</content>	
+  </para_msg>
+  <para_msg paragraph="10462200" >
+			<content effect_num="0" >至于等待着我的结局，自然是……</content>	
+  </para_msg>
+  <para_msg paragraph="10462300" >
+			<content effect_num="1" sound="960002.mp3">好痛……</content>	
+  </para_msg>
+  <para_msg paragraph="10462400" >
+			<content effect_num="0" >这，就是死亡到来时的痛苦吗？</content>	
+  </para_msg>
+  <para_msg paragraph="10462500" >
+			<content effect_num="0" >利箭分毫不差穿透心脏的感觉，原来是这样难受。</content>	
+	</para_msg>
+  <para_msg paragraph="10462600" end_scence_sound="true">
+			<content effect_num="1" talker="阿娜丝塔夏">巴塞特————！</content>	
+	</para_msg>
+  <para_msg paragraph="10462700" start_scence_sound="950009.mp3">
+			<content effect_num="0" talker="巴塞特">呜——！</content>	
+	</para_msg>
+  <para_msg paragraph="10462800" >
+			<content effect_num="0" talker="阿娜丝塔夏">我……我……</content>								
+	</para_msg>
+  <para_msg paragraph="10462900" >
+			<content effect_num="0" talker="阿娜丝塔夏">啊……啊啊……</content>				
+ 	</para_msg>
+  <para_msg paragraph="10463000" >
+			<content effect_num="1" talker="阿娜丝塔夏">啊啊啊啊啊啊啊啊啊啊啊啊——！</content>	
+ 	</para_msg>
+  <para_msg paragraph="10463100" >
+			<content effect_num="0" talker="卡尔">等等！冷静下来！</content>				 
+ 	</para_msg>
+  <para_msg paragraph="10463200" >
+			<content effect_num="0" talker="阿娜丝塔夏">杀了她！我要杀了她！</content>	  
+ 	</para_msg>
+  <para_msg paragraph="10463300" >
+			<content effect_num="0" talker="阿娜丝塔夏">我要把她像纸一样撕个稀烂！</content>
+	</para_msg>
+  <para_msg paragraph="10463400" >
+			<content effect_num="0" talker="巴塞特">等一下……不……不要自乱阵脚……</content>				  	
+ 	</para_msg>
+  <para_msg paragraph="10463500" >
+			<content effect_num="0" talker="巴塞特">呜——哇！</content> 
+	</para_msg>
+  <para_msg paragraph="10463600" >
+			<content effect_num="0" index="1" >身体失去了平衡，跪倒在地。</content>		
+	    <content effect_num="0" index="2" >脚下的白雪，已经被染成了红色。</content>		
+ 	</para_msg>
+  <para_msg paragraph="10463700" >
+			<content effect_num="0" >圣痕实体被毁掉了，我的生命即将结束。</content>	
+	</para_msg>
+  <para_msg paragraph="10463800" >
+			<content effect_num="0" index="1" >意识很快就开始涣散。</content>		
+	    <content effect_num="0" index="2" >在逐渐模糊的视野中，唯一清晰的是那个暴怒的身影。</content>	
+	</para_msg>
+  <para_msg paragraph="10463900" >
+			<content effect_num="0" >是娜薇。她在嚎叫，像狼一样。</content>    
+	</para_msg>
+  <para_msg paragraph="10464000" >
+			<content effect_num="0" index="1" >我竟然忘记了，她曾经像野兽那样生存着，度过了很长时间。</content>		
+	    <content effect_num="0" index="2" >那段岁月带给她的是像狼一样的兽性，而她在后来一直拼命压抑着这危险的原始本能。</content>	
+	</para_msg>
+  <para_msg paragraph="10464100" >
+			<content effect_num="0" >但现在……她已经被兽性吞噬，丧失了作为人的理智。</content>        					    	
+  </para_msg>
+  <para_msg paragraph="10464200" >
+			<content effect_num="0" >不行，快来人阻止她。这样下去的话，她会被自己毁掉的！</content> 
+	</para_msg>
+  <para_msg paragraph="10464300" >
+			<content effect_num="0" index="1" >如果那样的话，她这么多年以来的成长就完全白费了。</content>		
+	    <content effect_num="0" index="2" >我绝对不要这种事发生！</content>	
+	</para_msg>
+  <para_msg paragraph="10464400" next_p="10464600">
+			<content effect_num="0" >快点……谁来阻止她……</content> 
+	</para_msg>
+  <para_msg paragraph="10464600" >
+			<content effect_num="2" talker="司马雪">…… ……</content> 		
+	</para_msg>
+  <para_msg paragraph="10464700" >
+			<content effect_num="0" talker="司马雪">这个女人……难道不是人类吗？</content> 
+	</para_msg>
+  <para_msg paragraph="10464800" >
+			<content effect_num="0" talker="阿娜丝塔夏">嗷——</content> 						
+  </para_msg>
+  <para_msg paragraph="10464900" >
+			<content effect_num="1" talker="阿娜丝塔夏">嗷呜——！</content>
+	</para_msg>
+  <para_msg paragraph="10465000" >
+			<content effect_num="0" talker="司马雪">！！！</content> 		 	
+	</para_msg>
+  <para_msg paragraph="10465100" >
+			<content effect_num="0" talker="司马雪">……怎么可能？！</content> 
+	</para_msg>
+  <para_msg paragraph="10465200" >
+			<content effect_num="0" talker="司马雪">竟然突破了结界？</content> 
+  </para_msg>
+  <para_msg paragraph="10465300" >
+			<content effect_num="0" talker="阿娜丝塔夏">嗷嗷嗷嗷嗷——！</content>	
+	</para_msg>
+  <para_msg paragraph="10465400" >
+			<content effect_num="0" talker="卡尔">太好了！既然已经突破了，就赶快……</content>					
+	</para_msg>
+  <para_msg paragraph="10465500" >
+			<content effect_num="0" talker="阿娜丝塔夏">我要把你的每一滴血都喝干！</content>	
+	</para_msg>
+  <para_msg paragraph="10465600" >
+			<content effect_num="0" talker="卡尔">…… ……</content>	
+	</para_msg>
+  <para_msg paragraph="10465700" >
+			<content effect_num="0" talker="卡尔">好了，已经够了！你现在赶快到原罪的封印处去！</content>	
+	</para_msg>
+  <para_msg paragraph="10465800" >
+			<content effect_num="0" talker="卡尔">你没听到我说话吗？！阿娜……</content>	
+ 	</para_msg>
+  <para_msg paragraph="10465900" >
+			<content effect_num="0" talker="阿娜丝塔夏">杀……全杀掉……</content> 	
+	</para_msg>
+  <para_msg paragraph="10466000" >
+			<content effect_num="0" talker="阿娜丝塔夏">全都杀掉！！！你也不例外！！！</content>	
+  </para_msg>
+  <para_msg paragraph="10466100" >
+			<content effect_num="0" />			
+	</para_msg>
+  <para_msg paragraph="10466200" >
+			<content effect_num="0" talker="卡尔">……！</content>	
+	</para_msg>
+  <para_msg paragraph="10466300" >
+			<content effect_num="0" talker="卡尔">你……你疯了……</content>
+	</para_msg>
+  <para_msg paragraph="10466400" >
+			<content effect_num="0" talker="司马雪">竟然对同伴动手，这就是教会忠犬的本性？</content>							
+	</para_msg>
+  <para_msg paragraph="10466500" >
+			<content effect_num="0" talker="司马雪">这样的话，我就更不愿被你那肮脏的爪子杀死了！</content>
+	</para_msg>
+  <para_msg paragraph="10466600" >
+			<content effect_num="0" talker="司马雪">要死的……是你！</content>
+	</para_msg>
+  <para_msg paragraph="10466700" >
+			<content effect_num="0" talker="司马雪">第一箭……可恶，动作好快……</content>	
+	</para_msg>
+  <para_msg paragraph="10466800" >
+			<content effect_num="3" effect_type="timerStop" talker="阿娜丝塔夏">你跑不掉的！</content>			
+	</para_msg>
+  <para_msg paragraph="10466900" >
+			<content effect_num="0" talker="司马雪">第二箭。</content>
+	</para_msg>
+  <para_msg paragraph="10467000" >
+			<content effect_num="3" effect_type="timerStop" talker="阿娜丝塔夏">太慢了！看我把你的胳膊拆下来！</content>
+	</para_msg>
+  <para_msg paragraph="10467100" >
+			<content effect_num="0" talker="司马雪">三……四……</content>
+	</para_msg>
+  <para_msg paragraph="10467200" >
+			<content effect_num="3" effect_type="timerStop" talker="阿娜丝塔夏">我看见你的心脏啦！鲜活的、跳动的心脏！</content>
+	</para_msg>
+  <para_msg paragraph="10467300" >
+			<content effect_num="0" talker="阿娜丝塔夏">让我吃掉它吧！</content>
+	</para_msg>
+  <para_msg paragraph="10467400" >
+			<content effect_num="0" talker="司马雪">最后一箭。</content>
+	</para_msg>
+  <para_msg paragraph="10467500" >
+			<content effect_num="0" talker="司马雪">游戏结束了，你这只恶犬。</content>
+	</para_msg>
+  <para_msg paragraph="10467600" >
+			<content effect_num="0" talker="阿娜丝塔夏">嗷呜————！</content>			
+	</para_msg>
+  <para_msg paragraph="10467700" >
+			<content effect_num="0" talker="阿娜丝塔夏">…… ……</content>	
+	</para_msg>
+  <para_msg paragraph="10467800" >
+			<content effect_num="0" talker="司马雪">怎样？是不是又动不了了？</content>					
+	</para_msg>
+  <para_msg paragraph="10467900" >
+			<content effect_num="0" talker="司马雪">对付野兽，捕兽夹自然是最好的。</content>		
+	</para_msg>
+  <para_msg paragraph="10468000" >
+			<content effect_num="0" talker="司马雪">不要以为你动作很快所以我完全射不中。实际上我也没打算射你。</content>			
+	</para_msg>
+  <para_msg paragraph="10468100" >
+			<content effect_num="0" talker="司马雪">我只需要带着你跑圈，顺便用箭布置一个简单的结界就够了。就像我刚才对你们做的那样。</content>	
+	</para_msg>
+  <para_msg paragraph="10468200" >
+			<content effect_num="0" talker="阿娜丝塔夏">嗷嗷嗷嗷——！</content>	
+	</para_msg>
+  <para_msg paragraph="10468300" >
+			<content effect_num="0" talker="司马雪">尽管叫吧，叫破喉咙也没用的。</content>								
+	</para_msg>
+  <para_msg paragraph="10468400" next_p="10468600">
+			<content effect_num="0" talker="司马雪">再见了。等着目睹世界被改变的一刻吧。</content>		
+	</para_msg>
+  <para_msg paragraph="10468600" end_scence_sound="true">
+			<content effect_num="2" >…… ……</content>	
+	</para_msg>
+  <para_msg paragraph="10468700" >
+			<content effect_num="0" index="1" >冷……很冷……</content>		
+	    <content effect_num="0" index="2" >连骨头都要被冻僵了。</content>
+	</para_msg>
+  <para_msg paragraph="10468800" >
+			<content effect_num="0" >没想到，自己会以这样的方式死去。</content>	  
+	</para_msg>
+  <para_msg paragraph="10468900" >
+			<content effect_num="0" >——不甘心。</content>	
+	</para_msg>
+  <para_msg paragraph="10469000" >
+			<content effect_num="0" >虽然对于我这样的人来说，这也算是死得其所，但就是不甘心。</content>	
+	</para_msg>
+  <para_msg paragraph="10469100" >
+			<content effect_num="0" >没能完成任务，在最不能败北的时候遭遇了惨重的失败。</content>						  					
+	</para_msg>
+  <para_msg paragraph="10469200" >
+			<content effect_num="0" >接下来将要发生什么，光是想想就觉得非常可怕。</content>		
+	</para_msg>
+  <para_msg paragraph="10469300" >
+			<content effect_num="0" >但是，脑子里并没有浮现出世界崩溃时的景象。</content>		
+	</para_msg>
+  <para_msg paragraph="10469400" >
+			<content effect_num="0" index="1" >在残留的意识中，唯一清晰的是那位少女的脸。</content>		
+	    <content effect_num="0" index="2" >在我与她第一次相遇的那天，摘下头盔的她，让我看到的那张脸。</content>	
+	</para_msg>
+  <para_msg paragraph="10469500" >
+			<content effect_num="0" >那时候我没有想到，很多很多年以后，她会在我心中占据那么重要的地位。</content>	   
+	</para_msg>
+  <para_msg paragraph="10469600" >
+			<content effect_num="0" >我不愿与她分离。</content>	 		 	
+	</para_msg>
+  <para_msg paragraph="10469700" >
+			<content effect_num="0" >——绝不愿意。</content>	 
+	</para_msg>
+  <para_msg paragraph="10469800" >
+			<content effect_num="2" />
+	</para_msg>
+  <para_msg paragraph="10469900" start_scence_sound="960010.mp3">
+			<content effect_num="2" >是时候了。</content>	 
+	</para_msg>
+  <para_msg paragraph="10470000" >
+			<content effect_num="0" >取下原罪，将本来就应该属于凡人的东西归还给他们。</content>	 			
+	</para_msg>
+  <para_msg paragraph="10470100" >
+			<content effect_num="0" >旧的秩序将被颠覆，一个新时代会在天堂的废墟上诞生。</content>	
+	</para_msg>
+  <para_msg paragraph="10470200" >
+			<content effect_num="0" index="1" >凡人获得神力，而神失去信仰。</content>		
+	    <content effect_num="0" index="2" >天堂被黑暗笼罩，地狱充满光明。</content>	
+	</para_msg>
+  <para_msg paragraph="10470300" next_p="10470500" end_scence_sound="true">
+			<content effect_num="0" index="1" >革命时刻到来了。</content>		
+	    <content effect_num="0" index="2" >讴歌吧，为这场改变历史的胜利。</content>
+	</para_msg>
+  <para_msg paragraph="10470500" start_scence_sound="960011.mp3">
+			<content effect_num="2" talker="卡尔">见鬼……见鬼见鬼见鬼！</content>					        
+	</para_msg>
+  <para_msg paragraph="10470600" >
+			<content effect_num="0" talker="卡尔">笨女人，快趴下！冲击要来了！</content>	    		 		
+	</para_msg>
+  <para_msg paragraph="10470700" >
+			<content effect_num="0" talker="卡尔">还那样站着的话会死的！</content>	
+	</para_msg>
+  <para_msg paragraph="10470800" >
+			<content effect_num="0" talker="阿娜丝塔夏">嗷——！</content>	
+	</para_msg>
+  <para_msg paragraph="10470900" >
+			<content effect_num="0" talker="卡尔">趴下——！</content>								
+	</para_msg>
+  <para_msg paragraph="10471000" >
+			<content effect_num="0" talker="卡尔">可恶……我的脚……不能动……</content>			
+	</para_msg>
+  <para_msg paragraph="10471100" >
+			<content effect_num="0" talker="卡尔">趴下啊——！</content>	
+	</para_msg>
+  <para_msg paragraph="10471200" >
+			<content effect_num="0" talker="巴塞特">…… ……</content>					
+	</para_msg>
+  <para_msg paragraph="10471300" >
+			<content effect_num="0" talker="巴塞特">我们……失败了吗……已经无法挽救了吗……</content>		
+	</para_msg>
+  <para_msg paragraph="10471400" >
+			<content effect_num="0" talker="卡尔">巴塞特！</content>	
+	</para_msg>
+  <para_msg paragraph="10471500" >
+			<content effect_num="0" >我也不知道自己怎么还能站起来。</content>						
+	</para_msg>
+  <para_msg paragraph="10471600" >
+			<content effect_num="0" >本来连自己都以为死定了。但是，我竟然还是站了起来。</content>		
+	</para_msg>
+  <para_msg paragraph="10471700" >
+			<content effect_num="0" >迎面刮来的狂风，比最锋利的刀子还要凛冽。</content>		
+	</para_msg>
+  <para_msg paragraph="10471800" >
+			<content effect_num="0" >原罪已经被拿走了，这个世界在崩坏。</content>		
+	</para_msg>
+  <para_msg paragraph="10471900" >
+			<content effect_num="0" >这不重要，一点都不重要。</content>	
+	</para_msg>
+  <para_msg paragraph="10472000" >
+			<content effect_num="0" index="1" >唯一重要的是，她还傻傻地站在那儿。</content>		
+	    <content effect_num="0" index="2" >她可能会死。这不行，一点都不行。</content>	
+	</para_msg>
+  <para_msg paragraph="10472100" >
+			<content effect_num="0" index="1" >她不应该再受到戕害，她受的苦已经够多了。</content>		
+	    <content effect_num="0" index="2" >她必须活下去，获得幸福。如果神不祝福她的话，我就第一个站出来反抗神。</content>	
+	</para_msg>
+  <para_msg paragraph="10472200" >
+			<content effect_num="0" >——就算耗尽我的生命，就算永远告别轮回。</content>  
+	</para_msg>
+  <para_msg paragraph="10472300" >
+			<content effect_num="0" >——只要她能活着，我就已经满足。</content>  		      			
+	</para_msg>
+  <para_msg paragraph="10472400" >
+			<content effect_num="0" talker="巴塞特">——！</content>
+	</para_msg>
+  <para_msg paragraph="10472500" >
+			<content effect_num="1" >我喊了什么话呢？</content>	
+	</para_msg>
+  <para_msg paragraph="10472600" >
+			<content effect_num="0" >连我自己都不知道……</content>		
+	</para_msg>
+  <para_msg paragraph="10472700" >
+			<content effect_num="0" talker="阿娜丝塔夏">…… ……</content>								
+	</para_msg>
+  <para_msg paragraph="10472800" >
+			<content effect_num="0" talker="阿娜丝塔夏">……巴……塞特……</content>	
+	</para_msg>
+  <para_msg paragraph="10472900" >
+			<content effect_num="0" />
+	</para_msg>
+  <para_msg paragraph="10473000" end_scence_sound="true">
+			<content effect_num="2" >醒来时，发现自己的眼泪不住地往外流。</content>	
+	</para_msg>
+  <para_msg paragraph="10473100" start_scence_sound="950004.mp3">
+			<content effect_num="0" index="1" >梦中的我死了。</content>		
+	    <content effect_num="0" index="2" >非常俗气的，为了保护自己所爱的人而死。</content>	
+	</para_msg>
+  <para_msg paragraph="10473200" >
+			<content effect_num="0" >身体被凛风撕成碎片的瞬间，痛觉是如此清晰。即使梦醒之后依然残留着。</content>	
+	</para_msg>
+  <para_msg paragraph="10473300" >
+			<content effect_num="0" >我……非常急迫地希望立刻把这场梦彻底忘却。</content>			    		
+	</para_msg>
+  <para_msg paragraph="10473400" >
+			<content effect_num="0" >我无法接受这样的结局，更无法接受来自内心深处的猜测。</content>			
+	</para_msg>
+  <para_msg paragraph="10473500" >
+			<content effect_num="0" >那个名叫巴塞特的男人，与我有着近乎可怕的深切联系。</content>	
+	</para_msg>
+  <para_msg paragraph="10473600" >
+			<content effect_num="0" talker="李俊明">呜……</content>
+	</para_msg>
+  <para_msg paragraph="10473700" >
+			<content effect_num="0" >这一次，胸口的痛比之前任何时候都要来得真实。</content>									
+	</para_msg>
+  <para_msg paragraph="10473800" >
+			<content effect_num="0" >我把手放在胸口上，掌心传来濡湿的触感。</content>			
+	</para_msg>
+  <para_msg paragraph="10473900" >
+			<content effect_num="0" >把手收回来之后，看到的是鲜红色的一片。</content>			
+	</para_msg>
+  <para_msg paragraph="10474000" >
+			<content effect_num="0" >是我的血，既虚幻得难以理喻，又真实得可怕的东西。</content>			
+	</para_msg>
+  <para_msg paragraph="10474100" >
+			<content effect_num="0" >血一滴一滴地从伤口处渗出，怎么都止不住。</content>	
+	</para_msg>
+  <para_msg paragraph="10474200" >
+			<content effect_num="0" talker="？？？">哟，还活着啊。</content>				
+	</para_msg>
+  <para_msg paragraph="10474300" >
+			<content effect_num="0" talker="李俊明">啊？</content>
+	</para_msg>
+  <para_msg paragraph="10474400" >
+			<content effect_num="0" >这声音……是卢医生。</content>					
+	</para_msg>
+  <para_msg paragraph="10474500" >
+			<content effect_num="0" >把音姐带走的她，不知何时又回到了这里。</content>					
+	</para_msg>
+  <para_msg paragraph="10474600" >
+			<content effect_num="0" >她的口气和上一次大不相同，不再有咄咄逼人的杀气，温和了许多。</content>	
+	</para_msg>
+  <para_msg paragraph="10474700" >
+			<content effect_num="0" talker="卢缘">想通了吗？关于你存在于这世上的原因。</content>	
+	</para_msg>
+  <para_msg paragraph="10474800" >
+			<content effect_num="0" index="1" talker="卢缘">……似乎我有点明知故问。</content>		
+	    <content effect_num="0" index="2" talker="卢缘">如果你想通了的话，就不会还活着了。</content>	
+	</para_msg>
+  <para_msg paragraph="10474900" >
+			<content effect_num="0" talker="卢缘">之所以还没有消失，还以基本完整的人类姿态站在这儿，就说明你依然对这个世界有所眷念吧？</content>	    				
+	</para_msg>
+  <para_msg paragraph="10475000" >
+			<content effect_num="0" talker="卢缘">但是，那样会让她也跟着受苦。</content>
+	</para_msg>
+  <para_msg paragraph="10475100" >
+			<content effect_num="0" talker="李俊明">“她”……是指音姐？</content>
+	</para_msg>
+  <para_msg paragraph="10475200" >
+			<content effect_num="0" talker="卢缘">事到如今你还这样称呼她？</content>									
+	</para_msg>
+  <para_msg paragraph="10475300" >
+			<content effect_num="0" talker="卢缘">不要太自私啊，李俊明……不对，应该叫你巴塞特-克里昂才对。</content>	
+	</para_msg>
+  <para_msg paragraph="10475400" >
+			<content effect_num="0" >她说出了梦中那个我的名字。</content>						
+	</para_msg>
+  <para_msg paragraph="10475500" >
+			<content effect_num="0" >我明白的，我其实早就明白的。</content>				
+	</para_msg>
+  <para_msg paragraph="10475600" >
+			<content effect_num="0" >只是，我不想承认，不愿相信这样的事实。</content>				
+	</para_msg>
+  <para_msg paragraph="10475700" >
+			<content effect_num="0" >因为，如果梦才是真正的现实，那么我应该是已经死去的人才对。</content>				
+	</para_msg>
+  <para_msg paragraph="10475800" >
+			<content effect_num="0" >但是，我明明在这里，明明是活着的。</content>				
+	</para_msg>
+  <para_msg paragraph="10475900" >
+			<content effect_num="0" >我会笑、会哭、会苦恼、会喜悦、会痛、会流血、会思念一个人……这些都是真实的。</content>		
+	</para_msg>
+  <para_msg paragraph="10476000" >
+			<content effect_num="0" index="1" >明明已经真正体会到了活着的实感……</content>		
+	    <content effect_num="0" index="2" >明明期盼着与她一同生活下去……</content>	
+	</para_msg>
+  <para_msg paragraph="10476100" >
+			<content effect_num="0" >但是，却被告知这一切都是假的。这叫我怎么接受？</content>	
+	</para_msg>
+  <para_msg paragraph="10476200" >
+			<content effect_num="0" talker="卢缘">看你这样子，好像还是不愿意接受事实？</content>				    				
+	</para_msg>
+  <para_msg paragraph="10476300" >
+			<content effect_num="0" talker="卢缘">罢了，耳听为虚，眼见为实。</content>				
+	</para_msg>
+  <para_msg paragraph="10476400" >
+			<content effect_num="0" talker="卢缘">我只好对不起你了，不过请睁大眼睛瞧清楚。</content>
+	</para_msg>
+  <para_msg paragraph="10476500" >
+			<content effect_num="0">她又一次举起了弓，对准我的心脏。</content>
+	</para_msg>
+  <para_msg paragraph="10476600" >
+			<content effect_num="0" talker="李俊明">要杀了我吗？</content>	
+	</para_msg>
+  <para_msg paragraph="10476700" >
+			<content effect_num="0" talker="卢缘">可以这么理解。</content>
+	</para_msg>
+  <para_msg paragraph="10476800" >
+			<content effect_num="0" index="1" talker="卢缘">这儿不是你应该待的地方。</content>		
+	    <content effect_num="0" index="2" talker="卢缘">梦该醒了，巴塞特。</content>	
+	</para_msg>
+  <para_msg paragraph="10476900" >
+			<content effect_num="0" >这一次，她毫不犹豫地松开弓弦。</content>    										
+	</para_msg>
+  <para_msg paragraph="10477000" >
+			<content effect_num="0" >真是优雅的姿态。一如梦中那个孤零零伫立于雪中的、来自黑暗世界的少女。</content> 			
+	</para_msg>
+  <para_msg paragraph="10477100" >
+			<content effect_num="0" sound="960002.mp3">带着疾风的箭矢，穿过身体的感觉既熟悉又陌生。</content> 		
+	</para_msg>
+  <para_msg paragraph="10477200" >
+			<content effect_num="0" >对我来说，只是梦中体会过的痛楚又重复一次罢了。</content> 			
+	</para_msg>
+  <para_msg paragraph="10477300" >
+			<content effect_num="0" >但是，这一箭却让流血停止了。</content> 			
+	</para_msg>
+  <para_msg paragraph="10477400" >
+			<content effect_num="0" >箭矢透过的地方，扬起了轻飘飘的烟雾。</content> 			
+	</para_msg>
+  <para_msg paragraph="10477500" >
+			<content effect_num="0" >从伤口处涌出的不再是血，而是怪异的、晶莹的粉末，缓缓向天上飘去。</content> 
+	</para_msg>
+  <para_msg paragraph="10477600" >
+			<content effect_num="0" talker="卢缘">…… ……</content>						
+	</para_msg>
+  <para_msg paragraph="10477700" >
+			<content effect_num="0" talker="卢缘">她的罪名是强行通过连接点、从战场上逃亡、以及非法制造假身。</content>					
+	</para_msg>
+  <para_msg paragraph="10477800" >
+			<content effect_num="0" talker="卢缘">我已经破坏了布置在你体内的结界。这个虚假的身体很快就会回归它的本质。</content>			
+	</para_msg>
+  <para_msg paragraph="10477900" >
+			<content effect_num="0" talker="卢缘">你的灵魂将彻底解放，你曾希望守护的人也会因此解除罪名。</content>	
+	</para_msg>
+  <para_msg paragraph="10478000" >
+			<content effect_num="0" talker="李俊明">你在说什么……</content>							
+	</para_msg>
+  <para_msg paragraph="10478100" >
+			<content effect_num="0" talker="李俊明">我……完全不明白……</content>	
+	</para_msg>
+  <para_msg paragraph="10478200" >
+			<content effect_num="0" index="1" talker="卢缘">铭刻圣痕的人，把自己的人格和记忆全部刻印到了圣痕里。</content>		
+	    <content effect_num="0" index="2" talker="卢缘">只要圣痕的实体不被破坏，灵魂就不会死亡。</content>
+	</para_msg>
+  <para_msg paragraph="10478300" >
+			<content effect_num="0" >她用冷漠的口气开始解释，看来是丝毫不会顾虑我的感受了。</content>
+	</para_msg>
+  <para_msg paragraph="10478400" >
+			<content effect_num="0" talker="卢缘">但是，这不意味着肉体也能像灵魂那样坚韧。</content>						    
+	</para_msg>
+  <para_msg paragraph="10478500" >
+			<content effect_num="0" talker="卢缘">受到太猛烈的攻击，可能会失去身体，只有圣痕保留下来。</content>		    
+	</para_msg>
+  <para_msg paragraph="10478600" >
+			<content effect_num="0" talker="卢缘">这时候，就需要制造一具新的躯体，用以容纳灵魂。</content>	
+	</para_msg>
+  <para_msg paragraph="10478700" >
+			<content effect_num="0" index="1" talker="卢缘">长久以来，金色教会的教士们就是依靠这样的方式来对抗那些拥有强大身躯的怪物。</content>		
+	    <content effect_num="0" index="2" talker="卢缘">假身的制造技术在数千年历史中不断向前发展，到最近做出来的玩意儿已经与正常人类的身体机能完全相同。</content>	
+	</para_msg>
+  <para_msg paragraph="10478800" >
+			<content effect_num="0" talker="卢缘">只要圣痕保持完整，使用者的灵魂就能与新的身体达成完美的融合。</content>	    		    
+	</para_msg>
+  <para_msg paragraph="10478900" >
+			<content effect_num="0" talker="卢缘">对，前提是圣痕必须完整……</content>    
+	</para_msg>
+  <para_msg paragraph="10479000" >
+			<content effect_num="0" talker="卢缘">如果圣痕被毁掉或者支离破碎，灵魂不复完整，也就不可能支撑新的身体了。</content>    
+	</para_msg>
+  <para_msg paragraph="10479100" >
+			<content effect_num="0" talker="卢缘">魂魄会涣散，缺乏充实的精神力支持的身体，不会再拥有“活着”的实感。</content>    				
+	</para_msg>
+  <para_msg paragraph="10479200" >
+			<content effect_num="0" talker="卢缘">这样的身体非常危险。因为没有人知道残留在圣痕碎片里的记忆和人格是怎样的。</content>	
+	</para_msg>
+  <para_msg paragraph="10479300" >
+			<content effect_num="0" index="1" talker="卢缘">有可能健全的人格都已经毁掉，只留下负面的人格。</content>		
+	    <content effect_num="0" index="2" talker="卢缘">如果那样的话，获得新躯壳的人可能会变成恶徒或是人格缺失者。</content>	
+	</para_msg>
+  <para_msg paragraph="10479400" >
+			<content effect_num="0" talker="卢缘">所以，圣痕被破坏的人，教会判定其为完整意义上的死亡，不允许再进行移植。</content>
+	</para_msg>
+  <para_msg paragraph="10479500" >
+			<content effect_num="0" index="1" talker="卢缘">但是，有一个人违背了这个规则。</content>		
+	    <content effect_num="0" index="2" talker="卢缘">她无法接受你的死，下决心不惜一切代价也要让你复活。</content>	
+	</para_msg>
+  <para_msg paragraph="10479600" >
+			<content effect_num="0" index="1" talker="卢缘">擅长制作假身的她，做出了也许是她迄今为止最完美的一个作品。</content>		
+	    <content effect_num="0" index="2" talker="卢缘">为了避免你的人格缺失，甚至连一个完整的记忆都做了出来，施加在这具假身之上。</content>	    
+	</para_msg>
+  <para_msg paragraph="10479700" >
+			<content effect_num="0" talker="卢缘">于是有了名叫李晓音的她、名叫李俊明的你、以及你缺乏实感的生活。。</content>	    
+	</para_msg>
+  <para_msg paragraph="10479800" >
+			<content effect_num="0" talker="卢缘">她和你都不知道，错误的种子就在那时被种了下来，生根发芽，直到……</content>	    
+	</para_msg>
+  <para_msg paragraph="10479900" >
+			<content effect_num="0" talker="卢缘">直到结出恶果，让你们泡沫般的生活破灭为止。</content>	
+	</para_msg>
+  <para_msg paragraph="10480000" >
+			<content effect_num="0" talker="李俊明">…… ……</content>		 
+	</para_msg>
+  <para_msg paragraph="10480100" >
+			<content effect_num="0" >她的言辞令我无言以对。</content>		 		   
+	</para_msg>
+  <para_msg paragraph="10480200" >
+			<content effect_num="0" >明明是虚幻的词句，却又蕴含着难以言状的真实感。</content>    
+	</para_msg>
+  <para_msg paragraph="10480300" >
+			<content effect_num="0" >梦中的故事，还有我记忆中的点点滴滴，都被她牢牢地把握着。</content>   			    		
+	</para_msg>
+  <para_msg paragraph="10480400" >
+			<content effect_num="0" >她的话，等于是把我所有的疑惑都解读出来，讲给我听。</content>	
+	</para_msg>
+  <para_msg paragraph="10480500" >
+			<content effect_num="0" talker="？？？">但是，那个人还是固执得要命，拼命维护着你。</content>				
+	</para_msg>
+  <para_msg paragraph="10480600" >
+			<content effect_num="0" talker="？？？">明明已经到了终结的时刻，她还是期望你能活得更久一些。</content>		
+	</para_msg>
+  <para_msg paragraph="10480700" >
+			<content effect_num="0" talker="李俊明">……你……为什么也在？</content>		
+	</para_msg>
+  <para_msg paragraph="10480800" >
+			<content effect_num="0" >是卢兰，那个永远充满活力的女生。</content>				
+	</para_msg>
+  <para_msg paragraph="10480900" >
+			<content effect_num="0" >她像幽灵一样，一边说着话一边从她姐姐的身后钻了出来。</content>				
+	</para_msg>
+  <para_msg paragraph="10481000" >
+			<content effect_num="0" >依然和以前一样笑眯眯地看着我，只是笑容里包含了些许的惋惜。</content>		
+	</para_msg>
+  <para_msg paragraph="10481100" >
+			<content effect_num="0" talker="卢兰">哎呀，你还在装傻。</content>					
+	</para_msg>
+  <para_msg paragraph="10481200" >
+			<content effect_num="0" talker="卢兰">我和姐姐也是圣痕铭刻者，只是和你们分属不同的组织而已。</content>				
+	</para_msg>
+  <para_msg paragraph="10481300" >
+			<content effect_num="0" talker="卢兰">那个女人带着你的假身，逃到了另一个世界。</content>				
+	</para_msg>
+  <para_msg paragraph="10481400" >
+			<content effect_num="0" talker="卢兰">我们接到命令，必须把假身破坏，把她带回去接受审判。</content>				
+	</para_msg>
+  <para_msg paragraph="10481500" >
+			<content effect_num="0" talker="卢兰">本来只是个很简单的捉拿逃兵任务，但她还真是顽固到了一种境界呢！</content>				
+	</para_msg>
+  <para_msg paragraph="10481600" >
+			<content effect_num="0" talker="卢兰">在你的身体里布置结界，不但无法轻易破坏，而且一受到伤害就会报警，同时将结界与外面的世界完全隔绝……</content>				
+	</para_msg>
+  <para_msg paragraph="10481700" >
+			<content effect_num="0" talker="卢兰">我们一开始还不知道，结果吃了大亏。</content>				
+	</para_msg>
+  <para_msg paragraph="10481800" >
+			<content effect_num="0" talker="卢兰">不久之前，她突然主动找到姐姐，要求我们暂停对她和你的追捕。</content>	
+	</para_msg>
+  <para_msg paragraph="10481900" >
+			<content effect_num="0" index="1" talker="卢兰">姐姐没有答应。</content>		
+	    <content effect_num="0" index="2" talker="卢兰">于是她突然就发动了结界，把医务室和外界隔离开来，然后动手行凶。</content>	
+	</para_msg>
+  <para_msg paragraph="10482000" >
+			<content effect_num="0" talker="卢兰">我那天中午接到的广播，实际上是姐姐叫我去帮忙的信号哦。</content>	    						
+	</para_msg>
+  <para_msg paragraph="10482100" >
+			<content effect_num="0" talker="卢兰">但是啊，真没想到，她竟然强到那种程度……</content>	
+	</para_msg>
+  <para_msg paragraph="10482200" >
+			<content effect_num="0" index="1" talker="卢兰">我大半个身子都被砸烂了，到现在也没完全恢复。</content>		
+	    <content effect_num="0" index="2" talker="卢兰">这么多年来我还没吃过这么惨的败仗呢。</content>	
+	</para_msg>
+  <para_msg paragraph="10482300" >
+			<content effect_num="0" talker="李俊明">…… ……</content>	 
+	</para_msg>
+  <para_msg paragraph="10482400" >
+			<content effect_num="0" talker="卢缘">还不止如此，她甚至把整个城市划入她的大结界之中，给所有人施加心理暗示。</content>
+	</para_msg>
+  <para_msg paragraph="10482500" >
+			<content effect_num="0" index="1" talker="卢缘">在这个世界与你们扯上关系的人都不会怀疑你们的身份。</content>		
+	    <content effect_num="0" index="2" talker="卢缘">他们在潜意识里受到那个女人的指示，说得更直接一点就是心灵操控。</content>
+  </para_msg>
+  <para_msg paragraph="10482600" >
+			<content effect_num="0" talker="卢缘">就连我和卢兰刚来到这里时也中了招。</content>	
+	</para_msg>
+  <para_msg paragraph="10482700" >
+			<content effect_num="0" talker="卢缘">如果你不明白这种心理暗示的作用，我不妨举个例子。</content>		
+	</para_msg>
+  <para_msg paragraph="10482800" >
+			<content effect_num="0" talker="卢缘">当她不愿意某个地方有人时，所有人都会立刻被下达暗示。他们会自觉地避开去那个地方，而且不会产生诸如“我为什么不想去哪里呢？”或者“为什么我要离开那儿呢？”之类的思考。</content>	
+	</para_msg>
+  <para_msg paragraph="10482900" >
+			<content effect_num="0" >冷汗顺着我的脊背流下来。</content>						
+	</para_msg>
+  <para_msg paragraph="10483000" >
+			<content effect_num="0" >我想起了向音姐告白的那个黄昏，空无一人的校园。</content>			
+	</para_msg>
+  <para_msg paragraph="10483100" >
+			<content effect_num="0" talker="卢缘">行使这样的暗示，会对普通人的精神造成破坏。</content>		
+	</para_msg>
+  <para_msg paragraph="10483200" >
+			<content effect_num="0" talker="卢缘">人们会逐渐习惯于她的指使，而丧失自我思考与辨析能力。</content>		
+	</para_msg>
+  <para_msg paragraph="10483300" >
+			<content effect_num="0" talker="卢缘">如果她继续这么做，不到一年，结界里所有人都会变成行尸走肉。</content>		
+	</para_msg>
+  <para_msg paragraph="10483400" >
+			<content effect_num="0" talker="卢缘">为了你，她已经做出了恶魔都不一定忍心做的坏事。</content>		
+	</para_msg>
+  <para_msg paragraph="10483500" >
+			<content effect_num="0" talker="卢缘">这原本是与你们完全无关的世界，但她的行为损害了这个世界的完整性。</content>	
+	</para_msg>
+  <para_msg paragraph="10483600" >
+			<content effect_num="0" index="1" talker="卢缘">所以，她的罪名已经定下了。</content>		
+	    <content effect_num="0" index="2" talker="卢缘">火刑，并且彻底销毁她的圣痕实体。</content>
+	</para_msg>
+  <para_msg paragraph="10483700" >
+			<content effect_num="0" talker="卢缘">而她在最后的请求中，希望教会能放过你，即使你的寿命为时不多。</content>	
+	</para_msg>
+  <para_msg paragraph="10483800" >
+			<content effect_num="0" >火刑——这是中世纪处死女巫的严酷刑罚。</content>		    		
+	</para_msg>
+  <para_msg paragraph="10483900" >
+			<content effect_num="0" >难以想象，音姐被绑在火刑架上的样子。</content>	
+	</para_msg>
+  <para_msg paragraph="10484000" >
+			<content effect_num="0" index="1">为了我，她要接受火刑？</content>		
+	    <content effect_num="0" index="2">仅仅是为了我，她必须献出自己的生命？</content>	
+	</para_msg>
+  <para_msg paragraph="10484100" >
+			<content effect_num="0" >这……怎么可能让我心安理得？</content>		
+	</para_msg>
+  <para_msg paragraph="10484200" >
+			<content effect_num="0" index="1">我亏欠了她太多；我从她那里拿走了几乎所有的东西。</content>		
+	    <content effect_num="0" index="2">这样的我，怎么可以任性地让她为我而死呢？</content>
+	</para_msg>
+  <para_msg paragraph="10484300" >
+			<content effect_num="0" talker="李俊明">音姐……现在在哪里？</content>	
+	</para_msg>
+  <para_msg paragraph="10484400" >
+			<content effect_num="0" talker="卢缘">你问这个干什么？</content>	
+	</para_msg>
+  <para_msg paragraph="10484500" >
+			<content effect_num="0" talker="李俊明">你们来这里的目的，也是为了救她吧？</content>						    
+	</para_msg>
+  <para_msg paragraph="10484600" >
+			<content effect_num="0" talker="李俊明">不然的话，也不用射杀我了。</content>	
+	</para_msg>
+  <para_msg paragraph="10484700" >
+			<content effect_num="0" index="1" talker="李俊明">如果你之前说的所有话都是真的，那我的性命已经快要结束了。</content>		
+	    <content effect_num="0" index="2" talker="李俊明">我死了的话，她就不用接受那样可恨的刑罚。</content>	
+	</para_msg>
+  <para_msg paragraph="10484800" >
+			<content effect_num="0" talker="李俊明">若是这样的结局，也许还不坏。但是……</content>	    		   
+	</para_msg>
+  <para_msg paragraph="10484900" >
+			<content effect_num="0" talker="李俊明">快点告诉我，她在哪里。</content>	    
+	</para_msg>
+  <para_msg paragraph="10485000" >
+			<content effect_num="0" talker="李俊明">既然我的死是注定的，那我希望至少在最后还能和她见一面。</content>
+	</para_msg>
+  <para_msg paragraph="10485100" >
+			<content effect_num="0" index="1" >事到如今，我依然不知道她们是不是真的值得我去相信。</content>		
+	    <content effect_num="0" index="2" >但我是相信音姐的。毫无保留地、完全相信她。</content>	
+	</para_msg>
+  <para_msg paragraph="10485200" >
+			<content effect_num="0" >如果她们所说为实，而我什么都不做的话，最终后悔的是我自己。</content>    				    
+	</para_msg>
+  <para_msg paragraph="10485300" >
+			<content effect_num="0" >被箭射中的地方，伤口边缘变成了粉末状，果然不像是正常人的躯体。</content>    
+	</para_msg>
+  <para_msg paragraph="10485400" >
+			<content effect_num="0" >既然身体里的结界被破坏，那用不了多久我就会化成灰了吧？</content>    
+	</para_msg>
+  <para_msg paragraph="10485500" >
+			<content effect_num="0" >在剩余不多的生命里，我最大的愿望是再一次与她相见。</content>    			    			
+	</para_msg>
+  <para_msg paragraph="10485600" >
+			<content effect_num="0" >我想见她，非常想。</content>
+	</para_msg>
+  <para_msg paragraph="10485700" >
+			<content effect_num="0" talker="卢缘">哎……</content>		 	
+	</para_msg>
+  <para_msg paragraph="10485800" >
+			<content effect_num="0" talker="卢缘">坚强的性格依然完全保留了下来呢，巴塞特。</content>		 			
+	</para_msg>
+  <para_msg paragraph="10485900" >
+			<content effect_num="0" talker="卢缘">实际上，她是希望你留在这里的。</content>		 			
+	</para_msg>
+  <para_msg paragraph="10486000" >
+			<content effect_num="0" talker="卢缘">你还没有发现么？这座教堂就是你们第一次见面的地方，也是保留着你们两人珍贵记忆的场所。</content>		 				
+	</para_msg>
+  <para_msg paragraph="10486100" >
+			<content effect_num="0" talker="卢缘">即使金色教会不复存在，这里也被废弃，对她来说依然是个无法割舍的地方。</content>		 			
+	</para_msg>
+  <para_msg paragraph="10486200" >
+			<content effect_num="0" talker="卢缘">于是，她设下了结界，将这儿完整地保存下来。</content>		 					
+	</para_msg>
+  <para_msg paragraph="10486300" >
+			<content effect_num="0" talker="卢缘">也因为这个原因，当时她突然逃离我的监视之后，我立刻就猜到她会来这儿。</content>		 	
+	</para_msg>
+  <para_msg paragraph="10486400" >
+			<content effect_num="0" index="1" talker="卢缘">在结界内的教堂，时间和空间都是静止的。</content>		
+	    <content effect_num="0" index="2" talker="卢缘">就算我破坏了你体内的结界，只要你不走出去，依然可以一直活着。</content>
+  </para_msg>
+  <para_msg paragraph="10486500" >
+			<content effect_num="0" talker="卢缘">但是，走出去的话……</content>	 
+	</para_msg>
+  <para_msg paragraph="10486600" >
+			<content effect_num="0" index="1" >怪不得待在这里时有一种奇妙的亲切感。</content>		
+	    <content effect_num="0" index="2" >原来，这儿才是我真正的家。</content>		
+  </para_msg>
+  <para_msg paragraph="10486700" >
+			<content effect_num="0" >即使如今已不复存在，但它的确是对我而言举足轻重的地方。</content>	    	   	
+  </para_msg>
+  <para_msg paragraph="10486800" >
+			<content effect_num="0" >我和她之间真正的回忆是来自这里的。</content>		
+  </para_msg>
+  <para_msg paragraph="10486900" >
+			<content effect_num="0" >如果不再从这里出去的话，也许就可以永远活在美好的记忆之中。</content>		
+  </para_msg>
+  <para_msg paragraph="10487000" >
+			<content effect_num="0" >但那样又有什么用呢？没有她的世界，对我来说空无一物。</content>		
+  </para_msg>
+  <para_msg paragraph="10487100" >
+			<content effect_num="0" >已经没有犹豫的必要了。</content>		
+  </para_msg>
+  <para_msg paragraph="10487200" >
+			<content effect_num="0" >一直以来，我太依赖她对我的庇护。</content>		
+  </para_msg>
+  <para_msg paragraph="10487300" >
+			<content effect_num="0" >现在，是我应该站出来的时候了，我要让她重新获得寻求幸福的权利。</content>
+	</para_msg>
+  <para_msg paragraph="10487400" >
+			<content effect_num="0" talker="李俊明">没有关系。</content>			
+	</para_msg>
+  <para_msg paragraph="10487500" >
+			<content effect_num="0" talker="李俊明">我现在对这里没有任何眷念。</content>		
+	</para_msg>
+  <para_msg paragraph="10487600" >
+			<content effect_num="0" index="1" >我又一次用到了“眷念”这个词。</content>		
+	    <content effect_num="0" index="2" >在这时候，我觉得自己能体会到这个简单的词里包含的意义。</content>
+	</para_msg>
+  <para_msg paragraph="10487700" >
+			<content effect_num="0" >没有人不眷念自己的家，不眷念自己爱的人，不眷念自己有限的生命。</content>		    							
+	</para_msg>
+  <para_msg paragraph="10487800" >
+			<content effect_num="0" >但正因为对一切有所眷念，才更需要在它们受到伤害时站出来。</content>	
+	</para_msg>
+  <para_msg paragraph="10487900" >
+			<content effect_num="0" talker="李俊明">快一点，带我去。</content>		
+  </para_msg>
+  <para_msg paragraph="10488000" >
+			<content effect_num="0" talker="卢缘">…… ……</content>				
+	</para_msg>
+  <para_msg paragraph="10488100" >
+			<content effect_num="0" talker="卢缘">你还记得梦中的伊甸园吗？</content>				
+	</para_msg>
+  <para_msg paragraph="10488200" >
+			<content effect_num="0" talker="卢缘">她就在那里，独自一人。</content>	
+	</para_msg>
+  <para_msg paragraph="10488300" >
+			<content effect_num="0" talker="卢缘">那儿是她与你死别的地方，也是她创造出另一个你的地方。</content>	
+	</para_msg>
+  <para_msg paragraph="10488400" >
+			<content effect_num="0" talker="卢缘">火刑将在明天日出时进行。在那之前，她希望待在那儿。</content>	
+	</para_msg>
+  <para_msg paragraph="10488500" >
+			<content effect_num="0" talker="卢缘">那里现在已经被保护了起来。如果你决定要去，我可以申请许可。</content>
+	</para_msg>
+  <para_msg paragraph="10488600" >
+			<content effect_num="0" talker="李俊明">嗯，我要去。</content>	
+	</para_msg>
+  <para_msg paragraph="10488700" >
+			<content effect_num="0" talker="卢缘">做决定时丝毫不拖泥带水呢，巴塞特。</content>						
+	</para_msg>
+  <para_msg paragraph="10488800" >
+			<content effect_num="0" talker="卢缘">如果我是她，说不定也会爱上你呢。</content>			
+	</para_msg>
+  <para_msg paragraph="10488900" >
+			<content effect_num="0" talker="卢缘">请稍等。</content>			
+	</para_msg>
+  <para_msg paragraph="10489000" >
+			<content effect_num="0" talker="卢缘">…… ……</content>	
+	</para_msg>
+  <para_msg paragraph="10489100" >
+			<content effect_num="0" index="1" >卢医生闭上眼，半蹲着身子，开始在地上勾画一个奇怪的图案。</content>		
+	    <content effect_num="0" index="2" >似乎是魔法阵一类的东西，边缘闪耀着淡淡的荧光。</content>		
+	</para_msg>
+  <para_msg paragraph="10489200" >
+			<content effect_num="0" talker="卢缘">这样应该就可以了。</content>		    			
+	</para_msg>
+  <para_msg paragraph="10489300" >
+			<content effect_num="0" talker="卢缘">站上来，我将你单独传送过去。</content>					
+	</para_msg>
+  <para_msg paragraph="10489400" >
+			<content effect_num="0" talker="卢缘">真的不后悔吗？巴塞特。</content>		
+	</para_msg>
+  <para_msg paragraph="10489500" >
+			<content effect_num="0" talker="卢缘">如果就这样死掉的话，也就浪费她对你的一片苦心了。</content>	
+	</para_msg>
+  <para_msg paragraph="10489600" >
+			<content effect_num="0" talker="李俊明">…… ……</content>				
+	</para_msg>
+  <para_msg paragraph="10489700" >
+			<content effect_num="0" talker="李俊明">呐，卢医生，我问你。</content>	
+	</para_msg>
+  <para_msg paragraph="10489800" >
+			<content effect_num="0" talker="李俊明">如果她为我而死，我却只能在这个封闭场所，永远活在回忆中，那又有什么意思？</content>	
+	</para_msg>
+  <para_msg paragraph="10489900" >
+			<content effect_num="0" talker="李俊明">快点吧，我不想再多说什么。</content>	
+	</para_msg>
+  <para_msg paragraph="10490000" >
+			<content effect_num="0" talker="卢缘">……好的。</content>			
+	</para_msg>
+  <para_msg paragraph="10490100" >
+			<content effect_num="0" talker="卢缘">……建立连接中……</content>	
+	</para_msg>
+  <para_msg paragraph="10490200" >
+			<content effect_num="0" talker="卢缘">连接已建立，正在进行许可验证……</content>	
+	</para_msg>
+  <para_msg paragraph="10490300" >
+			<content effect_num="0" talker="卢缘">验证通过，可以进入。</content>
+	</para_msg>
+  <para_msg paragraph="10490400" >
+			<content effect_num="0" talker="卢缘">到我这里来，巴塞特。</content>	
+	</para_msg>
+  <para_msg paragraph="10490500" >
+			<content effect_num="0" >我按照她的吩咐，走到她面前。然后她把一只手按在我肩上。</content>			
+	</para_msg>
+  <para_msg paragraph="10490600" >
+			<content effect_num="1" >魔法阵的光芒变得刺眼，将我拉入一个白色的世界之中。</content>			
+	</para_msg>
+  <para_msg paragraph="10490700" >
+			<content effect_num="0" >在她的手放开的同时，所有的触感都被夺去。</content>	
+	</para_msg>
+  <para_msg paragraph="10490800" >
+			<content effect_num="0" index="1" >——但并未因此而觉得空虚。</content>		
+	    <content effect_num="0" index="2" >相反的，内心充满了莫名的悸动。</content>	
+	</para_msg>
+  <para_msg paragraph="10490900" >
+			<content effect_num="2" talker="卢缘">…… ……</content>		
+	</para_msg>
+  <para_msg paragraph="10491000" >
+			<content effect_num="0" talker="卢缘">呐，卢兰。我……是不是很蠢？</content>		
+	</para_msg>
+  <para_msg paragraph="10491100" >
+			<content effect_num="0" talker="卢缘">明明只要强行把他拽出阿娜丝塔夏的结界，然后杀了他就好了。</content>		
+	</para_msg>
+  <para_msg paragraph="10491200" >
+			<content effect_num="0" talker="卢缘">结果还是忍不住帮了他的忙，让他们见最后一面。</content>		
+	</para_msg>
+  <para_msg paragraph="10491300" >
+			<content effect_num="0" talker="卢兰">不，我能理解姐姐。</content>		    					
+	</para_msg>
+  <para_msg paragraph="10491400" >
+			<content effect_num="0" talker="卢缘">是么？</content>		
+	</para_msg>
+  <para_msg paragraph="10491500" >
+			<content effect_num="0" talker="卢缘">我啊，大概永远都是欠他的。</content>		
+	</para_msg>
+  <para_msg paragraph="10491600" >
+			<content effect_num="0" talker="卢缘">我们的兄长夺走了他的未婚妻。我抚养了兄长的女儿，教她所有本领。结果她堕入黑暗，终结了他的生命。</content>		
+	</para_msg>
+  <para_msg paragraph="10491700" >
+			<content effect_num="0" talker="卢缘">就算他能原谅我，我也永远不会原谅自己。</content>		
+	</para_msg>
+  <para_msg paragraph="10491800" >
+			<content effect_num="0" talker="卢缘">所以，我不会对他说的。一定不会对他说。</content>		
+	</para_msg>
+  <para_msg paragraph="10491900" >
+			<content effect_num="0" talker="卢缘">万一他知道这些往事之后还选择原谅我，我就会一辈子亏欠他了。</content>		
+	</para_msg>
+  <para_msg paragraph="10492000" >
+			<content effect_num="0" talker="卢缘">我不想亏欠任何人……我最讨厌亏欠别人了……</content>
+	</para_msg>
+  <para_msg paragraph="10492100" >
+			<content effect_num="0" talker="卢缘">我……好讨厌我自己……真的，好讨厌……</content>
+	</para_msg>
+  <para_msg paragraph="10492200" >
+			<content effect_num="0" talker="卢兰">没关系的。</content>			
+	</para_msg>
+  <para_msg paragraph="10492300" >
+			<content effect_num="0" talker="卢兰">不管怎样，我永远会站在姐姐这一边。</content>			
+	</para_msg>
+  <para_msg paragraph="10492400" >
+			<content effect_num="0" talker="卢兰">如果姐姐伤心到要大哭一场的话，我就会陪姐姐哭哦。</content>	
+	</para_msg>
+  <para_msg paragraph="10492500" >
+			<content effect_num="0" talker="卢缘">卢兰……</content>					
+	</para_msg>
+  <para_msg paragraph="10492600" >
+			<content effect_num="0" talker="卢缘">呜……呜呜……</content>			
+	</para_msg>
+  <para_msg paragraph="10492700" >
+			<content effect_num="2" talker="卢缘">哇啊啊啊——！</content>
+	</para_msg>
+  <para_msg paragraph="10492800" >
+			<content effect_num="0" talker="卢兰">没关系的，姐姐。</content>	
+	</para_msg>
+  <para_msg paragraph="10492900" >
+			<content effect_num="0" talker="卢兰">卢兰最喜欢姐姐了。</content>	
+	</para_msg>
+  <para_msg paragraph="10493000" >
+			<content effect_num="0" index="1" talker="卢兰">不管姐姐变成什么样的人，卢兰都会一直喜欢下去；</content>		
+	    <content effect_num="0" index="2" talker="卢兰">不论发生什么事，卢兰都会陪在姐姐身边的。</content>	
+	</para_msg>
+  <para_msg paragraph="10493100" >
+			<content effect_num="0" talker="卢兰">所以，没关系的……</content>	
+	</para_msg>
+  <para_msg paragraph="10493200" >
+			<content effect_num="1" />
+	</para_msg>
+  <para_msg paragraph="10493300" >
+			<content effect_num="2" >雪。</content>		
+	</para_msg>
+  <para_msg paragraph="10493400" >
+			<content effect_num="0" >无边的雪，仿佛永远都下不完似的。</content>
+	</para_msg>
+  <para_msg paragraph="10493500" >
+			<content effect_num="0" >这是一个什么都没有的世界。</content>		
+	</para_msg>
+  <para_msg paragraph="10493600" >
+			<content effect_num="0" >什么……都没有。</content>										
+	</para_msg>
+  <para_msg paragraph="10493700" >
+			<content effect_num="0" >渗入骨髓的寒冷，仿佛连灵魂都能冻结。</content>			
+	</para_msg>
+  <para_msg paragraph="10493800" >
+			<content effect_num="0" >每向前迈出一步，都如同生命的最后一步那样费力。</content>		
+	</para_msg>
+  <para_msg paragraph="10493900" >
+			<content effect_num="0" index="1" >我在这片无边无际的纯白之中艰难地行走着。</content>		
+	    <content effect_num="0" index="2" >朝着梦境里未曾抵达的那个目的地，行走着。</content>	
+	</para_msg>
+  <para_msg paragraph="10494000" >
+			<content effect_num="0" >我期盼着快一点，更快一点抵达那里。</content>	
+	</para_msg>
+  <para_msg paragraph="10494100" next_p="10494300">
+			<content effect_num="0" >我不想再回头。</content>		
+	</para_msg>
+  <para_msg paragraph="10494300" >
+			<content effect_num="2" >身体正在以令我害怕的速度崩溃。</content>			
+	</para_msg>
+  <para_msg paragraph="10494400" >
+			<content effect_num="0" >从中箭的地方开始粉末化，逐渐向周身侵蚀。</content>					
+	</para_msg>
+  <para_msg paragraph="10494500" >
+			<content effect_num="0" >没有丝毫的痛楚，只觉得冷，彻骨的寒冷。</content>			    				
+	</para_msg>
+  <para_msg paragraph="10494600" >
+			<content effect_num="0" index="1" >快一点——我督促着自己。再快一点。</content>		
+	    <content effect_num="0" index="2" >只是，脚步已经不受控制，越来越慢。</content>	
+	</para_msg>
+  <para_msg paragraph="10494700" >
+			<content effect_num="0" >如此的我，很像是预见到自己死期将至，步入秘密墓场的老象。</content>	
+	</para_msg>
+  <para_msg paragraph="10494800" >
+			<content effect_num="0" >但我不愿停下来。</content>				
+	</para_msg>
+  <para_msg paragraph="10494900" >
+			<content effect_num="0" >我想见你……比全世界任何人都更想见到你。</content>	
+	</para_msg>
+  <para_msg paragraph="10495000" next_p="10495600">
+			<content effect_num="0" />	
+	</para_msg>
+  <para_msg paragraph="10495600" >
+			<content effect_num="0" >往日的记忆，在脑海里如走马灯一般盘旋着。</content>		
+	</para_msg>
+  <para_msg paragraph="10495700" >
+			<content effect_num="0" >我无法忘却那些日子，不愿舍弃和你共同度过的每一天。</content>					
+	</para_msg>
+  <para_msg paragraph="10495800" >
+			<content effect_num="0" >纵然一切最终都会失去，我依然强烈地希望记住你的一颦一笑、你的眼睛、你的声音，直到最后一刻。</content>	
+	</para_msg>
+  <para_msg paragraph="10495900" next_p="10496100">
+			<content effect_num="0" >我向上天祈祷着，失去这虚假的生命之前，能再与你见上一面。</content>	
+	</para_msg>
+  <para_msg paragraph="10496100" >
+			<content effect_num="2" >它孤零零地伫立在那儿，不再拥有鲜活的生命。</content>	
+	</para_msg>
+  <para_msg paragraph="10496200" >
+			<content effect_num="0" >已经枯萎的大树，破碎的枝桠散落在这片凋零的雪原上。</content>										
+	</para_msg>
+  <para_msg paragraph="10496300" >
+			<content effect_num="0" >依稀记得，这就是梦中的我，曾经的我，拼了命要抵达的地方。</content>		
+	</para_msg>
+  <para_msg paragraph="10496400" >
+			<content effect_num="0" index="1" >但直到死为止，我没能来到它的身边。</content>		
+	    <content effect_num="0" index="2" >于是，它与我一同死去。</content>
+	</para_msg>
+  <para_msg paragraph="10496500" >
+			<content effect_num="0" >我认得它，是分辨善恶之树，亚当和夏娃偷吃禁果的地方。</content>		    					
+	</para_msg>
+  <para_msg paragraph="10496600" >
+			<content effect_num="0" >它曾禁锢着那柄原罪之镰，也是天堂与人间的分界线。</content>		
+	</para_msg>
+  <para_msg paragraph="10496700" >
+			<content effect_num="0" >但现在，这个界线已经不复存在。只余下它枯老的身影，留在这里，被人遗忘。</content>		
+	</para_msg>
+  <para_msg paragraph="10496800" >
+			<content effect_num="0" >什么都没有……</content>		
+	</para_msg>
+  <para_msg paragraph="10496900" >
+			<content effect_num="0" >我，没有找到她，没有看到她的身影。</content>		    		
+	</para_msg>
+  <para_msg paragraph="10497000" >
+			<content effect_num="0" >没有力气再向前了，好累……</content>	
+	</para_msg>
+  <para_msg paragraph="10497100" >
+			<content effect_num="0" index="1" >倒在雪中，连寒冷都感觉不到了。</content>		
+	    <content effect_num="0" index="2" >唯一能感受到的，只有内心深处的梦魇，渐渐将我吞噬。</content>
+	</para_msg>
+  <para_msg paragraph="10497200" >
+			<content effect_num="0" >什么……都没有……</content>	
+	</para_msg>
+  <para_msg paragraph="10497300" >
+			<content effect_num="2" />
+	</para_msg>
+  <para_msg paragraph="10497400" >
+			<content effect_num="2" index="1" >风。肆虐的风，惊怖的风。</content>		
+	    <content effect_num="0" index="2" >像是要把所有的希望都吹走一样。</content>
+	</para_msg>
+  <para_msg paragraph="10497500" >
+			<content effect_num="0" talker="卡尔">我们必须撤离这儿！分辨善恶之树的能量已经无法抑制！</content>	
+	</para_msg>
+  <para_msg paragraph="10497600" >
+			<content effect_num="0" index="1" talker="卡尔">很快会有一场更大的风暴袭来！</content>		
+	    <content effect_num="0" index="2" talker="卡尔">如果不走的话，我们全都会死在这里！</content>	
+	</para_msg>
+  <para_msg paragraph="10497700" >
+			<content effect_num="0" talker="卡尔">你听到了吗？！阿娜丝塔夏！你听到没有？！</content>		    		    			
+	</para_msg>
+  <para_msg paragraph="10497800" >
+			<content effect_num="0" talker="阿娜丝塔夏">…… ……</content>	
+	</para_msg>
+  <para_msg paragraph="10497900" >
+			<content effect_num="0" talker="卡尔">阿娜丝塔夏！</content>	
+	</para_msg>
+  <para_msg paragraph="10498000" >
+			<content effect_num="0" talker="阿娜丝塔夏">因为我……全都是因为我……巴塞特他……</content>							
+	</para_msg>
+  <para_msg paragraph="10498100" >
+			<content effect_num="0" talker="阿娜丝塔夏">巴塞特他……</content>		
+	</para_msg>
+  <para_msg paragraph="10498200" >
+			<content effect_num="0" talker="阿娜丝塔夏">不要！我不要这样！</content>		
+	</para_msg>
+  <para_msg paragraph="10498300" >
+			<content effect_num="2" talker="阿娜丝塔夏">我要他活着，一定要活着……</content>	
+	</para_msg>
+  <para_msg paragraph="10498400" >
+			<content effect_num="0" talker="卡尔">不要再任性了！如果你也死掉的话，那才是真正辜负了他！</content>					
+	</para_msg>
+  <para_msg paragraph="10498500" >
+			<content effect_num="0" talker="卡尔">他的圣痕已经被毁掉了。</content>		
+	</para_msg>
+  <para_msg paragraph="10498600" >
+			<content effect_num="0" talker="卡尔">听着，阿娜丝塔夏。我也很伤心，非常心痛，因为他也是我的朋友。</content>		
+	</para_msg>
+  <para_msg paragraph="10498700" >
+			<content effect_num="0" talker="卡尔">但是，人死不能复生。我们只能祈祷死者安息，生者坚强。</content>		
+	</para_msg>
+  <para_msg paragraph="10498800" >
+			<content effect_num="0" talker="卡尔">离开这里，活下去……如他所愿的那样努力活下去！</content>
+	</para_msg>
+  <para_msg paragraph="10498900" >
+			<content effect_num="0" talker="阿娜丝塔夏">…… ……</content>						
+	</para_msg>
+  <para_msg paragraph="10499000" >
+			<content effect_num="0" talker="阿娜丝塔夏">没有他的日子，我……活着又有什么意义……</content>		
+	</para_msg>
+  <para_msg paragraph="10499100" >
+			<content effect_num="0" talker="阿娜丝塔夏">我现在才明白……本来早就该明白的……</content>		
+	</para_msg>
+  <para_msg paragraph="10499200" >
+			<content effect_num="0" talker="阿娜丝塔夏">但是，我却以为自己可以很坚强，可以完全舍弃自私的念头，不会被这样的事情困扰……</content>		
+	</para_msg>
+  <para_msg paragraph="10499300" >
+			<content effect_num="0" talker="阿娜丝塔夏">大言不惭地宣称要让全世界的孩子都得到幸福，结果连身边人的幸福都保护不了。</content>					    
+	</para_msg>
+  <para_msg paragraph="10499400" >
+			<content effect_num="0" talker="阿娜丝塔夏">是我的错，全部都是我的错！</content>				
+	</para_msg>
+  <para_msg paragraph="10499500" >
+			<content effect_num="0" talker="阿娜丝塔夏">我要让他复活。</content>				
+	</para_msg>
+  <para_msg paragraph="10499600" >
+			<content effect_num="0" index="1" talker="阿娜丝塔夏">哪怕只能维持一秒钟，我也要看着他再一次站在我面前。</content>		
+	    <content effect_num="0" index="2" talker="阿娜丝塔夏">哪怕与整个世界为敌，我也要他活下去。</content>		
+	</para_msg>
+  <para_msg paragraph="10499700" >
+			<content effect_num="0" talker="阿娜丝塔夏">他给予我新的生命……我只能用这样的方式报答他。</content>		    		
+	</para_msg>
+  <para_msg paragraph="10499800" >
+			<content effect_num="0" talker="卡尔">你把圣痕的意义看得太简单了，阿娜丝塔夏。</content>				
+	</para_msg>
+  <para_msg paragraph="10499900" >
+			<content effect_num="0" talker="阿娜丝塔夏">我明白的……我明白的！</content>					    		
+	</para_msg>
+  <para_msg paragraph="10500000" >
+			<content effect_num="0" talker="阿娜丝塔夏">就算他不再记得我也没关系，就算他重生之后变成恶徒也没关系。</content>	
+	</para_msg>
+  <para_msg paragraph="10500100" >
+			<content effect_num="0" index="1" talker="阿娜丝塔夏">从头开始……和他从头开始……</content>		
+	    <content effect_num="0" index="2" talker="阿娜丝塔夏">只要他能在我身边就好……</content>	
+	</para_msg>
+  <para_msg paragraph="10500200" next_p="10500400">
+			<content effect_num="2" talker="阿娜丝塔夏">只要是这样……就好了……</content>		
+	</para_msg>
+  <para_msg paragraph="10500400" >
+			<content effect_num="2" >原来是这样，这场梦是以这样的方式结束的。</content>	
+	</para_msg>
+  <para_msg paragraph="10500500" >
+			<content effect_num="0" >对，真的已经结束了……吧？</content>				
+	</para_msg>
+  <para_msg paragraph="10500600" >
+			<content effect_num="0" >我……快要死了吧？</content>	
+	</para_msg>
+  <para_msg paragraph="10500700" >
+			<content effect_num="0" >目所及的地方，被茫茫白雪覆盖着，看不到任何东西。</content>				
+	</para_msg>
+  <para_msg paragraph="10500800" >
+			<content effect_num="0" >——无法等到与她重逢的那一刻了。</content>			
+	</para_msg>
+  <para_msg paragraph="10500900" >
+			<content effect_num="0" >我很想哭，为最后的愿望也无法达成而伤心哭泣。</content>			
+	</para_msg>
+  <para_msg paragraph="10501000" >
+			<content effect_num="0" >但是，眼泪流不出来。</content>			
+	</para_msg>
+  <para_msg paragraph="10501100" >
+			<content effect_num="0" >也许这就是所谓的命中注定。我曾死于这里，却错误地获得了重生。</content>			
+	</para_msg>
+  <para_msg paragraph="10501200" >
+			<content effect_num="0" >而现在，上天要我独自一人，在这下着雪的地方，永远地消失。</content>			
+	</para_msg>
+  <para_msg paragraph="10501300" >
+			<content effect_num="0" >不会有任何人来这里，也不会有任何人知道我曾经存在过。</content>			
+	</para_msg>
+  <para_msg paragraph="10501400" end_scence_sound="true">
+			<content effect_num="0" >这里……什么都没有。</content>			
+	</para_msg>
+  <para_msg paragraph="10501500" next_p="10501700">
+			<content effect_num="0" >这里……什么都不会有。</content>	
+	</para_msg>
+  <para_msg paragraph="10501700" start_scence_sound="960015.mp3">
+			<content effect_num="2" >…… ……</content>	
+	</para_msg>
+  <para_msg paragraph="10501800" >
+			<content effect_num="0" >是幻听么？</content>				
+	</para_msg>
+  <para_msg paragraph="10501900" >
+			<content effect_num="0" >——像是有人来到了这里的样子。</content>				
+	</para_msg>
+  <para_msg paragraph="10502000" >
+			<content effect_num="0" >亲切的、熟悉的脚步声。</content>		
+	</para_msg>
+  <para_msg paragraph="10502100" >
+			<content effect_num="0" index="1" >一如当初曾和她并肩行走在这里时，耳边回响着的声音。</content>		
+	    <content effect_num="0" index="2" >一如在另一个世界里，每个阳光明媚的早晨，从走廊上传来的声音。</content>
+	</para_msg>
+  <para_msg paragraph="10502200" end_scence_sound="true">
+			<content effect_num="0" >——将我从沉睡中唤醒。</content>	 
+	</para_msg>
+  <para_msg paragraph="10502300" start_scence_sound="950005.mp3">
+			<content effect_num="2" >…… ……</content>	 			   				
+	</para_msg>
+  <para_msg paragraph="10502400" >
+			<content effect_num="0" >感谢上天……</content>	
+	</para_msg>
+  <para_msg paragraph="10502500" >
+			<content effect_num="0" >我终于知道，温热的泪水滑过已经冻僵的脸，这种感觉是多么的美好。</content>				 			
+	</para_msg>
+  <para_msg paragraph="10502600" >
+			<content effect_num="0" >我是活着的，真真切切地活着。</content>				
+	</para_msg>
+  <para_msg paragraph="10502700" >
+			<content effect_num="0" >那是我朝思暮想的面容，是我永远不会忘记的面容。</content>				
+	</para_msg>
+  <para_msg paragraph="10502800" >
+			<content effect_num="0" >太好了，我的愿望终于得以实现。</content>				
+	</para_msg>
+  <para_msg paragraph="10502900" >
+			<content effect_num="0" >在这虚假生命的最后时刻，她终于来到我的身边，陪伴着我。</content>				
+	</para_msg>
+  <para_msg paragraph="10503000" >
+			<content effect_num="0" >能感受到，她的呼吸、她的体温、她的快乐与痛苦。</content>				
+	</para_msg>
+  <para_msg paragraph="10503100" next_p="10503300">
+			<content effect_num="0" >真的，太好了……</content>		
+	</para_msg>
+  <para_msg paragraph="10503300" >
+			<content effect_num="2" >如果还说有什么遗憾的话，也许是我无法再握着她的手，与她拥抱。</content>			
+	</para_msg>
+  <para_msg paragraph="10503400" >
+			<content effect_num="0" >我的梦结束了。</content>				
+	</para_msg>
+  <para_msg paragraph="10503500" >
+			<content effect_num="0" >梦醒来的时候，她紧紧拥抱着我，看着我。</content>						
+	</para_msg>
+  <para_msg paragraph="10503600" >
+			<content effect_num="0" >她问我：“做了一个很美好的梦吗？”</content>				
+	</para_msg>
+  <para_msg paragraph="10503700" >
+			<content effect_num="0" >我回答说，并不美好，甚至很悲伤。</content>												
+	</para_msg>
+  <para_msg paragraph="10503800" >
+			<content effect_num="0" >但是，我依然喜欢那个已经结束的、漫长的梦。</content>				
+	</para_msg>
+  <para_msg paragraph="10503900" >
+			<content effect_num="0" >听到我的回答之后，她脸上流露出有些落寞的微笑。</content>				
+	</para_msg>
+  <para_msg paragraph="10504000" >
+			<content effect_num="0" >没有关系的——我安慰她。不管梦中还是梦醒之后，有一件事是不会改变的。</content>					    					
+	</para_msg>
+  <para_msg paragraph="10504100" >
+			<content effect_num="0" >只是，我没有时间告诉她，那不会改变的是什么。</content>				
+	</para_msg>
+  <para_msg paragraph="10504200" >
+			<content effect_num="0" >因为，我又要开始做梦了。</content>				
+	</para_msg>
+  <para_msg paragraph="10504300" >
+			<content effect_num="0" >一个更加漫长，但我坚信会很甜蜜的梦。</content>				
+	</para_msg>
+  <para_msg paragraph="10504400" >
+			<content effect_num="0" >谢谢你。谢谢你迄今为止为我所做的一切。</content>				
+	</para_msg>
+  <para_msg paragraph="10504500" >
+			<content effect_num="0" >然后……再见。</content>				
+	</para_msg>
+  <para_msg paragraph="10504600" >
+			<content effect_num="0" >祝愿你……获得真正的幸福。</content>	
+	</para_msg>
+	<para_msg paragraph="10504700" end_scence_sound="true" date_end="true">
+			<content effect_num="2" />		
+	</para_msg>
+	</para_date>
+  </config>		
+			
+			
+			
+			
+			
+			
+						

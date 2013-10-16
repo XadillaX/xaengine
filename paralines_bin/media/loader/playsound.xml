@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Loader>
+    <SoundInformation type="Sound">
+        <Sound name="login">media/sound/sound 1.mp3</Sound>
+        
+        <Sound name="960021.mp3">media/sound/sound 10.mp3</Sound>
+        <Sound name="960020.mp3">media/sound/sound 11.mp3</Sound>
+        <Sound name="960019.mp3">media/sound/sound 12.mp3</Sound>
+        <Sound name="960018.mp3">media/sound/sound 13.mp3</Sound>
+        <Sound name="960017.mp3">media/sound/sound 14.mp3</Sound>
+        <Sound name="960016.mp3">media/sound/sound 15.mp3</Sound>
+        <Sound name="960015.mp3">media/sound/sound 16.mp3</Sound>
+        <Sound name="960014.mp3">media/sound/sound 17.mp3</Sound>
+        <Sound name="960013.mp3">media/sound/sound 18.mp3</Sound>
+        <Sound name="960012.mp3">media/sound/sound 19.mp3</Sound>
+        
+        <Sound name="first">media/sound/sound 2.mp3</Sound>
+        <Sound name="960011.mp3">media/sound/sound 20.mp3</Sound>
+        <Sound name="960010.mp3">media/sound/sound 21.mp3</Sound>
+        <Sound name="960009.mp3">media/sound/sound 22.mp3</Sound>
+        <Sound name="960008.mp3">media/sound/sound 23.mp3</Sound>
+        <Sound name="960007.mp3">media/sound/sound 24.mp3</Sound>
+        <Sound name="960006.mp3">media/sound/sound 25.mp3</Sound>
+        <Sound name="960005.mp3">media/sound/sound 26.mp3</Sound>
+        <Sound name="960004.mp3">media/sound/sound 27.mp3</Sound>
+        <Sound name="960003.mp3">media/sound/sound 28.mp3</Sound>
+        <Sound name="960002.mp3">media/sound/sound 29.mp3</Sound>
+        
+        <Sound name="960028.mp3">media/sound/sound 3.mp3</Sound>
+        <Sound name="960001.mp3">media/sound/sound 30.mp3</Sound>
+        <Sound name="950009.mp3">media/sound/sound 31.mp3</Sound>
+        <Sound name="950005.mp3">media/sound/sound 32.mp3</Sound>
+        <Sound name="950004.mp3">media/sound/sound 33.mp3</Sound>
+        <Sound name="950003.mp3">media/sound/sound 34.mp3</Sound>
+        <Sound name="950002.mp3">media/sound/sound 35.mp3</Sound>
+        <Sound name="950001.mp3">media/sound/sound 36.mp3</Sound>
+        <Sound name="960027.mp3">media/sound/sound 4.mp3</Sound>
+        <Sound name="960026.mp3">media/sound/sound 5.mp3</Sound>
+        <Sound name="960025.mp3">media/sound/sound 6.mp3</Sound>
+        <Sound name="960024.mp3">media/sound/sound 7.mp3</Sound>
+        <Sound name="960023.mp3">media/sound/sound 8.mp3</Sound>
+        <Sound name="960022.mp3">media/sound/sound 9.mp3</Sound>
+    </SoundInformation>
+</Loader>

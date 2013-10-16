@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Loader>
+    <SpriteInformation type="UI">
+        <Sprite name="Underpainting">media/Main_interface/image 49.jpg</Sprite>
+        <Sprite name="StageBackground">media/Main_interface/image 48.jpg</Sprite>
+        <Sprite name="TextBoxTalker">media/Main_interface/image 2.png</Sprite>
+        <Sprite name="TextBox">media/Main_interface/image 19.png</Sprite>
+        <Sprite name="Reader">media/Main_interface/image 26.png</Sprite>
+        <Sprite name="Horn">media/Main_interface/image 4.png</Sprite>
+        
+        <Sprite name="ellipsis0">media/Main_interface/image 44.png</Sprite>
+        <Sprite name="ellipsis1">media/Main_interface/image 44.png</Sprite>
+        <Sprite name="ellipsis2">media/Main_interface/image 44.png</Sprite>
+        
+        <Sprite name="readerclose0">media/Main_interface/image 28.png</Sprite>
+        <Sprite name="readerclose1">media/Main_interface/image 30.png</Sprite>
+        <Sprite name="readerclose2">media/Main_interface/image 30.png</Sprite>
+        
+        <Sprite name="prev0">media/Main_interface/image 36.png</Sprite>
+        <Sprite name="prev1">media/Main_interface/image 36.png</Sprite>
+        <Sprite name="prev2">media/Main_interface/image 36.png</Sprite>
+        
+        <Sprite name="next0">media/Main_interface/image 33.png</Sprite>
+        <Sprite name="next1">media/Main_interface/image 33.png</Sprite>
+        <Sprite name="next2">media/Main_interface/image 33.png</Sprite>
+        
+        <Sprite name="mouse0">media/Main_interface/image 12.png</Sprite>
+        <Sprite name="mouse1">media/Main_interface/image 12.png</Sprite>
+        <Sprite name="mouse2">media/Main_interface/image 12.png</Sprite>
+    </SpriteInformation>
+    
+    <SpriteInformation type="Cursor">
+        <Sprite name="Pointer">media/cursor_point.png</Sprite>
+    </SpriteInformation>
+</Loader>

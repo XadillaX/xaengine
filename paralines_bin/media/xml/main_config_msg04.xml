@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!--
+(paragraph:段落编号 talker:对话者 content:对话内容 isselect:是否有分支 effect_num:特效编号 sound:声音 select_type:选择类型)
+effect_num(1-8  0:没有特效) isbattle="true" :有战斗  next_p="语句编号"：下一句是（语句编号）
+weather(1：晴朗 2：阴天 3：下雨)
+-->
+<config>
+	<para_date date="10月22日" week="星期三" weather="晴转多云">
+	<para_msg paragraph="10250200" >
+			<content effect_num="0" />
+	</para_msg>
+	<para_msg paragraph="10250300" start_scence_sound="960011.mp3">
+			<content effect_num="2" >我们走出山谷，踏上茫茫的北方雪原。</content>
+	</para_msg>
+	<para_msg paragraph="10250400" >
+			<content effect_num="0" index="1" >娜薇并未如之前我设想的那样赶上来。</content>
+			<content effect_num="0" index="2" >随着时间的推移，我心中的担忧也开始扩大。</content>	
+	</para_msg>
+	<para_msg paragraph="10250500" >
+			<content effect_num="0" >——她不会真的出了什么意外吧？</content>			
+	</para_msg>
+	<para_msg paragraph="10250600" >
+			<content effect_num="2" >更令我担心的是北方的动静。</content>		
+	</para_msg>
+	<para_msg paragraph="10250700" >
+			<content effect_num="0" index="1" >极北之地的信使以往每隔两三天就会通过雪原前往南方，向各教会通报那边的情况。</content>
+			<content effect_num="0" index="2" >但这么多天以来，我压根没看到信使的影子。</content>					
+	</para_msg>
+	<para_msg paragraph="10250800" >
+			<content effect_num="0" >那个叫司马雪的少女并不是开玩笑。</content>		
+	</para_msg>
+	<para_msg paragraph="10250900" >
+			<content effect_num="0" >每一次眺望北方，心情就更沉重一分。</content>			
+	</para_msg>
+	<para_msg paragraph="10251000" >
+			<content effect_num="2" >已经是离开山谷之后的第七天，我还是没有看到她。</content>		
+	</para_msg>
+	<para_msg paragraph="10251100" >
+			<content effect_num="0" >好几次，我都萌生出一种冲动，想回过头，到那个山谷去找她。</content>	
+	</para_msg>
+	<para_msg paragraph="10251200" >
+			<content effect_num="0" >但我明白这样是不行的。在前方还有更重要的任务等着我们。</content>			
+	</para_msg>
+	<para_msg paragraph="10251300" >
+			<content effect_num="2" >夜幕降临，我和卡尔找到了一个可以避风的地方，准备轮流休息和守夜。</content>	
+	</para_msg>
+	<para_msg paragraph="10251400" end_scence_sound="true">
+			<content effect_num="0" index="1" >他一躺下来就发出了鼾声，而我没有丝毫倦意。</content>
+			<content effect_num="0" index="2" >我将篝火拨弄得更旺一些，希望能驱走心中的阴霾。</content>		
+	</para_msg>
+	<para_msg paragraph="10251500" >
+			<content effect_num="0" talker="？？？">巴塞特……巴塞特……</content>		
+	</para_msg>
+	<para_msg paragraph="10251600" >
+			<content effect_num="0" >熟悉的声音。</content>		
+	</para_msg>
+	<para_msg paragraph="10251700" >
+			<content effect_num="0" >不，不仅是“熟悉”这么简单。这是我日夜期盼着的声音。</content>		
+	</para_msg>
+	<para_msg paragraph="10251800" >
+			<content effect_num="0" index="1" >我一直期盼她出现，担心她的安危。</content>
+			<content effect_num="0" index="2" >现在我心头的担忧总算是消除了。</content>		
+	</para_msg>
+	<para_msg paragraph="10251900" start_scence_sound="950004.mp3">
+			<content effect_num="0" >她安然无恙地出现在火光的尽头，迈着略显疲惫的步子朝我走来。</content>		
+	</para_msg>
+	<para_msg paragraph="10252000" >
+			<content effect_num="0" >太好了，她没事。</content>						
+	</para_msg>
+	<para_msg paragraph="10252100" >
+			<content effect_num="0" talker="巴塞特">娜薇！</content>		
+	</para_msg>
+	<para_msg paragraph="10252200" >
+			<content effect_num="0" talker="阿娜丝塔夏">抱歉，让你担心了。</content>	
+	</para_msg>
+	<para_msg paragraph="10252300" >
+			<content effect_num="0" >她径直走到我身边，靠着我坐下。</content>					
+	</para_msg>
+	<para_msg paragraph="10252400" >
+			<content effect_num="0" >大概是因为太累的缘故，她倚在我的肩上，闭上眼，轻轻地喘息着。</content>
+	</para_msg>
+	<para_msg paragraph="10252500" >
+			<content effect_num="0" index="1" >在火光映照下，她显得比以往任何时候都要妩媚。</content>
+			<content effect_num="0" index="2" >她身上每一处仿佛都在说话，在告诉我，现在身边的人是一位可爱的少女。</content>		
+	</para_msg>
+	<para_msg paragraph="10252600" >
+			<content effect_num="0" >我从来没有见过她有这副诱人的模样，一下子不知该怎么办才好。</content>		
+	</para_msg>
+	<para_msg paragraph="10252700" >
+			<content effect_num="0" talker="阿娜丝塔夏">巴塞特……喜欢我吗？</content>		
+	</para_msg>
+	<para_msg paragraph="10252800" >
+			<content effect_num="0" talker="巴塞特">…… ……</content>			
+	</para_msg>
+	<para_msg paragraph="10252900" >
+			<content effect_num="0" >她竟然会主动问这样的问题，这一点都不像她。</content>	
+	</para_msg>
+	<para_msg paragraph="10253000" >
+			<content effect_num="0" >但是，今晚的她的确浑身充满了令人难以抗拒的魅力。</content>	
+	</para_msg>
+	<para_msg paragraph="10253100" >
+			<content effect_num="0" talker="巴塞特">怎……怎么了？娜薇。</content>	
+	</para_msg>
+	<para_msg paragraph="10253200" >
+			<content effect_num="0" talker="阿娜丝塔夏">我很喜欢你哟，非常喜欢……</content>	
+	</para_msg>
+	<para_msg paragraph="10253300" >
+			<content effect_num="0" talker="阿娜丝塔夏">离开你身边之后，发现自己已经无法忍受没有你的日子了。</content>					
+	</para_msg>
+	<para_msg paragraph="10253400" >
+			<content effect_num="0" talker="阿娜丝塔夏">太好了，终于又见到你。这一次我不会再离开了……</content>
+	</para_msg>
+	<para_msg paragraph="10253500" >
+			<content effect_num="2" >不对劲，这个娜薇完全不对劲。</content>			
+	</para_msg>
+	<para_msg paragraph="10253600" >
+			<content effect_num="0" >因为她这么说着的时候，纤细的身子已经像白蛇一样缠上了我的身体。</content>	
+	</para_msg>
+	<para_msg paragraph="10253700" >
+			<content effect_num="0" >细弱的手脚在我的大衣上轻轻磨蹭着。而她的嘴已经凑到了我的耳边，用挑逗的方式吹着热气。</content>	
+	</para_msg>
+	<para_msg paragraph="10253800" >
+			<content effect_num="0" talker="阿娜丝塔夏">其实我也懂得一些取悦男人的技巧。</content>		
+	</para_msg>
+	<para_msg paragraph="10253900" >
+			<content effect_num="0" talker="阿娜丝塔夏">所以，没关系的……只要是巴塞特的话，就算对我做得更过分一点也是没关系的……</content>
+	</para_msg>
+	<para_msg paragraph="10254000" >
+			<content effect_num="0" >我吃惊地看着她。她整个人都趴在我身上，用妖媚的目光看着我。</content>											
+	</para_msg>
+	<para_msg paragraph="10254100" >
+			<content effect_num="0" index="1" >她解开了上衣的钮扣。</content>
+			<content effect_num="0" index="2" >藏在下面的那一抹白色，像躁动的兔子一样，马上就要跳出来。</content>	
+	</para_msg>
+	<para_msg paragraph="10254200" >
+			<content effect_num="0" >但是……她的胸前……</content>			
+	</para_msg>
+	<para_msg paragraph="10254300" end_scence_sound="true">
+			<content effect_num="0" talker="巴塞特">停下，别动。</content>	
+	</para_msg>
+	<para_msg paragraph="10254400" >
+			<content effect_num="0" talker="阿娜丝塔夏">巴塞特？</content>			
+	</para_msg>
+	<para_msg paragraph="10254500" start_scence_sound="950003.mp3">
+			<content effect_num="0" index="1" >我把一只手盖在了她的头盔上。</content>
+			<content effect_num="0" index="2" >只要她再有什么动作，我就会立刻毫不留情地放出杀伤性的法术。</content>		
+	</para_msg>
+	<para_msg paragraph="10254600" >
+			<content effect_num="0" >这个人不是娜薇。</content>				
+	</para_msg>
+	<para_msg paragraph="10254700" >
+			<content effect_num="0" talker="阿娜丝塔夏">巴塞特，为什么……</content>	
+	</para_msg>
+	<para_msg paragraph="10254800" >
+			<content effect_num="0" talker="巴塞特">不要叫得那么亲切。快交代，你是谁？</content>		
+	</para_msg>
+	<para_msg paragraph="10254900" >
+			<content effect_num="0" index="1" talker="巴塞特">我已经知道了，你不是她。</content>
+			<content effect_num="0" index="2" talker="巴塞特">你的伪装虽然很逼真，但有些东西光从外表上是无法看出来的。</content>
+	</para_msg>
+	<para_msg paragraph="10255000" >
+			<content effect_num="0" talker="阿娜丝塔夏">…… ……</content>				
+	</para_msg>
+	<para_msg paragraph="10255100" >
+			<content effect_num="0" talker="阿娜丝塔夏">哎呀，是这样吗？那还真是可惜呢。</content>												
+	</para_msg>
+	<para_msg paragraph="10255200" >
+			<content effect_num="0" talker="阿娜丝塔夏">我本来还想让你享受到极乐的欢愉之后，再要了你的命，这样我们的巴塞特修士也算此生无憾了。</content>	
+	</para_msg>
+	<para_msg paragraph="10255300" >
+			<content effect_num="0" index="1" talker="卡尔">他可没那么容易就被杀死。</content>
+			<content effect_num="0" index="2" talker="卡尔">你想趁着肌肤之亲，寻找他身上的圣痕吧？</content>	
+	</para_msg>
+	<para_msg paragraph="10255400" >
+			<content effect_num="0" index="1">冷不防的，之前还睡得跟死猪一样的家伙开口了。</content>
+			<content effect_num="0" index="2">他举起枪，对着伪装者的脑袋。</content>				
+	</para_msg>
+	<para_msg paragraph="10255500" >
+			<content effect_num="0" talker="巴塞特">你没反抗的余地了，快点露出本来面目吧。</content>	
+	</para_msg>
+	<para_msg paragraph="10255600" >
+			<content effect_num="0" talker="？？？">本来面目？哎呀，你真见外，我的本来面目不是早就让你看过了吗？ </content>		
+	</para_msg>
+	<para_msg paragraph="10255700" >
+			<content effect_num="0" talker="？？？">是我啦，是我！ </content>	
+	</para_msg>
+	<para_msg paragraph="10255800" >
+			<content effect_num="0" >伪装在红色的烟雾中消散殆尽，她露出了自己的真身。</content>			
+	</para_msg>
+	<para_msg paragraph="10255900" >
+			<content effect_num="0" >虽然之前有做过这样的猜测，但应验时还是令我吃惊不小。</content>	
+	</para_msg>
+	<para_msg paragraph="10256000" >
+			<content effect_num="0" >是那个叫司马雪的黄昏之铃少女。</content>		
+	</para_msg>
+	<para_msg paragraph="10256100" >
+			<content effect_num="0" index="1">我真不愿再见到她。</content>
+			<content effect_num="0" index="2">一看到她的脸，我就会想起以前的事。</content>	
+	</para_msg>
+	<para_msg paragraph="10256200" >
+			<content effect_num="0" >——那些我不想再去回忆的往事。</content>										
+	</para_msg>
+	<para_msg paragraph="10256300" >
+			<content effect_num="0" talker="司马雪">好呐，好呐。既然已经败露，那就只好正面决战了。</content>
+	</para_msg>
+	<para_msg paragraph="10256400" >
+			<content effect_num="0" talker="巴塞特">动手。</content>
+	</para_msg>
+	<para_msg paragraph="10256500" >
+			<content effect_num="0" >我的目的很明确——让她永远从我的视野里消失。</content>			
+	</para_msg>
+	<para_msg paragraph="10256600" next_p="10256602">
+			<content effect_num="0" sound="960001.mp3">我发动起攻击法术的同时，卡尔的枪声也响了。</content>	
+	</para_msg>
+	<para_msg paragraph="10256602" next_p="10256700">
+			<content effect_num="0"  />
+	</para_msg>
+	<para_msg paragraph="10256700" >
+			<content effect_num="0" index="1">但是，我们面前却发生了意想不到的状况。</content>
+			<content effect_num="0" index="2">射向敌人的法术和子弹都在她身前停止了前进，像是撞上了一面看不见的墙。</content>		
+	</para_msg>
+	<para_msg paragraph="10256800" >
+			<content effect_num="0" >明明产生的爆炸把不远处的柴火都全吹上了天，但这个少女却一点事都没有。</content>	
+	</para_msg>
+	<para_msg paragraph="10256900" >
+			<content effect_num="0" talker="司马雪">哎呀，好痛好痛，我要挂了！</content>		
+	</para_msg>
+	<para_msg paragraph="10257000" >
+			<content effect_num="0" talker="司马雪">诶？好像没事？</content>			
+	</para_msg>
+	<para_msg paragraph="10257100" >
+			<content effect_num="0" talker="巴塞特">……怎么回事？</content>	
+	</para_msg>
+	<para_msg paragraph="10257200" >
+			<content effect_num="0" talker="？？？">反魔法结界。她在色诱你之前就已经在这附近布置好了。</content>		
+	</para_msg>
+	<para_msg paragraph="10257300" >
+			<content effect_num="0" talker="？？？">两个大男人，竟然连小姑娘的把戏都看不透？真是够笨的。</content>	
+	</para_msg>
+	<para_msg paragraph="10257400" >
+			<content effect_num="0" talker="司马雪">啊？</content>
+	</para_msg>
+	<para_msg paragraph="10257500" >
+			<content effect_num="0" talker="巴塞特">——！</content>	
+	</para_msg>
+	<para_msg paragraph="10257600" >
+			<content effect_num="0" >这一次不会错了——我发自内心地肯定。</content>		
+	</para_msg>
+	<para_msg paragraph="10257700" >
+			<content effect_num="0" >因为司马雪第一次露出那样惊讶的表情，显然连她也没有想到那个人会出现。</content>		
+	</para_msg>
+	<para_msg paragraph="10257800" >
+			<content effect_num="0" >不用质疑的，是娜薇，不会假。</content>			
+	</para_msg>
+	<para_msg paragraph="10257900" >
+			<content effect_num="0" index="1" talker="阿娜丝塔夏">你在悬崖下的山谷里埋伏的人都被我干掉了。</content>
+			<content effect_num="0" index="2" talker="阿娜丝塔夏">虽然浪费了不少时间，但你的动作倒是比我预想的要慢得多。</content>			
+	</para_msg>
+	<para_msg paragraph="10258000" >
+			<content effect_num="0" talker="司马雪">…… ……</content>		
+	</para_msg>
+	<para_msg paragraph="10258100" >
+			<content effect_num="0" index="1" talker="阿娜丝塔夏">实际上在你来这儿之前我就发现你了。</content>
+			<content effect_num="0" index="2" talker="阿娜丝塔夏">不过，我很好奇你伪装成我要干什么，于是跟了上来，但没有动手。</content>		
+	</para_msg>
+	<para_msg paragraph="10258200" >
+			<content effect_num="0" talker="阿娜丝塔夏">真是可笑，我怎么可能对那家伙做这么不知羞耻的事呢？</content>	
+	</para_msg>
+	<para_msg paragraph="10258300" >
+			<content effect_num="0" talker="巴塞特">当着我的面称呼“那家伙”……这也太……</content>
+	</para_msg>
+	<para_msg paragraph="10258400" >
+			<content effect_num="0" talker="阿娜丝塔夏">你只会模仿别人的外表，却模仿不了别人的心吧？</content>																					
+	</para_msg>
+	<para_msg paragraph="10258500" >
+			<content effect_num="0" talker="司马雪">呼，失算啊，失算。</content>		
+	</para_msg>
+	<para_msg paragraph="10258600" >
+			<content effect_num="0" index="1" talker="阿娜丝塔夏">束手就擒吧。</content>
+			<content effect_num="0" index="2" talker="阿娜丝塔夏">或者说你想试试被铁锤砸烂的滋味？</content>	
+	</para_msg>
+	<para_msg paragraph="10258700" >
+			<content effect_num="0" talker="司马雪">嗯？要我投降么？我想想……</content>		
+	</para_msg>
+	<para_msg paragraph="10258800" >
+			<content effect_num="0" talker="司马雪">好像情况真的对我很不利呢。</content>	
+	</para_msg>
+	<para_msg paragraph="10258900" >
+			<content effect_num="0">奇怪，这个叫司马雪的少女完全没有表现出任何失望或是惊慌的模样。</content>				
+	</para_msg>
+	<para_msg paragraph="10259000" >
+			<content effect_num="0">难道她还留了什么后手吗？</content>		
+	</para_msg>
+	<para_msg paragraph="10259100" >
+			<content effect_num="0" talker="司马雪">我决定了！</content>					
+	</para_msg>
+	<para_msg paragraph="10259200" >
+			<content effect_num="0" talker="司马雪">黄昏的仆从啊，不用再躲着了！给我立刻现身，杀光敌人！</content>
+	</para_msg>
+	<para_msg paragraph="10259300" >
+			<content effect_num="0">她伸出手，竖起的指尖朝向天空。</content>			
+	</para_msg>
+	<para_msg paragraph="10259400" >
+			<content effect_num="0" talker="巴塞特">不好……</content>		
+	</para_msg>
+	<para_msg paragraph="10259500" >
+			<content effect_num="0" talker="阿娜丝塔夏">还有敌人吗？！</content>	
+	</para_msg>
+	<para_msg paragraph="10259600" >
+			<content effect_num="0">被她的手势吸引，我们同时下意识向上仰望。</content>				
+	</para_msg>
+	<para_msg paragraph="10259700" >
+			<content effect_num="0">但是，除了飘落的雪花，什么都没看到。</content>
+	</para_msg>
+	<para_msg paragraph="10259800" >
+			<content effect_num="0">上当了——我立刻回过神来。</content>	
+	</para_msg>
+	<para_msg paragraph="10259900" >
+			<content effect_num="0">赶快低下头，发现她已经咬破了自己的手指，把血滴在脚下。</content>		
+	</para_msg>
+	<para_msg paragraph="10260000" >
+			<content effect_num="1">以她站着的地方为中心，无数道透明的线猛然向四周延伸出去。</content>		
+	</para_msg>
+	<para_msg paragraph="10260100" >
+			<content effect_num="0" talker="司马雪">嘿嘿，我果然还是不想栽在这里。</content>
+		</para_msg>
+	<para_msg paragraph="10260200" >
+			<content effect_num="0" talker="阿娜丝塔夏">是传送阵！她的目的是逃跑！</content>		
+	</para_msg>
+	<para_msg paragraph="10260300" >
+			<content effect_num="0" talker="司马雪">唔，我现在该说什么呢？</content>											
+	</para_msg>
+	<para_msg paragraph="10260400" >
+			<content effect_num="0" talker="司马雪">“再见”吧？当然，不要以为你们赢了。</content>
+	</para_msg>
+	<para_msg paragraph="10260500" next_p="10260700">
+			<content effect_num="0" talker="巴塞特">嘁……</content>
+	</para_msg>
+	<para_msg paragraph="10260700" end_scence_sound="true">
+			<content effect_num="2" index="1">司马雪的再次出现，印证了我们的猜测。</content>
+			<content effect_num="0" index="2">——黄昏之铃阵营中果然有一个狡猾的易容术使用者。</content>		
+	</para_msg>
+	<para_msg paragraph="10260800" >
+			<content effect_num="0" >虽然被她耍得团团转，但好在及时发觉了真相。</content>	
+	</para_msg>
+	<para_msg paragraph="10260900" >
+			<content effect_num="0" index="1">之后，我花了一些时间研究她布置的结界。</content>
+			<content effect_num="0" index="2">这是一个以我们的露营地为中心，半径接近三英里的，用树枝在雪地上勾勒出来的魔法阵。</content>	
+	</para_msg>
+	<para_msg paragraph="10261000" >
+			<content effect_num="0" index="1">刻在阵中的咒文是限制魔法使的。</content>
+			<content effect_num="0" index="2">布置并且让结界起效非常费时费力，但只要成型就可以大幅度降低身处结界中的魔法使们可使用的能力。</content>	
+	</para_msg>
+	<para_msg paragraph="10261100" >
+			<content effect_num="0" >平时可以轻易烧毁一棵大树的魔法，会变得连一只蚂蚁都烧不死。</content>
+	</para_msg>
+	<para_msg paragraph="10261200" >
+			<content effect_num="0" index="1">幸好娜薇出现得及时。</content>
+			<content effect_num="0" index="2">我和卡尔都是被封死施法能力就基本废掉的类型，如果没有她的话，十有八九已经被敌人干掉了。</content>		
+	</para_msg>
+	<para_msg paragraph="10261300" >
+			<content effect_num="0" index="1">我不得不惊叹这个少女的手法。魔法阵完美无缺，非常细密地封死了每一个可能给对方钻空子的漏洞。</content>
+			<content effect_num="0" index="2">而且，她是在我们完全没有察觉到的情况下做到这一切的。</content>	
+	</para_msg>
+	<para_msg paragraph="10261400" start_scence_sound="950004.mp3">
+			<content effect_num="0" talker="阿娜丝塔夏">巴塞特，有个事情我没想明白。</content>		
+	</para_msg>
+	<para_msg paragraph="10261500" >
+			<content effect_num="0">在继续北行之前，她突然这样问道。</content>				
+	</para_msg>
+	<para_msg paragraph="10261600" >
+			<content effect_num="0" talker="巴塞特">什么？</content>		
+  </para_msg>
+	<para_msg paragraph="10261700" >
+			<content effect_num="0" talker="阿娜丝塔夏">你怎么发现那个我是司马雪假扮的？</content>	
+	</para_msg>		
+	<para_msg paragraph="10261800" >
+			<content effect_num="0" talker="巴塞特">嗯？这个很简单。</content>		
+	</para_msg>
+	<para_msg paragraph="10261900" >
+			<content effect_num="0" index="1" talker="巴塞特">她胸部没有圣痕刻印。</content>
+			<content effect_num="0" index="2" talker="巴塞特">虽然外表和你完全一致，但最关键的地方暴露了她的伪装。</content>		
+	</para_msg>
+	<para_msg paragraph="10262000" >
+			<content effect_num="0" talker="阿娜丝塔夏">…… ……</content>											
+	</para_msg>
+	<para_msg paragraph="10262100" >
+			<content effect_num="0" talker="阿娜丝塔夏">你不会……一直盯着别人的胸脯在看吧？</content>		
+	</para_msg>
+	<para_msg paragraph="10262200" >
+			<content effect_num="0" talker="巴塞特">怎么可能……</content>		
+	</para_msg>
+	<para_msg paragraph="10262300" >
+			<content effect_num="0" >话刚说到一半，就被我生生吞了回去。</content>		
+	</para_msg>
+	<para_msg paragraph="10262400" >
+			<content effect_num="0" index="1">这一次，我被弄得更糊涂了。</content>
+			<content effect_num="0" index="2">因为娜薇突然扑了上来，抱住了我。</content>	
+	</para_msg>
+	<para_msg paragraph="10262500" >
+			<content effect_num="0" talker="巴塞特">那个……这个……</content>			
+	</para_msg>
+	<para_msg paragraph="10262600" >
+			<content effect_num="0" talker="阿娜丝塔夏">别紧张！</content>						
+	</para_msg>
+	<para_msg paragraph="10262700" >
+			<content effect_num="0" talker="阿娜丝塔夏">我只是希望你记住，如果是我的话，抱着的时候应该是这样的感受才对！</content>
+	</para_msg>
+	<para_msg paragraph="10262800" >
+			<content effect_num="0" talker="阿娜丝塔夏">所以，下一次再遇到这种情况，我希望你能在接触到对方时立刻就察觉到危险，别笨到色咪咪地看了半天胸……胸……胸部，才分辨出真假来！</content>		
+	</para_msg>
+	<para_msg paragraph="10262900" >
+			<content effect_num="0" talker="阿娜丝塔夏">到时候我恐怕就没办法这么及时出现，救你性命了！</content>
+	</para_msg>
+	<para_msg paragraph="10263000" >
+			<content effect_num="0" talker="阿娜丝塔夏">记好！把现在的体会给我全部记住，不许忘记！</content>	
+	</para_msg>
+	<para_msg paragraph="10263100" >
+			<content effect_num="0" talker="巴塞特">呃……好……没问题……</content>		
+	</para_msg>
+	<para_msg paragraph="10263200" >
+			<content effect_num="0" talker="阿娜丝塔夏">你脸红什么？！不要在脑子里想那些不知羞耻的事情！</content>		
+	</para_msg>
+	<para_msg paragraph="10263300" >
+			<content effect_num="0" talker="卡尔">那个……我说……</content>					
+	</para_msg>
+	<para_msg paragraph="10263400" >
+			<content effect_num="0" talker="卡尔">虽然打扰你们的雅兴很不好意思，但我们得准备赶路了。</content>							
+	</para_msg>
+	<para_msg paragraph="10263500" >
+			<content effect_num="0" talker="卡尔">另外，我也可能会被色诱啊。为什么不让我也抱一下？</content>		
+	</para_msg>
+	<para_msg paragraph="10263600" >
+			<content effect_num="0" talker="阿娜丝塔夏">闭嘴！</content>			
+	</para_msg>
+	<para_msg paragraph="10263700" >
+			<content effect_num="0" talker="卡尔">……好，好。反正我在你心目中的地位比巴塞特低100万级嘛。</content>		
+	</para_msg>
+	<para_msg paragraph="10263800" >
+			<content effect_num="0">我们相互之间开着玩笑，直到上路时还沉浸在闹哄哄的气氛之中。</content>	
+	</para_msg>
+	<para_msg paragraph="10263900" >
+			<content effect_num="0" index="1">我还是没有把自己心中的担忧说出来。</content>
+			<content effect_num="0" index="2">我害怕说出来之后，他们就再也不会笑了。</content>		
+	</para_msg>
+	<para_msg paragraph="10264000" >
+			<content effect_num="0">在北方，究竟还有多少敌人等着我们？</content>						
+	</para_msg>
+	<para_msg paragraph="10264100" >
+			<content effect_num="0">我不知道……甚至对于我们能不能在不久之后还这样在一起，我也不敢断定。</content>	
+	</para_msg>
+	<para_msg paragraph="10264200" >
+			<content effect_num="0">因为，在说笑着的时候，我忽然发现那红色的闪电已经看不到了。</content>	
+	</para_msg>
+	<para_msg paragraph="10264300" end_scence_sound="true">
+			<content effect_num="2" />		
+	</para_msg>
+	<para_msg paragraph="10264400" >
+			<content effect_num="2">上午11点，我躺在床上。</content>	
+  </para_msg>
+	<para_msg paragraph="10264500" >
+			<content effect_num="0">并不是学校今天放假或是我决定自暴自弃逃学，而是……我生病了。</content>	
+	</para_msg>
+	<para_msg paragraph="10264600" >
+			<content effect_num="0" index="1">昨晚我又在做梦。</content>
+			<content effect_num="0" index="2">隐约觉得和之前的梦是衔接在一起的，但还是什么都记不得。</content>
+	</para_msg>
+	<para_msg paragraph="10264700" >
+			<content effect_num="0" index="1">但是，醒来后不久，大脑却受到了猝不及防的一击。</content>
+			<content effect_num="0" index="2">要说具体的感觉，就像是被几十伏的电给烧到了一样。</content>	
+	</para_msg>
+	<para_msg paragraph="10264800" >
+			<content effect_num="0">下床之后勉强走了几步，我就一个踉跄跌倒在地，竟然还很丢脸地昏了过去。</content>	
+	</para_msg>
+	<para_msg paragraph="10264900" >
+			<content effect_num="0" index="1">再次苏醒时，自己已经躺在床上。</content>
+			<content effect_num="0" index="2">音姐坐在床边，紧紧握着我的一只手，一脸担忧地看着我。</content>		
+	</para_msg>
+	<para_msg paragraph="10265000" >
+			<content effect_num="0" index="1">我明白，自己又不争气地让她操心了。</content>
+			<content effect_num="0" index="2">于是我提出自己去医院看病，但被她以少见的强硬态度拒绝。</content>	
+	</para_msg>
+	<para_msg paragraph="10265100" >
+			<content effect_num="0">她没有去上班，而是留在家里照顾我。</content>			
+	</para_msg>
+	<para_msg paragraph="10265200" next_p="10265400">
+			<content effect_num="0">李俊明啊李俊明，你果然还是音姐的拖油瓶。</content>		
+	</para_msg>
+	<para_msg paragraph="10265400" start_scence_sound="950002.mp3">
+			<content effect_num="2">中午的时候，音姐端着一碗粥走进了卧室里。</content>	
+	</para_msg>
+	<para_msg paragraph="10265500" >
+			<content effect_num="0" talker="李晓音">感觉好些了吗？小明。</content>		
+	</para_msg>
+	<para_msg paragraph="10265600" >
+			<content effect_num="0" talker="李俊明">嗯……</content>			
+	</para_msg>
+	<para_msg paragraph="10265700" >
+			<content effect_num="0" talker="李晓音">你的脸还是红通通的。让我看看。</content>		
+	</para_msg>
+	<para_msg paragraph="10265800" >
+			<content effect_num="0" index="1">她不等我回话，就把一只手掌放在了我额头上。</content>
+			<content effect_num="0" index="2">她的手心是冰凉的。</content>			
+	</para_msg>
+	<para_msg paragraph="10265900" >
+			<content effect_num="0" talker="李晓音">还有一点发烧呢。</content>	
+	</para_msg>
+	<para_msg paragraph="10266000" >
+			<content effect_num="0" index="1" talker="李晓音">肚子饿了吧？</content>
+			<content effect_num="0" index="2" talker="李晓音">我熬了皮蛋肉粥。要不要喝一点？</content>
+	</para_msg>
+	<para_msg paragraph="10266100" >
+			<content effect_num="0" talker="李俊明">…… ……</content>														
+	</para_msg>
+	<para_msg paragraph="10266200" >
+			<content effect_num="0">不知道该怎么回答才好。</content>	
+	</para_msg>
+	<para_msg paragraph="10266300" >
+			<content effect_num="0" index="1">音姐对我的关心，无微不至到有些过分了。</content>
+			<content effect_num="0" index="2">总觉得，她这样做好像很勉强自己的样子。</content>		
+	</para_msg>
+	<para_msg paragraph="10266400" >
+			<content effect_num="0">不应该再给她添麻烦了。</content>														
+	</para_msg>
+	<para_msg paragraph="10266500" >
+			<content effect_num="0" talker="李晓音">怎么不说话？果然还是不太舒服吗？</content>	
+	</para_msg>
+	<para_msg paragraph="10266600" >
+			<content effect_num="0" talker="李晓音">如果你没什么力气的话，干脆我喂你喝粥吧？</content>	
+	</para_msg>
+	<para_msg paragraph="10266700" >
+			<content effect_num="0" talker="李俊明">啊，千万不要！</content>		
+	</para_msg>
+	<para_msg paragraph="10266800" >
+			<content effect_num="0" talker="李晓音">诶……？</content>		
+	</para_msg>
+	<para_msg paragraph="10266900" >
+			<content effect_num="0" talker="李俊明">呃，我的意思是，这些事情我都可以自己做的。</content>	
+	</para_msg>
+	<para_msg paragraph="10267000" >
+			<content effect_num="0" talker="李俊明">你看，我其实已经恢复得差不多了，下午就可以去学校。</content>	
+	</para_msg>
+	<para_msg paragraph="10267100" >
+			<content effect_num="0" talker="李俊明">所以，音姐你不要太过于担心我。如果你还有什么事要做的话，就去做吧！</content>	
+	</para_msg>
+	<para_msg paragraph="10267200" >
+			<content effect_num="0">为了证明自己不是在说谎，我直接从床上坐了起来，用力挥着胳膊。</content>	
+	</para_msg>
+	<para_msg paragraph="10267300" >
+			<content effect_num="0" talker="李晓音">…… ……</content>		
+	</para_msg>
+	<para_msg paragraph="10267400" >
+			<content effect_num="0" index="1">奇怪，为什么我开始说话，她却沉默了？</content>
+			<content effect_num="0" index="2">而且，还用那种“我是非常非常担心你啊”的眼神看着我……她还是对我不放心吗？</content>	
+	</para_msg>
+	<para_msg paragraph="10267500" >
+			<content effect_num="0" index="1" talker="李俊明">真的，音姐你放心吧。</content>
+			<content effect_num="0" index="2" talker="李俊明">如果因为我而耽误你的工作，那我会很过意不去。</content>	
+	</para_msg>
+	<para_msg paragraph="10267600" >
+			<content effect_num="0" talker="李晓音">不必，我今天已经向公司请假了，所以哪儿都不会去。</content>			
+	</para_msg>
+	<para_msg paragraph="10267700" >
+			<content effect_num="0" index="1" talker="李晓音">小明也是。既然生病了，就好好休息。</content>
+			<content effect_num="0" index="2" talker="李晓音">如果强撑着去上学的话，在学校里倒下就太糟糕了。</content>	
+	</para_msg>
+	<para_msg paragraph="10267800" >
+			<content effect_num="0" index="1" talker="李晓音">你啊，不用担心我会耽误工作。就算你担心，也不可能帮我什么忙。</content>
+			<content effect_num="0" index="2" talker="李晓音">你只需要把自己身子养好，就算是对我最大的支持了。</content>			
+	</para_msg>
+	<para_msg paragraph="10267900" >
+			<content effect_num="0" talker="李俊明">…… ……</content>			
+	</para_msg>
+	<para_msg paragraph="10268000" >
+			<content effect_num="0" >她温柔地笑着，但我却无法像以往那样因她的笑而轻松起来。</content>																									
+	</para_msg>
+	<para_msg paragraph="10268100" >
+			<content effect_num="0" >不行，这样依赖她是不对的。</content>	
+	</para_msg>
+	<para_msg paragraph="10268200" >
+			<content effect_num="0" talker="李俊明">我觉得……一直以来都让你劳心了。</content>		
+	</para_msg>
+	<para_msg paragraph="10268300" >
+			<content effect_num="0" index="1" talker="李俊明">音姐总是什么事都为我着想，我也习惯了这样。</content>
+			<content effect_num="0" index="2" talker="李俊明">但是现在想起来，音姐你什么时候为自己着想过呢？</content>			
+	</para_msg>
+	<para_msg paragraph="10268400" >
+			<content effect_num="0" talker="李晓音">唔？</content>			
+	</para_msg>
+	<para_msg paragraph="10268500" >
+			<content effect_num="0" talker="李晓音">呵呵，这不是问题。</content>	
+	</para_msg>
+	<para_msg paragraph="10268600" >
+			<content effect_num="0" index="1" talker="李晓音">对我来说，只要你能健康成长就是最好的。</content>
+			<content effect_num="0" index="2" talker="李晓音">我之所以要工作，也是为了让我们俩生活无忧。</content>	
+	</para_msg>
+	<para_msg paragraph="10268700" >
+			<content effect_num="0" talker="李晓音">如果你在学校里还要担心生活上的事，那我就是个差劲的姐姐。</content>
+	</para_msg>
+	<para_msg paragraph="10268800" >
+			<content effect_num="0" index="1" talker="李晓音">反过来，如果你生活很开心，那我也会和你一同开心的。</content>
+			<content effect_num="0" index="2" talker="李晓音">因为你获得幸福的话，就是对我一直以来的努力做出了最大的肯定。</content>		
+	</para_msg>
+	<para_msg paragraph="10268900" >
+			<content effect_num="0" talker="李俊明">……但是，音姐，我……</content>		
+	</para_msg>
+	<para_msg paragraph="10269000" >
+			<content effect_num="0" index="1">我还想争辩，但音姐把食指盖在了我的嘴巴上。</content>
+			<content effect_num="0" index="2">她眨了眨眼睛，示意我不要再说什么。</content>			
+	</para_msg>
+	<para_msg paragraph="10269100" >
+			<content effect_num="0" talker="李晓音">呼……一本正经地说了这么多，大概你也听得烦了吧？</content>		
+	</para_msg>
+	<para_msg paragraph="10269200" >
+			<content effect_num="0" talker="李晓音">能自己起床吗？如果不行的话，我来喂你喝些粥。</content>	
+	</para_msg>
+	<para_msg paragraph="10269300" >
+			<content effect_num="0" talker="李俊明">啊，不用！我自己可以的。</content>	
+	</para_msg>
+	<para_msg paragraph="10269400" >
+			<content effect_num="0">看到她已经伸手去端碗，我连忙大喊起来。</content>		
+	</para_msg>
+	<para_msg paragraph="10269500" >
+			<content effect_num="0" talker="李晓音">唔？</content>		
+	</para_msg>
+	<para_msg paragraph="10269600" >
+			<content effect_num="0" talker="李晓音">你差点吓到我了，小明。</content>										
+	</para_msg>
+	<para_msg paragraph="10269700" >
+			<content effect_num="0" talker="李晓音">不过，看到你这么有精神，我也放心不少。</content>
+	</para_msg>
+	<para_msg paragraph="10269800" >
+			<content effect_num="0" index="1" talker="李晓音">我去厨房里做一些清淡的菜。</content>
+			<content effect_num="0" index="2" talker="李晓音">喝完粥之后就把碗放在床边，然后好好睡一觉吧。</content>	
+	</para_msg>
+	<para_msg paragraph="10269900" >
+			<content effect_num="0" talker="李晓音">如果觉得哪里不舒服的话，喊一声就好。我会马上过来的。</content>		
+	</para_msg>
+	<para_msg paragraph="10270000" >
+			<content effect_num="0" talker="李俊明">嗯……</content>			
+	</para_msg>
+	<para_msg paragraph="10270100" >
+			<content effect_num="0" index="1">音姐交待完之后，还不放心地看着我。</content>
+	  	<content effect_num="0" index="2">好一会儿之后，她才像是如释重负那样长舒了一口气，离开了我的卧室。</content>	
+	</para_msg>
+	<para_msg paragraph="10270200" >
+			<content effect_num="0">真是的，对自己的弟弟不放心到这种程度……</content>		
+	</para_msg>
+	<para_msg paragraph="10270300" >
+			<content effect_num="0" index="1">我拿过碗，一口一口地喝着粥。</content>
+	  	<content effect_num="0" index="2">大概是生病导致味觉变弱，总觉得今天的粥有点咸。</content>	
+	</para_msg>
+	<para_msg paragraph="10270400" next_p="10270900" end_scence_sound="true">
+			<content effect_num="2" />	
+	</para_msg>
+	<para_msg paragraph="10270900" start_scence_sound="950004.mp3">
+			<content effect_num="2">在一个平常的午后，娜薇突然主动跑来找我。</content>
+	</para_msg>
+	<para_msg paragraph="10271000" >
+			<content effect_num="0" index="1">令我在意的不是她来这儿的目的，而是她手上拿着的东西。</content>
+	  	<content effect_num="0" index="2">一个紫水晶的垂饰。</content>		
+	</para_msg>
+	<para_msg paragraph="10271100" >
+			<content effect_num="0" talker="阿娜丝塔夏">你最近到处寻找的坠饰是这个么？巴塞特。</content>		
+	</para_msg>
+	<para_msg paragraph="10271200" >
+			<content effect_num="0" talker="阿娜丝塔夏">从外表上看，和你之前描述的很像。我早上在教堂外的水井旁边发现的。</content>	
+	</para_msg>
+	<para_msg paragraph="10271300" >
+			<content effect_num="0" talker="巴塞特">给我看看！</content>	
+	</para_msg>
+	<para_msg paragraph="10271400" >
+			<content effect_num="0">匆忙地接过这个坠饰，那架势说不定更像是硬从她手里抢过来一样。</content>		
+	</para_msg>
+	<para_msg paragraph="10271500" >
+			<content effect_num="0">没有错，是这个，属于我的东西。</content>		
+	</para_msg>
+	<para_msg paragraph="10271600" >
+			<content effect_num="0" index="1">在那块漂亮的紫水晶后面藏有一个很小的旋钮。</content>
+	  	<content effect_num="0" index="2">我当着娜薇的面，将它旋开。</content>								  		
+	</para_msg>
+	<para_msg paragraph="10271700" >
+			<content effect_num="0" index="1">之前被水晶盖着的地方，一副画像显现出来。</content>
+	  	<content effect_num="0" index="2">穿着教会制服的金发少女，将她庄严的容貌留在了这淡彩的描绘上。</content>		
+	</para_msg>
+	<para_msg paragraph="10271800" >
+			<content effect_num="0" talker="阿娜丝塔夏">这是……？</content> 
+	</para_msg>
+	<para_msg paragraph="10271900" >
+			<content effect_num="0" talker="巴塞特">你想知道吗？</content> 		
+	</para_msg>
+	<para_msg paragraph="10272000" >
+			<content effect_num="0" index="1" talker="阿娜丝塔夏">……不用。</content>
+	  	<content effect_num="0" index="2" talker="阿娜丝塔夏">这应该是你的隐私，我没有必须知道的权利。</content>	
+	</para_msg>
+	<para_msg paragraph="10272100" >
+			<content effect_num="0" index="1">娜薇的回答总是这样一板一眼的。</content>
+	  	<content effect_num="0" index="2">不过，和她相处这么长的日子以来，我已经渐渐习惯了她的个性。</content>	 
+	</para_msg>
+	<para_msg paragraph="10272200" >
+			<content effect_num="0">实际上，我根本不用当着她的面揭开这个坠饰的秘密。但我现在却想这么做。</content>   
+	</para_msg>
+	<para_msg paragraph="10272300" >
+			<content effect_num="0">我想这大概表示我希望她知道一些事吧？</content> 							 	
+	</para_msg>
+	<para_msg paragraph="10272400" >
+			<content effect_num="0" talker="巴塞特">其实也算不得是什么隐私，教会里很多人都知道这件事。</content> 
+	</para_msg>
+	<para_msg paragraph="10272500" >
+			<content effect_num="0" talker="巴塞特">这个人，是金色教会曾经的光荣。</content> 		  	
+	</para_msg>
+	<para_msg paragraph="10272600" >
+			<content effect_num="0" talker="巴塞特">她是我的上一任搭档，是在你之前持有惩戒之锤的人。</content>  	
+	</para_msg>
+	<para_msg paragraph="10272700" >
+			<content effect_num="0" talker="巴塞特">而且……她是和我在年幼时就订下婚约，本来将要成为我妻子的人。</content> 	
+	</para_msg>
+	<para_msg paragraph="10272800" >
+			<content effect_num="0" talker="巴塞特">已经是很多年前的事了。</content> 	
+	</para_msg>
+	<para_msg paragraph="10272900" >
+			<content effect_num="0" index="1">我还是说出来了。这段过往的故事在我的记忆中沉寂了太久。</content>
+	  	<content effect_num="0" index="2">但是，始终没有真正忘记。</content>		
+	</para_msg>
+	<para_msg paragraph="10273000" >
+			<content effect_num="0" talker="阿娜丝塔夏">容我冒昧问一句，她现在还活着吗？</content> 
+	</para_msg>
+	<para_msg paragraph="10273100" >
+			<content effect_num="0" talker="巴塞特">唔？为何要这样问呢？</content> 		
+	</para_msg>
+	<para_msg paragraph="10273200" >
+			<content effect_num="0" index="1" talker="阿娜丝塔夏">我知道，像你这样的圣痕铭刻者，寿命是接近无限的。</content>
+	  	<content effect_num="0" index="2" talker="阿娜丝塔夏">我也听教会的其他人说过，在我之前持有惩戒之锤的那个人也是铭刻者，但因为一些原因离开了教会。</content>
+	</para_msg>
+	<para_msg paragraph="10273300" >
+			<content effect_num="0" talker="阿娜丝塔夏">既然这样，如果她还活着的话，你们应该还是有机会见面的。</content>   
+	</para_msg>
+	<para_msg paragraph="10273400" >
+			<content effect_num="0" talker="阿娜丝塔夏">你是因为什么原因和她分别的？</content> 	
+	</para_msg>
+	<para_msg paragraph="10273500" >
+			<content effect_num="0" talker="巴塞特">哦？他们是这样和你说的啊……</content> 		
+	</para_msg>
+	<para_msg paragraph="10273600" >
+			<content effect_num="0" talker="巴塞特">哈……哈哈……哈哈哈哈哈哈哈哈……！</content>	
+	</para_msg>
+	<para_msg paragraph="10273700" >
+			<content effect_num="0" >我想笑，拼命地笑、大声地笑。</content>	
+	</para_msg>
+	<para_msg paragraph="10273800" >
+			<content effect_num="0" >恨不得就这样笑死为止。</content>			
+	</para_msg>
+	<para_msg paragraph="10273900" >
+			<content effect_num="0" index="1">分别……是啊，的确是分别。</content>
+	  	<content effect_num="0" index="2">只是分别的方式稍微残酷了些。</content>	
+	</para_msg>
+	<para_msg paragraph="10274000" >
+			<content effect_num="0" index="1" talker="阿娜丝塔夏">请不要用这样令人不快的笑声来回答我。</content>
+	  	<content effect_num="0" index="2" talker="阿娜丝塔夏">如果我说错了什么，烦请指出，我会道歉的。</content> 
+	</para_msg>
+	<para_msg paragraph="10274100" >
+			<content effect_num="0" talker="巴塞特">你什么都没说错，娜薇。你什么都没说错。</content>	 
+	</para_msg>
+	<para_msg paragraph="10274200" >
+			<content effect_num="0" index="1" talker="巴塞特">她的确是和我分别了。</content>
+	  	<content effect_num="0" index="2" talker="巴塞特">而且，她已经不在这世上了。</content> 		
+	</para_msg>
+	<para_msg paragraph="10274300" >
+			<content effect_num="0" talker="巴塞特">是我亲手杀了她。</content>  	 	 		
+	</para_msg>
+	<para_msg paragraph="10274400" >
+			<content effect_num="0">我毫无顾忌地将生命中最苦涩的那一部分记忆挖了出来。</content> 													  		
+	</para_msg>
+	<para_msg paragraph="10274500" >
+			<content effect_num="0">当它重见天日时，我仿佛又回到了当年那个被鲜血染红的月圆之夜。</content>  	
+	</para_msg>
+	<para_msg paragraph="10274600" >
+			<content effect_num="0" talker="阿娜丝塔夏">…… ……</content>			
+	</para_msg>
+	<para_msg paragraph="10274700" >
+			<content effect_num="0" talker="阿娜丝塔夏">对不起，我问了不该问的。但是，我希望能解释一下。</content>	
+	</para_msg>
+	<para_msg paragraph="10274800" >
+			<content effect_num="0" talker="巴塞特">你要解释什么？</content>		
+	</para_msg>
+	<para_msg paragraph="10274900" >
+			<content effect_num="0" talker="阿娜丝塔夏">我的确不知道过去发生在你身上的事。所以……</content>		
+	</para_msg>
+	<para_msg paragraph="10275000" >
+			<content effect_num="0" talker="阿娜丝塔夏">不，不管怎样，我不应冒昧地发问。</content>		
+	</para_msg>
+	<para_msg paragraph="10275100" >
+			<content effect_num="0" talker="巴塞特">错不在你，娜薇。</content>	
+	</para_msg>
+	<para_msg paragraph="10275200" >
+			<content effect_num="0" talker="巴塞特">对于圣痕铭刻者而言，这是必须通过的一道试炼。</content>	
+	</para_msg>
+	<para_msg paragraph="10275300" >
+			<content effect_num="0" talker="巴塞特">那时候，我以为对于铭刻者来说，寿命既然是无限的，那么感情也就是可有可无的东西。</content>	
+	</para_msg>
+	<para_msg paragraph="10275400" >
+			<content effect_num="0" index="1" talker="巴塞特">所以，我虽然喜欢自己的婚约对象，也曾和她一同留下了很多美好的回忆，但始终与她保持着距离。</content>
+	  	<content effect_num="0" index="2" talker="巴塞特">我认为，互相尊重，不去干涉对方的生活，以朋友的方式相处，是最好的选择。</content> 	
+	</para_msg>
+	<para_msg paragraph="10275500" >
+			<content effect_num="0" talker="巴塞特">但是，我错估了情欲的力量。</content>	 	
+	</para_msg>
+	<para_msg paragraph="10275600" >
+		  <content effect_num="0" talker="巴塞特">她爱上了另一个人，一个来自黑暗世界的男人。</content>		
+	</para_msg>
+	<para_msg paragraph="10275700" >
+			<content effect_num="0" index="1" talker="巴塞特">为了爱情，她毫不犹豫地就抛弃了自己拥有的一切。</content>
+	  	<content effect_num="0" index="2" talker="巴塞特">名声和地位、责任、义务、正义之锤……她在一夜之间全部抛弃。</content> 	 	
+	</para_msg>
+	<para_msg paragraph="10275800" >
+		  <content effect_num="0" talker="巴塞特">她背叛了教会，与恶魔通奸。</content>	
+	</para_msg>
+	<para_msg paragraph="10275900" >
+		  <content effect_num="0" talker="巴塞特">当时，我难以相信已经摆在眼前的事实，彷徨着不知如何是好。</content>	  	
+	</para_msg>
+	<para_msg paragraph="10276000" >
+			<content effect_num="0" index="1" talker="巴塞特">但最终我还是决定与她再见一面，只是目的已经不同。</content>
+	  	<content effect_num="0" index="2" talker="巴塞特">我接到了教会的命令，铲除叛徒。</content> 	  
+	</para_msg>
+	<para_msg paragraph="10276100" >
+			<content effect_num="0" index="1" talker="巴塞特">她没有怎么抵抗。</content>
+	  	<content effect_num="0" index="2" talker="巴塞特">当我的法术贯穿她的圣痕实体时，她脸上挂着的笑容令我心痛。</content>
+	</para_msg>
+	<para_msg paragraph="10276200" >
+			<content effect_num="0" index="1" talker="巴塞特">直到那一刻，我才发现自己其实是爱她的。</content>
+	  	<content effect_num="0" index="2" talker="巴塞特">但就算再惋惜，她也不会回来了。</content> 	 	   	  												
+	</para_msg>
+	<para_msg paragraph="10276300" >
+			<content effect_num="0" index="1" talker="巴塞特">心中仿佛突然空出了一块，即使经过这么多年也没有弥补上。</content>
+	  	<content effect_num="0" index="2" talker="巴塞特">为什么，一定要她以那样的方式离去时，我才懂得珍惜呢？</content> 	 
+	</para_msg>
+	<para_msg paragraph="10276400" >
+		  <content effect_num="0" talker="巴塞特">她临死前说的最后一句话，曾让我思考了很久。</content>	
+	</para_msg>
+	<para_msg paragraph="10276500" >
+		  <content effect_num="0" talker="巴塞特">“若有来世，希望能以普通人的身份活着。”</content>		
+	</para_msg>
+	<para_msg paragraph="10276600" >
+		  <content effect_num="0" talker="巴塞特">娜薇，你认为她为何要这样说？</content>	 
+	</para_msg>
+	<para_msg paragraph="10276700" >
+			<content effect_num="0" index="1" >对我的问题，她没有立即给出答案。</content>
+	  	<content effect_num="0" index="2" >她一直耐心听我歇斯底里，但又想是不希望触动我更多心事那样，只是听着而已，一言不发。</content> 		      	  	
+	</para_msg>
+	<para_msg paragraph="10276800" >
+		  <content effect_num="0" talker="巴塞特">娜薇？</content> 
+	</para_msg>
+	<para_msg paragraph="10276900" >
+		  <content effect_num="0" talker="阿娜丝塔夏">…… ……</content> 
+	</para_msg>
+	<para_msg paragraph="10277000" >
+		  <content effect_num="0" talker="巴塞特">哎，总之你随意说说自己的想法吧。</content> 
+	</para_msg>
+	<para_msg paragraph="10277100" >
+			<content effect_num="0" index="1" talker="阿娜丝塔夏">对于她说的那句话，我保留意见。</content>
+	  	<content effect_num="0" index="2" talker="阿娜丝塔夏">但是，我不希望你像现在这样。</content> 
+	</para_msg>
+	<para_msg paragraph="10277200" >
+		  <content effect_num="0" talker="阿娜丝塔夏">这个坠饰，可以再让我看一眼吗？</content>  
+	</para_msg>
+	<para_msg paragraph="10277300" >
+		  <content effect_num="0" talker="巴塞特">……可以。</content> 	   
+	</para_msg>
+	<para_msg paragraph="10277400" >
+		  <content effect_num="0" >我把坠饰交到她手上。</content> 
+	</para_msg>
+	<para_msg paragraph="10277500" >
+			<content effect_num="0" index="1">接下来，她做了一件我完全意料不到的事。</content>
+	  	<content effect_num="0" index="2">她抓起坠饰，向前跑了两步，然后对着窗户，用力地一扔。</content> 	
+	</para_msg>
+	<para_msg paragraph="10277600" >
+		  <content effect_num="0" talker="巴塞特">啊，喂……！</content> 	  
+	</para_msg>
+	<para_msg paragraph="10277700" >
+		  <content effect_num="0" >想阻止已经晚了。坠饰在空中划出一道见鬼的抛物线，飞出了窗户。</content> 	  	
+	</para_msg>
+	<para_msg paragraph="10277800" >
+			<content effect_num="0" index="1">——窗外是一条水流很急的河。</content>
+	  	<content effect_num="0" index="2">她显然是事先考虑好要这么做的。</content> 	 
+	</para_msg>
+	<para_msg paragraph="10277900" >
+		  <content effect_num="0" >确认我已经没办法将那坠饰再找回来之后，她一副大获全胜的样子，昂首伫立在我面前。</content>  	 
+	</para_msg>
+	<para_msg paragraph="10278000" >
+		  <content effect_num="0" talker="巴塞特">你……你知道自己在干什么吗？！</content> 
+	</para_msg>
+	<para_msg paragraph="10278100" >
+		  <content effect_num="0" talker="阿娜丝塔夏">当然知道。</content> 	
+	</para_msg>
+	<para_msg paragraph="10278200" >
+		  <content effect_num="0" talker="巴塞特">你……！</content>	    	
+	</para_msg>
+	<para_msg paragraph="10278300" >
+		  <content effect_num="0" talker="阿娜丝塔夏">振作起来，巴塞特。</content> 	
+	</para_msg>
+	<para_msg paragraph="10278400" >
+		  <content effect_num="0" >她以沉着的口气对我说着，那样子像是已经做好了我发怒的准备。</content> 	  
+	</para_msg>
+	<para_msg paragraph="10278500" >
+			<content effect_num="0" index="1" talker="阿娜丝塔夏">如果你没有搞懂她为何那样说，可以在以后漫长的岁月里去寻找答案。</content>
+	  	<content effect_num="0" index="2" talker="阿娜丝塔夏">但如果沉湎于悲痛之中的话，你就无法前进了。</content> 	
+	</para_msg>
+	<para_msg paragraph="10278600" >
+		  <content effect_num="0" talker="阿娜丝塔夏">忘记她，然后振作起来吧。不是还有我在你身边吗？</content> 	 
+	</para_msg>
+	<para_msg paragraph="10278700" >
+		  <content effect_num="0" talker="巴塞特">啊？！</content>	 
+	</para_msg>
+	<para_msg paragraph="10278800" >
+			<content effect_num="0" index="1">她最后这句话带给我的冲击力，不比她刚刚做的那件蠢事小。</content>
+	  	<content effect_num="0" index="2">她自己似乎也发现说错了话，脸一下子红得跟西红柿一样。</content> 	
+	</para_msg>
+	<para_msg paragraph="10278900" >
+		  <content effect_num="0" talker="阿娜丝塔夏">啊，我不是那个意思！</content>  
+	</para_msg>
+	<para_msg paragraph="10279000" >
+			<content effect_num="0" index="1" talker="阿娜丝塔夏">既然你也说了，我是你的搭档……那个，虽然大主教说我是来当你下属的，但现在你坚持要平等……</content>
+	  	<content effect_num="0" index="2" talker="阿娜丝塔夏">反正……我总不能看着自己的搭档整天消沉，拖自己后腿吧？！</content> 	
+	</para_msg>
+	<para_msg paragraph="10279100" >
+		  <content effect_num="0" talker="阿娜丝塔夏">反正就是这样了！赶快给我变回之前那个巴塞特！</content> 
+	</para_msg>
+	<para_msg paragraph="10279200" >
+		  <content effect_num="0" talker="巴塞特">…… ……</content>		
+	</para_msg>
+	<para_msg paragraph="10279300" >
+		  <content effect_num="0" >真是……拿这个人一点办法都没有。</content> 	    
+	</para_msg>
+	<para_msg paragraph="10279400" >
+		  <content effect_num="0" >明明是个小女孩，却非要用大人的口气来说话，还摆出要教训我的样子来。</content> 	    		   	    	  	  	    	    	 	  		 	  	  	   	
+	</para_msg>
+	<para_msg paragraph="10279500" >
+		  <content effect_num="0" >不过，细想一下，她说的话并非毫无道理。</content>  	
+	</para_msg>
+	<para_msg paragraph="10279600" >
+		  <content effect_num="0" >为什么我就一定要被过去的记忆困扰呢？为什么不能向前看呢？</content>  
+	</para_msg>
+	<para_msg paragraph="10279700" >
+		  <content effect_num="0" >而且，正如她所说的那样……现在，她在我身边。</content> 	
+	</para_msg>
+	<para_msg paragraph="10279800" >
+			<content effect_num="0" index="1">一个倔强的、会哭会笑的少女；一个认真对待身边一切人与事的少女。</content>
+	  	<content effect_num="0" index="2">令人很容易就对她在意起来的少女……</content> 		    		  
+	</para_msg>
+	<para_msg paragraph="10279900" end_scence_sound="true">
+		  <content effect_num="0" >她扔掉了代表我以往记忆的信物，但我真的就可以忘记过去吗？</content> 
+	</para_msg>
+	<para_msg paragraph="10280000" next_p="10280004" >
+		  <content effect_num="2" talker="？？？">巴塞特……</content>  
+	</para_msg>
+	<para_msg paragraph="10280004" next_p="10280006" >
+		  <content effect_num="0" talker="？？？">巴塞特!你听不见吗？！</content> 	  
+	</para_msg>
+	<para_msg paragraph="10280006" next_p="10280100" start_scence_sound="960011.mp3">
+		  <content effect_num="2" />
+	</para_msg>
+	<para_msg paragraph="10280100" >
+		  <content effect_num="0" talker="阿娜丝塔夏">喂，巴塞特！</content>		
+	</para_msg>
+	<para_msg paragraph="10280200" >
+		  <content effect_num="0" talker="阿娜丝塔夏">你在发什么呆？！</content>		
+	</para_msg>
+	<para_msg paragraph="10280300" >
+		  <content effect_num="0" >同伴的叫喊，把我从往日的回忆里拖了回来。</content> 
+	</para_msg>
+	<para_msg paragraph="10280400" >
+		  <content effect_num="0" >身在风雪中央，突然间觉得这记忆也和那个被扔掉的坠饰一样，不再属于自己。</content> 	
+	</para_msg>
+	<para_msg paragraph="10280500" >
+		  <content effect_num="0" talker="阿娜丝塔夏">巴塞特，你似乎有什么事瞒着我们。</content>		
+	</para_msg>
+	<para_msg paragraph="10280600" >
+		  <content effect_num="0" talker="巴塞特">你多心了……</content>	
+	</para_msg>
+	<para_msg paragraph="10280700" >
+		  <content effect_num="0" >有时候我真希望她的直觉别那么敏锐，比如说现在。</content> 
+	</para_msg>
+	<para_msg paragraph="10280800" >
+		  <content effect_num="0" talker="巴塞特">先不说这个，我们得继续前进。</content>	
+	</para_msg>
+	<para_msg paragraph="10280900" >
+		  <content effect_num="0" talker="阿娜丝塔夏">巴塞特……</content>		 
+	</para_msg>
+	<para_msg paragraph="10281000" >
+		  <content effect_num="0" talker="巴塞特">还有敌人吗？</content>		   	  	  		      	  	    
+	</para_msg>
+	<para_msg paragraph="10281100" >
+		  <content effect_num="0" >我回头望了一眼，自己的足迹与敌人的尸体都已被埋在了雪下。</content> 	
+	</para_msg>
+	<para_msg paragraph="10281200" >
+		  <content effect_num="0" >持续了好几个小时的战斗刚刚结束。现在除了呼呼的风声，什么都听不见。</content> 	  
+	</para_msg>
+	<para_msg paragraph="10281300" >
+		  <content effect_num="0" >剩余的敌人似乎一下子蒸发掉了。</content>	   
+	</para_msg>
+	<para_msg paragraph="10281400" >
+			<content effect_num="0" index="1">好安静……安静得奇怪。</content>
+	  	<content effect_num="0" index="2">但是，总觉得，在这片寂静的雪原里还藏有强烈的敌意……</content> 		  	     	
+	</para_msg>
+	<para_msg paragraph="10281500" >
+		  <content effect_num="0" talker="阿娜丝塔夏">巴塞特！趴下！</content>	
+	</para_msg>
+	<para_msg paragraph="10281600" >
+		  <content effect_num="1" index="1">我听见了她的喊声，但没来得及做出反应。</content>	
+		  <content effect_num="0" index="2">暗色的幽光，从眼前一闪而过。</content>
+	</para_msg>
+	<para_msg paragraph="10281700" >
+		  <content effect_num="0" />
+	</para_msg>
+	<para_msg paragraph="10281800" next_p="10282000">
+			<content effect_num="0" index="1">是弓箭……</content>
+	  	<content effect_num="0" index="2">一支附加了魔法的锐箭，穿过风雪，射中了我的腹部。</content> 
+	</para_msg>
+	<para_msg paragraph="10282000" end_scence_sound="true">
+		  <content effect_num="1" talker="李俊明">啊————！</content>	
+	</para_msg>
+	<para_msg paragraph="10282100" >
+		  <content effect_num="0" >我直直地从床上坐了起来。</content>	
+	</para_msg>
+	<para_msg paragraph="10282200" >
+		  <content effect_num="0" >刚才的梦境……似乎很可怕，醒来时全身都在冒汗。</content>		
+	</para_msg>
+	<para_msg paragraph="10282300" >
+			<content effect_num="0" index="1">惊魂未定的我，刚一抬头就看到了音姐的脸。</content>
+	  	<content effect_num="0" index="2">她忧心忡忡地看着我，像是要说什么的样子。</content>	 
+	</para_msg>
+	<para_msg paragraph="10282400" >
+		  <content effect_num="0" talker="李俊明">……怎么了？音姐。</content>	 
+	</para_msg>
+	<para_msg paragraph="10282500" >
+		  <content effect_num="0" talker="李晓音">你好像做噩梦了，小明。</content>	
+	</para_msg>
+	<para_msg paragraph="10282600" >
+		  <content effect_num="0" talker="李俊明">唔……的确是这样……只是……</content>	
+	</para_msg>
+	<para_msg paragraph="10282700" >
+			<content effect_num="0" index="1">我思索了一会儿。</content>
+	  	<content effect_num="0" index="2">还是和以往一样，梦中的事全都不记得了。</content>	 
+	</para_msg>
+	<para_msg paragraph="10282800" >
+		  <content effect_num="0" talker="李晓音">…… ……</content>  
+	</para_msg>
+	<para_msg paragraph="10282900" start_scence_sound="950002.mp3">
+		  <content effect_num="0" talker="李晓音">好吧，既然已经醒了，就不用再被噩梦困扰了。</content> 	  	   	   	   		  	  	  	   	
+	</para_msg>
+	<para_msg paragraph="10283000" >
+		  <content effect_num="0" talker="李晓音">感觉好些了吗？让我看看。</content> 
+	</para_msg>
+	<para_msg paragraph="10283100" >
+		  <content effect_num="0" talker="李俊明">呃，等下……</content>	  
+	</para_msg>
+	<para_msg paragraph="10283200" >
+		  <content effect_num="0" >她不由分说就撩起我的头发，把自己额头贴了过来。</content>		 
+	</para_msg>
+	<para_msg paragraph="10283300" >
+		  <content effect_num="0" >碰触到她的时候，我的脸突然变热不少。</content>		
+	</para_msg>
+	<para_msg paragraph="10283400" >
+		  <content effect_num="0" talker="李晓音">好像发烧更厉害了……</content> 	 
+	</para_msg>
+	<para_msg paragraph="10283500" >
+		  <content effect_num="0" talker="李俊明">那个……音姐，你离得这么近，我当然会……</content>	 
+	</para_msg>
+	<para_msg paragraph="10283600" >
+		  <content effect_num="0" talker="李晓音">嗯？原来是害羞了吗？</content>	
+	</para_msg>
+	<para_msg paragraph="10283700" >
+		  <content effect_num="0" >音姐露出了恶作剧般的笑容，把脑袋挪开了。</content>	 
+	</para_msg>
+	<para_msg paragraph="10283800" >
+		  <content effect_num="0" >她原来是有意要戏弄我的么……</content>	
+	</para_msg>
+	<para_msg paragraph="10283900" >
+		  <content effect_num="0" talker="李晓音">你的气色好了不少，有力气走动吗？</content>	 
+	</para_msg>
+	<para_msg paragraph="10284000" >
+		  <content effect_num="0" talker="李晓音">我做好了晚饭，如果你方便的话就一起吃吧。</content>	  
+	</para_msg>
+	<para_msg paragraph="10284100" >
+		  <content effect_num="0" >晚饭？难道说现在已经是晚上了？</content>	
+	</para_msg>
+	<para_msg paragraph="10284200" >
+		  <content effect_num="0" >怎么搞的……这两天不仅是晚上，连白天都全搭在睡觉里了。</content>	 
+	</para_msg>
+	<para_msg paragraph="10284300" >
+		  <content effect_num="0" >我有这么能睡吗？</content>		   	
+	</para_msg>
+	<para_msg paragraph="10284400" >
+		  <content effect_num="0" talker="李晓音">小明？</content>	
+	</para_msg>
+	<para_msg paragraph="10284500" >
+		  <content effect_num="0" talker="李晓音">怎么了？你看上去好像心事重重的样子。</content>	 
+	</para_msg>
+	<para_msg paragraph="10284600" >
+		  <content effect_num="0" talker="李俊明">啊，没……</content>		
+	</para_msg>
+	<para_msg paragraph="10284700" next_p="10284900">
+		  <content effect_num="0" talker="李俊明">你先去饭厅吧，我马上就来。</content>		 
+	</para_msg>
+	<para_msg paragraph="10284900" >
+		  <content effect_num="2" >吃晚饭时，我故意把头埋得很低，眼角的余光注视着音姐脸上的表情变化。</content>		
+	</para_msg>
+	<para_msg paragraph="10285000" >
+		  <content effect_num="0" >是我的错觉吗？总觉得从晚饭开始到现在，她一直像是在担心着什么似的。</content>	
+	</para_msg>
+	<para_msg paragraph="10285100" >
+		  <content effect_num="0" >——不会是还对我的病情不放心吧？</content>	
+	</para_msg>
+	<para_msg paragraph="10285200" >
+		  <content effect_num="0" talker="李俊明">音姐，你在想什么事吗？</content>			  	  		   	       	          
+	</para_msg>
+	<para_msg paragraph="10285300" >
+		  <content effect_num="0" talker="李晓音">…… ……</content>		
+	</para_msg>
+	<para_msg paragraph="10285400" >
+		  <content effect_num="0" talker="李俊明">音姐？</content>	
+	</para_msg>
+	<para_msg paragraph="10285500" >
+		  <content effect_num="0" talker="李晓音">……啊？</content>	
+	</para_msg>
+	<para_msg paragraph="10285600" >
+		  <content effect_num="0" talker="李晓音">不好意思，小明，我走神了。</content>		
+	</para_msg>
+	<para_msg paragraph="10285700" >
+		  <content effect_num="0" >她果然有心事，就连笑起来也显得很勉强。</content>		
+	</para_msg>
+	<para_msg paragraph="10285800" >
+		  <content effect_num="0" talker="李俊明">音姐，如果觉得有些累了，就早点休息吧。我已经没事了。</content>		
+	</para_msg>
+	<para_msg paragraph="10285900" >
+		  <content effect_num="0" talker="李晓音">嗯……</content>	
+	</para_msg>
+	<para_msg paragraph="10286000" >
+		  <content effect_num="0" >出乎我意料的，她第一次对我让她去休息的提议点头应允。</content>		
+	</para_msg>
+	<para_msg paragraph="10286100" >
+			<content effect_num="0" index="1">看来她的确是很累。</content>
+	  	<content effect_num="0" index="2">我在床上躺了一天，而她也为我操劳了一整天。</content>	
+	</para_msg>
+	<para_msg paragraph="10286200" >
+			<content effect_num="0" index="1">她肩上的担子真的太重了。</content>
+	  	<content effect_num="0" index="2">虽然表面上若无其事，但不管怎么说，她也只是个普通的年轻女性而已。</content>	
+	</para_msg>
+	<para_msg paragraph="10286300" >
+		  <content effect_num="0" talker="李俊明">呐，音姐。</content>	  
+	</para_msg>
+	<para_msg paragraph="10286400" >
+		  <content effect_num="0" talker="李晓音">嗯？</content>	
+	</para_msg>
+	<para_msg paragraph="10286500" >
+		  <content effect_num="0" talker="李俊明">以后有什么我力所能及的家务事，让我来做吧。我希望能帮你分担一些……</content>	   
+	</para_msg>
+	<para_msg paragraph="10286600" >
+		  <content effect_num="0" talker="李晓音">你是在担心我？</content>	
+	</para_msg>
+	<para_msg paragraph="10286700" >
+		  <content effect_num="0">我话没说完，她就摇起头来。</content>	
+	</para_msg>
+	<para_msg paragraph="10286800" >
+		  <content effect_num="0" talker="李晓音">没关系的，小明。现在的事情我还可以应付。</content>	
+	</para_msg>
+	<para_msg paragraph="10286900" >
+			<content effect_num="0" index="1" talker="李晓音">如果我真的忙不过来，我会主动叫你帮忙的。</content>
+	  	<content effect_num="0" index="2" talker="李晓音">至于现在，你照顾好自己就行。</content>	  
+	</para_msg>
+	<para_msg paragraph="10287000" >
+		  <content effect_num="0" talker="李俊明">但是……</content>  	
+	</para_msg>
+	<para_msg paragraph="10287100" >
+		  <content effect_num="0" talker="李晓音">我和你一样，睡一觉就精神满满了。</content>	
+	</para_msg>
+	<para_msg paragraph="10287200" >
+		  <content effect_num="0" talker="李晓音">不过，还是谢谢你的关心。今晚我会早点休息的。</content>		  
+	</para_msg>
+	<para_msg paragraph="10287300" >
+		  <content effect_num="0">她用微笑与温柔的话语婉拒了我的提议。</content>		 
+	</para_msg>
+	<para_msg paragraph="10287400" >
+		  <content effect_num="0">结果，我还是只能眼睁睁看着她受累，却不知道自己可以做到些什么。</content>	
+	</para_msg>
+	<para_msg paragraph="10287500" >
+		  <content effect_num="0">明明每天都告诫自己要为音姐分忧的，到头来依然让她把所有压力扛在肩上，自己却乐于做一个衣来伸手饭来张口的懒虫。</content>	
+	</para_msg>
+	<para_msg paragraph="10287600" >
+		  <content effect_num="0">李俊明，你什么宣言都只是口头说说而已吗？</content>	 
+	</para_msg>
+	<para_msg paragraph="10287700" next_p="10287900">
+		  <content effect_num="0">真是没用。</content>	
+	</para_msg>
+	<para_msg paragraph="10287900" end_scence_sound="true">
+		  <content effect_num="2">和昨天一样，到了该睡觉的时候却躺在床上辗转难眠。</content>	
+	</para_msg>
+	<para_msg paragraph="10288000" >
+		  <content effect_num="0">音姐的操劳让我非常过意不去。但是她又拒绝我的帮助。</content>
+	</para_msg>
+	<para_msg paragraph="10288100" >
+		  <content effect_num="0">不知道她到底是怎么想的。反正我是陷入了苦恼之中。</content>
+	</para_msg>
+	<para_msg paragraph="10288200" >
+		  <content effect_num="0">在胡思乱想了半天之后，一个念头突然冒了出来。</content>	  
+	</para_msg>
+	<para_msg paragraph="10288300" >
+		  <content effect_num="0">明明一整天什么事都没做，但以往经常出现的空虚感，今天消失得无影无踪。</content>	
+	</para_msg>
+	<para_msg paragraph="10288400" >
+			<content effect_num="0" index="1" >这又是为什么呢？我颇为不解。</content>
+	  	<content effect_num="0" index="2" >仅仅是因为音姐陪在身边吗？</content>	  	  	  	  	  	  	     	    	   	 		    	          	     				
+	</para_msg>
+	<para_msg paragraph="10288500" next_p="10288502">
+		  <content effect_num="0">苦想许久，依然得不到能让自己满意的答案。</content>
+	</para_msg>
+	<para_msg paragraph="10288502" date_end="true">
+		  <content effect_num="2" />	
+	</para_msg>
+	</para_date>
+	</config>	  	   				
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+																						
+
+	
+
+

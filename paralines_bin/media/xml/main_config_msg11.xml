@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!--
+(paragraph:段落编号 talker:对话者 content:对话内容 isselect:是否有分支 effect_num:特效编号 sound:声音 select_type:选择类型)
+effect_num(1-8  0:没有特效) isbattle="true" :有战斗  next_p="语句编号"：下一句是（语句编号）
+weather(1：晴朗 2：阴天 3：下雨)
+-->
+<config>
+	<para_date date="10月22日" week="星期三" weather="阴">
+	<para_msg paragraph="10264300" start_scence_sound="950004.mp3">
+			<content effect_num="0" />
+	</para_msg>			
+	<para_msg paragraph="10264400" >
+			<content effect_num="2">上午11点，我躺在床上。</content>	
+  </para_msg>
+	<para_msg paragraph="10264500" next_p="10264502">
+			<content effect_num="0">并不是学校今天放假或是我决定自暴自弃逃学，而是……我生病了。</content>	
+	</para_msg>
+	<para_msg paragraph="10264502" next_p="10264700">
+			<content effect_num="0" index="1">真是奇怪，明明昨天还健康得不行。</content>
+			<content effect_num="0" index="2">而且，由于昨晚下雨，天气凉爽，觉也睡得非常舒服。</content>
+	</para_msg>
+	<para_msg paragraph="10264700" >
+			<content effect_num="0" index="1">但是，醒来后不久，大脑却受到了猝不及防的一击。</content>
+			<content effect_num="0" index="2">要说具体的感觉，就像是被几十伏的电给烧到了一样。</content>	
+	</para_msg>
+	<para_msg paragraph="10264800" >
+			<content effect_num="0">下床之后勉强走了几步，我就一个踉跄跌倒在地，竟然还很丢脸地昏了过去。</content>	
+	</para_msg>
+	<para_msg paragraph="10264900" >
+			<content effect_num="0" index="1">再次苏醒时，自己已经好好地躺在床上。</content>
+			<content effect_num="0" index="2">音姐坐在床边，紧紧握着我的一只手，一脸担忧地看着我。</content>		
+	</para_msg>
+	<para_msg paragraph="10265000" >
+			<content effect_num="0" index="1">我明白，自己又不争气地让她操心了。</content>
+			<content effect_num="0" index="2">于是我提出自己去医院看病，但被她以少见的强硬态度拒绝。</content>	
+	</para_msg>
+	<para_msg paragraph="10265100" >
+			<content effect_num="0">她没有去上班，而是留在家里照顾我。</content>			
+	</para_msg>
+	<para_msg paragraph="10265200" next_p="10265400">
+			<content effect_num="0">李俊明啊李俊明，你果然还是音姐的拖油瓶。</content>		
+	</para_msg>
+	<para_msg paragraph="10265400" >
+			<content effect_num="2">中午的时候，音姐端着一碗粥走进了卧室里。</content>	
+	</para_msg>
+	<para_msg paragraph="10265500" >
+			<content effect_num="0" talker="李晓音">感觉好些了吗？小明。</content>		
+	</para_msg>
+	<para_msg paragraph="10265600" >
+			<content effect_num="0" talker="李俊明">嗯……</content>			
+	</para_msg>
+	<para_msg paragraph="10265700" >
+			<content effect_num="0" talker="李晓音">你的脸还是红通通的。让我看看。</content>		
+	</para_msg>
+	<para_msg paragraph="10265800" >
+			<content effect_num="0" index="1">她不等我回话，就把一只手掌放在了我额头上。</content>
+			<content effect_num="0" index="2">她的手心是冰凉的。</content>			
+	</para_msg>
+	<para_msg paragraph="10265900" >
+			<content effect_num="0" talker="李晓音">还有一点发烧呢。</content>	
+	</para_msg>
+	<para_msg paragraph="10266000" >
+			<content effect_num="0" index="1" talker="李晓音">肚子饿了吧？</content>
+			<content effect_num="0" index="2" talker="李晓音">我熬了皮蛋肉粥。要不要喝一点？</content>
+	</para_msg>
+	<para_msg paragraph="10266100" >
+			<content effect_num="0" talker="李俊明">…… ……</content>														
+	</para_msg>
+	<para_msg paragraph="10266200" >
+			<content effect_num="0">不知道该怎么回答才好。</content>	
+	</para_msg>
+	<para_msg paragraph="10266300" >
+			<content effect_num="0" index="1">音姐对我的关心，无微不至到有些过分了。</content>
+			<content effect_num="0" index="2">总觉得，她这样做好像很勉强自己的样子。</content>		
+	</para_msg>
+	<para_msg paragraph="10266400" >
+			<content effect_num="0">不应该再给她添麻烦了。</content>														
+	</para_msg>
+	<para_msg paragraph="10266500" >
+			<content effect_num="0" talker="李晓音">怎么不说话？果然还是不太舒服吗？</content>	
+	</para_msg>
+	<para_msg paragraph="10266600" >
+			<content effect_num="0" talker="李晓音">如果你没什么力气的话，干脆我喂你喝粥吧？</content>	
+	</para_msg>
+	<para_msg paragraph="10266700" >
+			<content effect_num="0" talker="李俊明">啊，千万不要！</content>		
+	</para_msg>
+	<para_msg paragraph="10266800" >
+			<content effect_num="0" talker="李晓音">诶……？</content>		
+	</para_msg>
+	<para_msg paragraph="10266900" >
+			<content effect_num="0" talker="李俊明">呃，我的意思是，这些事情我都可以自己做的。</content>	
+	</para_msg>
+	<para_msg paragraph="10267000" >
+			<content effect_num="0" talker="李俊明">你看，我其实已经恢复得差不多了，下午就可以去学校。</content>	
+	</para_msg>
+	<para_msg paragraph="10267100" >
+			<content effect_num="0" talker="李俊明">所以，音姐你不要太过于担心我。如果你还有什么事要做的话，就去做吧！</content>	
+	</para_msg>
+	<para_msg paragraph="10267200" >
+			<content effect_num="0">为了证明自己不是在说谎，我直接从床上坐了起来，用力挥着胳膊。</content>	
+	</para_msg>
+	<para_msg paragraph="10267300" >
+			<content effect_num="0" talker="李晓音">…… ……</content>		
+	</para_msg>
+	<para_msg paragraph="10267400" >
+			<content effect_num="0" index="1">奇怪，为什么我开始说话，她却沉默了？</content>
+			<content effect_num="0" index="2">而且，还用那种“我是非常非常担心你啊”的眼神看着我……她还是对我不放心吗？</content>	
+	</para_msg>
+	<para_msg paragraph="10267500" >
+			<content effect_num="0" index="1" talker="李俊明">真的，音姐你放心吧。</content>
+			<content effect_num="0" index="2" talker="李俊明">如果因为我而耽误你的工作，那我会很过意不去。</content>	
+	</para_msg>
+	<para_msg paragraph="10267600" >
+			<content effect_num="0" talker="李晓音">不必，我今天已经向公司请假了，所以哪儿都不会去。</content>			
+	</para_msg>
+	<para_msg paragraph="10267700" >
+			<content effect_num="0" index="1" talker="李晓音">小明也是。既然生病了，就好好休息。</content>
+			<content effect_num="0" index="2" talker="李晓音">如果强撑着去上学的话，在学校里倒下就太糟糕了。</content>	
+	</para_msg>
+	<para_msg paragraph="10267800" >
+			<content effect_num="0" index="1" talker="李晓音">你啊，不用担心我会耽误工作。就算你担心，也不可能帮我什么忙。</content>
+			<content effect_num="0" index="2" talker="李晓音">你只需要把自己身子养好，就算是对我最大的支持了。</content>			
+	</para_msg>
+	<para_msg paragraph="10267900" >
+			<content effect_num="0" talker="李俊明">…… ……</content>			
+	</para_msg>
+	<para_msg paragraph="10268000" >
+			<content effect_num="0" >她温柔地笑着，但我却无法像以往那样因她的笑而轻松起来。</content>																									
+	</para_msg>
+	<para_msg paragraph="10268100" >
+			<content effect_num="0" >不行，这样依赖她是不对的。</content>	
+	</para_msg>
+	<para_msg paragraph="10268200" >
+			<content effect_num="0" talker="李俊明">我觉得……一直以来都让你劳心了。</content>		
+	</para_msg>
+	<para_msg paragraph="10268300" >
+			<content effect_num="0" index="1" talker="李俊明">音姐总是什么事都为我着想，我也习惯了这样。</content>
+			<content effect_num="0" index="2" talker="李俊明">但是现在想起来，音姐你什么时候为自己着想过呢？</content>			
+	</para_msg>
+	<para_msg paragraph="10268400" >
+			<content effect_num="0" talker="李晓音">唔？</content>			
+	</para_msg>
+	<para_msg paragraph="10268500" >
+			<content effect_num="0" talker="李晓音">呵呵，这不是问题。</content>	
+	</para_msg>
+	<para_msg paragraph="10268600" >
+			<content effect_num="0" index="1" talker="李晓音">对我来说，只要你能健康成长就是最好的。</content>
+			<content effect_num="0" index="2" talker="李晓音">我之所以要工作，也是为了让我们俩生活无忧。</content>	
+	</para_msg>
+	<para_msg paragraph="10268700" >
+			<content effect_num="0" talker="李晓音">如果你在学校里还要担心生活上的事，那我就是个差劲的姐姐。</content>
+	</para_msg>
+	<para_msg paragraph="10268800" >
+			<content effect_num="0" index="1" talker="李晓音">反过来，如果你生活很开心，那我也会和你一同开心的。</content>
+			<content effect_num="0" index="2" talker="李晓音">因为你获得幸福的话，就是对我一直以来的努力做出了最大的肯定。</content>		
+	</para_msg>
+	<para_msg paragraph="10268900" >
+			<content effect_num="0" talker="李俊明">……但是，音姐，我……</content>		
+	</para_msg>
+	<para_msg paragraph="10269000" >
+			<content effect_num="0" index="1">我还想争辩，但音姐把食指盖在了我的嘴巴上。</content>
+			<content effect_num="0" index="2">她眨了眨眼睛，示意我不要再说什么。</content>			
+	</para_msg>
+	<para_msg paragraph="10269100" >
+			<content effect_num="0" talker="李晓音">呼……一本正经地说了这么多，大概你也听得烦了吧？</content>		
+	</para_msg>
+	<para_msg paragraph="10269200" >
+			<content effect_num="0" talker="李晓音">能自己起床吗？如果不行的话，我来喂你喝些粥。</content>	
+	</para_msg>
+	<para_msg paragraph="10269300" >
+			<content effect_num="0" talker="李俊明">啊，不用！我自己可以的。</content>	
+	</para_msg>
+	<para_msg paragraph="10269400" >
+			<content effect_num="0">看到她已经伸手去端碗，我连忙大喊起来。</content>		
+	</para_msg>
+	<para_msg paragraph="10269500" >
+			<content effect_num="0" talker="李晓音">唔？</content>		
+	</para_msg>
+	<para_msg paragraph="10269600" >
+			<content effect_num="0" talker="李晓音">你差点吓到我了，小明。</content>										
+	</para_msg>
+	<para_msg paragraph="10269700" >
+			<content effect_num="0" talker="李晓音">不过，看到你这么有精神，我也放心不少。</content>
+	</para_msg>
+	<para_msg paragraph="10269800" >
+			<content effect_num="0" index="1" talker="李晓音">我去厨房里做一些清淡的菜。</content>
+			<content effect_num="0" index="2" talker="李晓音">喝完粥之后就把碗放在床边，然后好好睡一觉吧。</content>	
+	</para_msg>
+	<para_msg paragraph="10269900" >
+			<content effect_num="0" talker="李晓音">如果觉得哪里不舒服的话，喊一声就好。我会马上过来的。</content>		
+	</para_msg>
+	<para_msg paragraph="10270000" >
+			<content effect_num="0" talker="李俊明">嗯……</content>			
+	</para_msg>
+	<para_msg paragraph="10270100" >
+			<content effect_num="0" index="1">音姐交待完之后，还不放心地看着我。</content>
+	  	<content effect_num="0" index="2">好一会儿之后，她才像是如释重负那样长舒了一口气，离开了我的卧室。</content>	
+	</para_msg>
+	<para_msg paragraph="10270200" >
+			<content effect_num="0">真是的，对自己的弟弟不放心到这种程度……</content>		
+	</para_msg>
+	<para_msg paragraph="10270300" next_p="10270402">
+			<content effect_num="0" index="1">我拿过碗，一口一口地喝着粥。</content>
+	  	<content effect_num="0" index="2">大概是生病导致味觉变弱，总觉得今天的粥有点咸。</content>		
+	</para_msg>
+	<para_msg paragraph="10270402" next_p="10270403">
+			<content effect_num="2" >令人费解的怪病。</content>
+  </para_msg>
+	<para_msg paragraph="10270403" next_p="10270404">
+			<content effect_num="0" >似乎什么问题都没有，就是很困，全身都没力气。</content>
+	</para_msg>
+	<para_msg paragraph="10270404" next_p="10270405">
+			<content effect_num="0" >喝完粥不久，我又一次陷入了沉睡之中。</content>		
+	</para_msg>
+	<para_msg paragraph="10270405" next_p="10282300">
+			<content effect_num="2" index="1">我也不知道这一觉睡了多久。但似乎梦见了什么不好的事情。</content>
+	  	<content effect_num="0" index="2">因为梦醒之后发现全身都是湿漉漉的，显然是刚出了一身冷汗。</content>
+	</para_msg>
+	<para_msg paragraph="10282300" >
+			<content effect_num="0" index="1">刚一抬头，就看到了音姐的脸。</content>
+	  	<content effect_num="0" index="2">她忧心忡忡地看着我，像是要说什么的样子。</content>	 
+	</para_msg>
+	<para_msg paragraph="10282400" >
+		  <content effect_num="0" talker="李俊明">……怎么了？音姐。</content>	 
+	</para_msg>
+	<para_msg paragraph="10282500" >
+		  <content effect_num="0" talker="李晓音">你好像做噩梦了，小明。</content>	
+	</para_msg>
+	<para_msg paragraph="10282600" next_p="10282800">
+		  <content effect_num="0" talker="李俊明">唔……大概是这样……只是……</content>	
+	</para_msg>
+	<para_msg paragraph="10282800" >
+		  <content effect_num="0" talker="李晓音">…… ……</content>  
+	</para_msg>
+	<para_msg paragraph="10282900" >
+		  <content effect_num="0" talker="李晓音">好吧，既然已经醒了，就不用再被噩梦困扰了。</content> 	  	   	   	   		  	  	  	   	
+	</para_msg>
+	<para_msg paragraph="10283000" >
+		  <content effect_num="0" talker="李晓音">感觉好些了吗？让我看看。</content> 
+	</para_msg>
+	<para_msg paragraph="10283100" >
+		  <content effect_num="0" talker="李俊明">呃，等下……</content>	  
+	</para_msg>
+	<para_msg paragraph="10283200" >
+		  <content effect_num="0" >她不由分说就撩起我的头发，把自己额头贴了过来。</content>		 
+	</para_msg>
+	<para_msg paragraph="10283300" >
+		  <content effect_num="0" >碰触到她的时候，我的脸突然变热不少。</content>		
+	</para_msg>
+	<para_msg paragraph="10283400" >
+		  <content effect_num="0" talker="李晓音">好像发烧更厉害了……</content> 	 
+	</para_msg>
+	<para_msg paragraph="10283500" >
+		  <content effect_num="0" talker="李俊明">那个……音姐，你离得这么近，我当然会……</content>	 
+	</para_msg>
+	<para_msg paragraph="10283600" >
+		  <content effect_num="0" talker="李晓音">嗯？原来是害羞了吗？</content>	
+	</para_msg>
+	<para_msg paragraph="10283700" >
+		  <content effect_num="0" >音姐露出了恶作剧般的笑容，把脑袋挪开了。</content>	 
+	</para_msg>
+	<para_msg paragraph="10283800" >
+		  <content effect_num="0" >她原来是有意要戏弄我的么……</content>	
+	</para_msg>
+	<para_msg paragraph="10283900" >
+		  <content effect_num="0" talker="李晓音">你的气色好了不少，有力气走动吗？</content>	 
+	</para_msg>
+	<para_msg paragraph="10284000" >
+		  <content effect_num="0" talker="李晓音">我做好了晚饭，如果你方便的话就一起吃吧。</content>	  
+	</para_msg>
+	<para_msg paragraph="10284100" >
+		  <content effect_num="0" >晚饭？难道说现在已经是晚上了？</content>	
+	</para_msg>
+	<para_msg paragraph="10284200" >
+		  <content effect_num="0" >怎么搞的……这两天不仅是晚上，连白天都全搭在睡觉里了。</content>	 
+	</para_msg>
+	<para_msg paragraph="10284300" >
+		  <content effect_num="0" >我有这么能睡吗？</content>		   	
+	</para_msg>
+	<para_msg paragraph="10284400" >
+		  <content effect_num="0" talker="李晓音">小明？</content>	
+	</para_msg>
+	<para_msg paragraph="10284500" >
+		  <content effect_num="0" talker="李晓音">怎么了？你看上去好像心事重重的样子。</content>	 
+	</para_msg>
+	<para_msg paragraph="10284600" >
+		  <content effect_num="0" talker="李俊明">啊，没……</content>		
+	</para_msg>
+	<para_msg paragraph="10284700" next_p="10284900">
+		  <content effect_num="0" talker="李俊明">你先去饭厅吧，我马上就来。</content>	 	 
+	</para_msg>
+	<para_msg paragraph="10284900" >
+		  <content effect_num="2" >吃晚饭时，我故意把头埋得很低，眼角的余光注视着音姐脸上的表情变化。</content>		
+	</para_msg>
+	<para_msg paragraph="10285000" >
+		  <content effect_num="0" >是我的错觉吗？总觉得从晚饭开始到现在，她一直像是在担心着什么似的。</content>	
+	</para_msg>
+	<para_msg paragraph="10285100" >
+		  <content effect_num="0" >——不会是还对我的病情不放心吧？</content>	
+	</para_msg>
+	<para_msg paragraph="10285200" >
+		  <content effect_num="0" talker="李俊明">音姐，你在想什么事吗？</content>			  	  		   	       	          
+	</para_msg>
+	<para_msg paragraph="10285300" >
+		  <content effect_num="0" talker="李晓音">…… ……</content>		
+	</para_msg>
+	<para_msg paragraph="10285400" >
+		  <content effect_num="0" talker="李俊明">音姐？</content>	
+	</para_msg>
+	<para_msg paragraph="10285500" >
+		  <content effect_num="0" talker="李晓音">……啊？</content>	
+	</para_msg>
+	<para_msg paragraph="10285600" >
+		  <content effect_num="0" talker="李晓音">不好意思，小明，我走神了。</content>		
+	</para_msg>
+	<para_msg paragraph="10285700" >
+		  <content effect_num="0" >她果然有心事，就连笑起来也显得很勉强。</content>		
+	</para_msg>
+	<para_msg paragraph="10285800" >
+		  <content effect_num="0" talker="李俊明">音姐，如果觉得有些累了，就早点休息吧。我已经没事了。</content>		
+	</para_msg>
+	<para_msg paragraph="10285900" >
+		  <content effect_num="0" talker="李晓音">嗯……</content>	
+	</para_msg>
+	<para_msg paragraph="10286000" >
+		  <content effect_num="0" >出乎我意料的，她第一次对我让她去休息的提议点头应允。</content>		
+	</para_msg>
+	<para_msg paragraph="10286100" >
+			<content effect_num="0" index="1">看来她的确是很累。</content>
+	  	<content effect_num="0" index="2">我在床上躺了一天，而她也为我操劳了一整天。</content>	
+	</para_msg>
+	<para_msg paragraph="10286200" >
+			<content effect_num="0" index="1">她肩上的担子真的太重了。</content>
+	  	<content effect_num="0" index="2">虽然表面上若无其事，但不管怎么说，她也只是个普通的年轻女性而已。</content>	
+	</para_msg>
+	<para_msg paragraph="10286300" >
+		  <content effect_num="0" talker="李俊明">呐，音姐。</content>	  
+	</para_msg>
+	<para_msg paragraph="10286400" >
+		  <content effect_num="0" talker="李晓音">嗯？</content>	
+	</para_msg>
+	<para_msg paragraph="10286500" >
+		  <content effect_num="0" talker="李俊明">以后有什么我力所能及的家务事，让我来做吧。我希望能帮你分担一些……</content>	   
+	</para_msg>
+	<para_msg paragraph="10286600" >
+		  <content effect_num="0" talker="李晓音">你是在担心我？</content>	
+	</para_msg>
+	<para_msg paragraph="10286700" >
+		  <content effect_num="0">我话没说完，她就摇起头来。</content>	
+	</para_msg>
+	<para_msg paragraph="10286800" >
+		  <content effect_num="0" talker="李晓音">没关系的，小明。现在的事情我还可以应付。</content>	
+	</para_msg>
+	<para_msg paragraph="10286900" >
+			<content effect_num="0" index="1" talker="李晓音">如果我真的忙不过来，我会主动叫你帮忙的。</content>
+	  	<content effect_num="0" index="2" talker="李晓音">至于现在，你照顾好自己就行。</content>	  
+	</para_msg>
+	<para_msg paragraph="10287000" >
+		  <content effect_num="0" talker="李俊明">但是……</content>  	
+	</para_msg>
+	<para_msg paragraph="10287100" >
+		  <content effect_num="0" talker="李晓音">我和你一样，睡一觉就精神满满了。</content>	
+	</para_msg>
+	<para_msg paragraph="10287200" >
+		  <content effect_num="0" talker="李晓音">不过，还是谢谢你的关心。今晚我会早点休息的。</content>		  
+	</para_msg>
+	<para_msg paragraph="10287300" >
+		  <content effect_num="0">她用微笑与温柔的话语婉拒了我的提议。</content>		 
+	</para_msg>
+	<para_msg paragraph="10287400" >
+		  <content effect_num="0">结果，我还是只能眼睁睁看着她受累，却不知道自己可以做到些什么。</content>	
+	</para_msg>
+	<para_msg paragraph="10287500" >
+		  <content effect_num="0">明明每天都告诫自己要为音姐分忧的，到头来依然让她把所有压力扛在肩上，自己却乐于做一个衣来伸手饭来张口的懒虫。</content>	
+	</para_msg>
+	<para_msg paragraph="10287600" >
+		  <content effect_num="0">李俊明，你什么宣言都只是口头说说而已吗？</content>	 
+	</para_msg>
+	<para_msg paragraph="10287700" next_p="10288502">
+		  <content effect_num="0">真是没用。</content>	
+	</para_msg>	  
+	<para_msg paragraph="10288502" date_end="true"  end_scence_sound="true">
+			<content effect_num="2" />	
+	</para_msg>	  
+	</para_date>
+	</config>	  	   				
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+																						
+
+	
+
+

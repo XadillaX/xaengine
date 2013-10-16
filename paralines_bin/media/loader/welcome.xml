@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Loader>
+    <SpriteInformation type="BG">
+        <Sprite name="Underpainting">media/AVG_main/image 79.jpg</Sprite>
+        <Sprite name="Background">media/AVG_main/image 51.png</Sprite>
+        <Sprite name="Logo">media/AVG_main/image 54.png</Sprite>
+    </SpriteInformation>
+    
+    <SpriteInformation type="GUI">
+        <Sprite name="Start0">media/AVG_main/image 57.png</Sprite>
+        <Sprite name="Start1">media/AVG_main/image 59.png</Sprite>
+        <Sprite name="Start2">media/AVG_main/image 59.png</Sprite>
+        
+        <Sprite name="CG0">media/AVG_main/image 62.png</Sprite>
+        <Sprite name="CG1">media/AVG_main/image 64.png</Sprite>
+        <Sprite name="CG2">media/AVG_main/image 64.png</Sprite>
+        
+        <Sprite name="Settings0">media/AVG_main/image 67.png</Sprite>
+        <Sprite name="Settings1">media/AVG_main/image 69.png</Sprite>
+        <Sprite name="Settings2">media/AVG_main/image 69.png</Sprite>
+        
+        <Sprite name="Exit0">media/AVG_main/image 72.png</Sprite>
+        <Sprite name="Exit1">media/AVG_main/image 74.png</Sprite>
+        <Sprite name="Exit2">media/AVG_main/image 74.png</Sprite>
+    </SpriteInformation>
+    
+    <SpriteInformation type="Cursor">
+        <Sprite name="Pointer">media/cursor_point.png</Sprite>
+    </SpriteInformation>
+    
+    <SoundInformation type="BGM">
+        <Sound name="BGM">media/sound/sound 1.mp3</Sound>
+    </SoundInformation>
+    
+    <SpriteInformation type="CGBoard">
+        <Sprite name="Black">media/CG/black.png</Sprite>
+        <Sprite name="board">media/AVG_main/image 4.png</Sprite>
+        <Sprite name="CGAlpha">media/AVG_main/cgalpha.png</Sprite>
+        <Sprite name="title">media/AVG_main/image 39.png</Sprite>
+        
+        <Sprite name="close0">media/AVG_main/image 33.png</Sprite>
+        <Sprite name="close1">media/AVG_main/image 35.png</Sprite>
+        <Sprite name="close2">media/AVG_main/image 35.png</Sprite>
+        
+        <Sprite name="page0">media/AVG_main/image 41.png</Sprite>
+        <Sprite name="page1">media/AVG_main/image 45.png</Sprite>
+        <Sprite name="page2">media/AVG_main/image 45.png</Sprite>
+    </SpriteInformation>
+    
+    <SpriteInformation type="CG">
+        <Sprite name="CG0">media/CG/image 1.jpg</Sprite>
+        <Sprite name="CG1">media/CG/image 3.jpg</Sprite>
+        <Sprite name="CG2">media/CG/image 15.jpg</Sprite>
+        <Sprite name="CG3">media/CG/image 35.jpg</Sprite>
+        <Sprite name="CG4">media/CG/image 5.jpg</Sprite>
+        <Sprite name="CG5">media/CG/image 31.jpg</Sprite>
+        <Sprite name="CG6">media/CG/image 7.jpg</Sprite>
+        <Sprite name="CG7">media/CG/image 9.jpg</Sprite>
+        <Sprite name="CG8">media/CG/image 11.jpg</Sprite>
+        <Sprite name="CG9">media/CG/image 13.jpg</Sprite>
+        <Sprite name="CG10">media/CG/image 37.jpg</Sprite>
+        <Sprite name="CG11">media/CG/image 17.jpg</Sprite>
+        <Sprite name="CG12">media/CG/image 19.jpg</Sprite>
+        <Sprite name="CG13">media/CG/image 21.jpg</Sprite>
+        <Sprite name="CG14">media/CG/image 23.jpg</Sprite>
+        <Sprite name="CG15">media/CG/image 33.jpg</Sprite>
+        <Sprite name="CG16">media/CG/image 25.jpg</Sprite>
+        <Sprite name="CG17">media/CG/image 29.jpg</Sprite>
+        <Sprite name="CG18">media/CG/image 27.jpg</Sprite>
+    </SpriteInformation>
+    
+    <SpriteInformation type="CG">
+        <Sprite name="btn00">media/CG/image 40.jpg</Sprite>
+        <Sprite name="btn01">media/CG/image 40.jpg</Sprite>
+        <Sprite name="btn02">media/CG/image 40.jpg</Sprite>
+        
+        <Sprite name="btn10">media/CG/image 42.png</Sprite>
+        <Sprite name="btn11">media/CG/image 42.png</Sprite>
+        <Sprite name="btn12">media/CG/image 42.png</Sprite>
+        
+        <Sprite name="btn20">media/CG/image 54.png</Sprite>
+        <Sprite name="btn21">media/CG/image 54.png</Sprite>
+        <Sprite name="btn22">media/CG/image 54.png</Sprite>
+        
+        <Sprite name="btn30">media/CG/image 74.png</Sprite>
+        <Sprite name="btn31">media/CG/image 74.png</Sprite>
+        <Sprite name="btn32">media/CG/image 74.png</Sprite>
+        
+        <Sprite name="btn40">media/CG/image 44.jpg</Sprite>
+        <Sprite name="btn41">media/CG/image 44.jpg</Sprite>
+        <Sprite name="btn42">media/CG/image 44.jpg</Sprite>
+        
+        <Sprite name="btn50">media/CG/image 70.jpg</Sprite>
+        <Sprite name="btn51">media/CG/image 70.jpg</Sprite>
+        <Sprite name="btn52">media/CG/image 70.jpg</Sprite>
+        
+        <Sprite name="btn60">media/CG/image 46.png</Sprite>
+        <Sprite name="btn61">media/CG/image 46.png</Sprite>
+        <Sprite name="btn62">media/CG/image 46.png</Sprite>
+        
+        <Sprite name="btn70">media/CG/image 48.png</Sprite>
+        <Sprite name="btn71">media/CG/image 48.png</Sprite>
+        <Sprite name="btn72">media/CG/image 48.png</Sprite>
+        
+        <Sprite name="btn80">media/CG/image 50.png</Sprite>
+        <Sprite name="btn81">media/CG/image 50.png</Sprite>
+        <Sprite name="btn82">media/CG/image 50.png</Sprite>
+        
+        <Sprite name="btn90">media/CG/image 52.png</Sprite>
+        <Sprite name="btn91">media/CG/image 52.png</Sprite>
+        <Sprite name="btn92">media/CG/image 52.png</Sprite>
+        
+        <Sprite name="btn100">media/CG/image 76.png</Sprite>
+        <Sprite name="btn101">media/CG/image 76.png</Sprite>
+        <Sprite name="btn102">media/CG/image 76.png</Sprite>
+        
+        <Sprite name="btn110">media/CG/image 56.jpg</Sprite>
+        <Sprite name="btn111">media/CG/image 56.jpg</Sprite>
+        <Sprite name="btn112">media/CG/image 56.jpg</Sprite>
+        
+        <Sprite name="btn120">media/CG/image 58.png</Sprite>
+        <Sprite name="btn121">media/CG/image 58.png</Sprite>
+        <Sprite name="btn122">media/CG/image 58.png</Sprite>
+        
+        <Sprite name="btn130">media/CG/image 60.png</Sprite>
+        <Sprite name="btn131">media/CG/image 60.png</Sprite>
+        <Sprite name="btn132">media/CG/image 60.png</Sprite>
+        
+        <Sprite name="btn140">media/CG/image 62.jpg</Sprite>
+        <Sprite name="btn141">media/CG/image 62.jpg</Sprite>
+        <Sprite name="btn142">media/CG/image 62.jpg</Sprite>
+        
+        <Sprite name="btn150">media/CG/image 72.png</Sprite>
+        <Sprite name="btn151">media/CG/image 72.png</Sprite>
+        <Sprite name="btn152">media/CG/image 72.png</Sprite>
+        
+        <Sprite name="btn160">media/CG/image 64.jpg</Sprite>
+        <Sprite name="btn161">media/CG/image 64.jpg</Sprite>
+        <Sprite name="btn162">media/CG/image 64.jpg</Sprite>
+        
+        <Sprite name="btn170">media/CG/image 68.jpg</Sprite>
+        <Sprite name="btn171">media/CG/image 68.jpg</Sprite>
+        <Sprite name="btn172">media/CG/image 68.jpg</Sprite>
+        
+        <Sprite name="btn180">media/CG/image 66.png</Sprite>
+        <Sprite name="btn181">media/CG/image 66.png</Sprite>
+        <Sprite name="btn182">media/CG/image 66.png</Sprite>
+        
+        <Sprite name="NoCG0">media/CG/no_cg.jpg</Sprite>
+        <Sprite name="NoCG1">media/CG/no_cg.jpg</Sprite>
+        <Sprite name="NoCG2">media/CG/no_cg.jpg</Sprite>
+    </SpriteInformation>
+</Loader>
+

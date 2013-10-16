@@ -1,0 +1,356 @@
+
+<config>
+	<para_date date="冬" week="星期一" weather="晴转多云">
+	<para_msg paragraph="10520800" >
+			<content effect_num="0" />
+	</para_msg>	
+	<para_msg paragraph="10520900" start_scence_sound="950004.mp3">
+			<content effect_num="0" >秋天结束了。</content>
+	</para_msg>
+	<para_msg paragraph="10521000" >
+			<content effect_num="0" >没有得到什么，也没有失去什么。身边的人和事都没有发生什么改变。</content>
+  </para_msg>
+  <para_msg paragraph="10521100" >
+			<content effect_num="0" index="1">总之，又一个平淡的秋季就这样离去。</content>		
+	    <content effect_num="0" index="2">落叶归入沃土，等待来年为它们的子民提供生长的温床。</content>	
+  </para_msg>
+  <para_msg paragraph="10521200" next_p="10521400">
+			<content effect_num="0" >第一场雪落下的那个夜晚，我躲在被窝里偷偷许愿，希望下个秋天能有意思一些。</content>
+	</para_msg>
+  <para_msg paragraph="10521400" >
+			<content effect_num="2" talker="男生A">听说医务室的卢老师调往外地工作了？</content>
+	</para_msg>
+  <para_msg paragraph="10521500" >
+			<content effect_num="0" talker="男生B">啊？！</content>	
+  </para_msg>
+  <para_msg paragraph="10521600" >
+			<content effect_num="0" talker="男生A">连一班的卢兰也跟着她姐姐转学了。真可惜啊，学校里少了个奔放美女。</content>	
+	</para_msg>
+  <para_msg paragraph="10521700" >
+			<content effect_num="0" talker="男生B">是两个——不对，你其实真正惋惜的只是以后没法看到卢兰的内裤了吧？</content>	
+	</para_msg>
+  <para_msg paragraph="10521800" >
+			<content effect_num="0" talker="男生A">……别胡扯！</content>									
+	</para_msg>
+  <para_msg paragraph="10521900" >
+			<content effect_num="0" talker="男生A">我才不可能对那种野猫一样的女生有兴趣！</content>	   
+	</para_msg>
+  <para_msg paragraph="10522000" >
+			<content effect_num="0" talker="男生A">绝——对，不可能！</content>	 
+	</para_msg>
+  <para_msg paragraph="10522100" >
+			<content effect_num="0" >男生们依然重复着昨天的话题。</content>	 	
+	</para_msg>
+  <para_msg paragraph="10522200" >
+			<content effect_num="0" >卢医生和卢兰的告别来得很突然，我甚至来不及询问缘由。</content>	 				   
+	</para_msg>
+  <para_msg paragraph="10522300" >
+			<content effect_num="0" >卢兰留给我的信里，也只是写了个“抱歉”，以及一张小猫吐舌头的漫画像。</content>	    
+	</para_msg>
+  <para_msg paragraph="10522400" >
+			<content effect_num="0" >除此之外，校园并没有什么变化。</content>	    
+	</para_msg>
+  <para_msg paragraph="10522500" next_p="10522700">
+			<content effect_num="0" >我也与以往一样，在上午的课程结束后，独自到教学楼顶的天台上去，安静地吃午饭。</content>
+	</para_msg>
+  <para_msg paragraph="10522700" >
+			<content effect_num="2" >路过高二年级教室时，听到有人谈论最近的灵异事件。</content>	
+	</para_msg>
+  <para_msg paragraph="10522800" >
+			<content effect_num="0" index="1">有一个班突然多出一副空着的桌椅。</content>		
+	    <content effect_num="0" index="2">学长们都说隐约记得那桌椅曾有人坐过，但就是无法具体说出那个人到底叫什么名字，长什么样。</content>
+	</para_msg>
+  <para_msg paragraph="10522900" >
+			<content effect_num="0" index="1">学籍表上明明只有39个同学，却有40个座位。</content>		
+	    <content effect_num="0" index="2">而且，在长达半年时间内都没人提出过质疑，直到现在才察觉到异状。</content> 
+	</para_msg>
+  <para_msg paragraph="10523000" >
+			<content effect_num="0" >听上去就像大家都被某个催眠师进行了心理暗示一样，真是很诡异。</content>
+	</para_msg>
+  <para_msg paragraph="10523100" >
+			<content effect_num="2" >至于我——今天又多做了一份便当。</content>		       			
+	</para_msg>
+  <para_msg paragraph="10523200" >
+			<content effect_num="0" >最近老是出现这个错误，好奇怪。</content>		
+	</para_msg>
+  <para_msg paragraph="10523300" >
+			<content effect_num="0" >为什么要做两个人的便当呢？明明就自己一个人在这儿吃饭的。</content>		
+	</para_msg>
+  <para_msg paragraph="10523400" >
+			<content effect_num="0" >而且，当看着那个多出来的、盛满了自己不喜欢的食物的饭盒时，总觉得……</content>	
+	</para_msg>
+  <para_msg paragraph="10523500" >
+			<content effect_num="0" talker="谭佳">…… ……</content>				
+	</para_msg>
+  <para_msg paragraph="10523600" >
+			<content effect_num="0" talker="谭佳">诶？</content>			
+	</para_msg>
+  <para_msg paragraph="10523700" >
+			<content effect_num="0" talker="谭佳">我怎么……</content>		
+	</para_msg>
+  <para_msg paragraph="10523800" >
+			<content effect_num="0" >似乎有沙子进了眼睛，泪水不由自主地流了下来。</content>	
+	</para_msg>
+  <para_msg paragraph="10523900" >
+			<content effect_num="0" talker="谭佳">好奇怪……到底……</content>	
+	</para_msg>
+  <para_msg paragraph="10524000" >
+			<content effect_num="0" >但是，仅仅是一些风沙的话，会让我流这么多的泪吗？</content>		
+	</para_msg>
+  <para_msg paragraph="10524100" >
+			<content effect_num="0" index="1">在苦苦思考时，却发现自己身子已经缩在了角落里。</content>		
+      <content effect_num="0" index="2">双手紧紧搂着膝盖，不论我多么想松开都不听指挥。</content> 	
+	</para_msg>
+  <para_msg paragraph="10524200" >
+			<content effect_num="0" >不知道是什么原因，但就是想哭。</content>
+	</para_msg>
+  <para_msg paragraph="10524300" next_p="10524500">
+			<content effect_num="0" >无缘无故地想要大哭一场。</content>	
+	</para_msg>
+  <para_msg paragraph="10524500" >
+			<content effect_num="2" >太阳朝出夕落，凡人生老病死——世间万物无不重复着固有的规律。</content>		
+	</para_msg>
+  <para_msg paragraph="10524600" >
+			<content effect_num="0" >人在一生中卖力地奔跑，他们的灵魂炽烈地燃烧着，直到身心皆化作灰烬，才肯停下脚步。</content>				
+	</para_msg>
+  <para_msg paragraph="10524700" >
+			<content effect_num="0" >然后，上帝赞许他们的精神、宽恕他们的罪行、迎接他们登上天堂。</content>	
+	</para_msg>
+  <para_msg paragraph="10524800" >
+			<content effect_num="2" />
+	</para_msg>
+  <para_msg paragraph="10524900" >
+			<content effect_num="2" talker="卢缘">你已经在这里站了快一天了。</content>
+	</para_msg>
+  <para_msg paragraph="10525000" >
+			<content effect_num="0" talker="卢缘">不管你再站多久，他也不会从坟墓里面爬出来的。</content>	
+	</para_msg>
+  <para_msg paragraph="10525100" >
+			<content effect_num="0" talker="阿娜丝塔夏">…… ……</content>												
+	</para_msg>
+  <para_msg paragraph="10525200" next_p="10525202">
+			<content effect_num="0" talker="阿娜丝塔夏">在学校里的那一天，你是故意输给我的吗？</content>
+	</para_msg>
+  <para_msg paragraph="10525202" next_p="10525204">
+			<content effect_num="0" talker="卢缘">唔……差不多可以这么说吧。</content>			
+	</para_msg>
+  <para_msg paragraph="10525204" next_p="10525206">
+			<content effect_num="0" talker="卢缘">虽然很对不起卢兰，但为了让你脑子清醒下来，这是最好的方法。</content>	
+	</para_msg>
+  <para_msg paragraph="10525206" next_p="10525208">
+			<content effect_num="0" talker="阿娜丝塔夏">从医务室逃走之后，你赶在我之前找到了他……</content>	
+	</para_msg>
+  <para_msg paragraph="10525208" next_p="10525210">
+			<content effect_num="0" talker="卢缘">嗯。我的搜寻能力比你强一个阶级呢。</content>		
+	</para_msg>
+  <para_msg paragraph="10525210" next_p="10525212">
+			<content effect_num="0" talker="卢缘">那时候我产生了一个念头——如果不用这样的手段，就无法拯救你这只迷途小猫了。</content>	
+	</para_msg>
+  <para_msg paragraph="10525212" next_p="10525214">
+			<content effect_num="0" talker="阿娜丝塔夏">我不需要你来拯救！</content>	
+	</para_msg>
+  <para_msg paragraph="10525214" next_p="10525216">
+			<content effect_num="0" talker="卢缘">哦呀呀，瞧瞧你自己，又要发疯了么？</content>	
+	</para_msg>
+  <para_msg paragraph="10525216" next_p="10525218">
+			<content effect_num="0" talker="卢缘">罢了，反正我也不是什么好人，如果你要和我在他的沉睡地开战，我也不介意。</content>			
+	</para_msg>
+  <para_msg paragraph="10525218" next_p="10525220">
+			<content effect_num="0" index="1" talker="卢缘">但是啊，你至少该先感谢我吧？如果没我的话，他说不定早死了。</content>
+			<content effect_num="0" index="2" talker="卢缘">你是一流的人偶制造者，但也是个二流魔法使。在他身上布置的那些乱七八糟的结界，差点让他整个人都崩溃掉呢！</content>			
+	</para_msg>
+  <para_msg paragraph="10525220" next_p="10525222">
+			<content effect_num="0" index="1"  talker="卢缘">之前他被卢兰弄晕之后拖到医务室来，我花了一整天时间研究这些结界。</content>			
+			<content effect_num="0" index="2"  talker="卢缘">三个结界，分别对应巴塞特的生命、记忆、情感。</content> 								
+	</para_msg>
+  <para_msg paragraph="10525222" next_p="10525224">
+			<content effect_num="0" index="1" talker="卢缘">记忆的结界已经开始自动崩溃了，我也没兴趣修复。我想你之后也发现了，他的梦越来越频繁，身体也越来越差。</content>	
+			<content effect_num="0" index="2" talker="卢缘">我只做了一件事，就是用魔法匕首刺进他心脏，把维持情感的结界破坏了。</content> 		
+	</para_msg>
+  <para_msg paragraph="10525224" next_p="10525226">
+			<content effect_num="0" talker="卢缘">之后发生的事正如我所料。我把他被我刺杀这段时间的记忆抹消掉，使他没有察觉到自己曾经对你的感情已经解锁，但身体已经自动做出了亲近你的行为。</content>		
+	</para_msg>
+  <para_msg paragraph="10525226" next_p="10525228">
+			<content effect_num="0" talker="卢缘">于是，你那脆弱得不行的心就崩溃了……</content>			
+	</para_msg>
+  <para_msg paragraph="10525228" next_p="10525230">
+			<content effect_num="0" talker="阿娜丝塔夏">…… ……</content>										
+	</para_msg>
+  <para_msg paragraph="10525230" next_p="10525232">
+			<content effect_num="0" talker="阿娜丝塔夏">你就这么喜欢躲在一旁偷窥别人的痛苦？</content>				
+	</para_msg>
+  <para_msg paragraph="10525232" next_p="10525300">
+			<content effect_num="0" talker="卢缘">我在你眼里原来是这么糟糕的人啊？</content>								
+	</para_msg>
+  <para_msg paragraph="10525300" >
+			<content effect_num="0" talker="卢缘">我只是坚持认为，再这样瞒着他的话，你们两人都无法向前迈进。</content>	
+	</para_msg>
+  <para_msg paragraph="10525400" >
+			<content effect_num="0" index="1" talker="卢缘">我没打算寻求你的谅解。</content>		
+      <content effect_num="0" index="2" talker="卢缘">但是，曾拥有“白鸦”这个名号，身为最强骑士的你，若因偏执的情欲而堕落的话就太可惜了。</content> 
+  </para_msg>
+  <para_msg paragraph="10525500" >
+			<content effect_num="0" talker="卢缘">你为他设置的结界，实际上体现了你心境的矛盾。</content>
+	</para_msg>
+  <para_msg paragraph="10525600" >
+			<content effect_num="0" index="1" talker="卢缘">不想拖累他，于是让他忘却曾经与你之间的关系。</content>		
+      <content effect_num="0" index="2" talker="卢缘">但是，又不肯离开他的身边。</content>	
+  </para_msg>
+  <para_msg paragraph="10525700" >
+			<content effect_num="0" talker="卢缘">脆弱的谎言，最后是被你们两人共同打破的。</content>
+	</para_msg>
+  <para_msg paragraph="10525800" >
+			<content effect_num="0" talker="卢缘">明明面对的只是一个人偶，明明知道你的结界除了维持那个躯壳存在之外，什么都做不了，你却还是爱上了他，拼命压制他记忆的复苏，这真是个悲剧。</content>	
+	</para_msg>
+  <para_msg paragraph="10525900" >
+			<content effect_num="0" talker="阿娜丝塔夏">你觉得很好笑是吗？但是，我不后悔再一次爱上他。</content>			    	     								
+	</para_msg>
+  <para_msg paragraph="10526000" >
+			<content effect_num="0" talker="阿娜丝塔夏">一点都不后悔。</content>
+	</para_msg>
+  <para_msg paragraph="10526100" >
+			<content effect_num="0" talker="卢缘">我并不是觉得好笑，而是认为你应该面对现实。</content>				
+	</para_msg>
+  <para_msg paragraph="10526200" >
+			<content effect_num="0" talker="卢缘">不过，你要是真明白的话，当初也不会这么做了。</content>	
+	</para_msg>
+  <para_msg paragraph="10526300" >
+			<content effect_num="0" index="1" talker="卢缘">为什么冒险提出申请，带着他的碎片通过连接点，跑到那个和你们完全不相干的世界里去？</content>		
+      <content effect_num="0" index="2" talker="卢缘">你这个申请导致连接点的守备官都得跟着承担责任。</content>	
+  </para_msg>
+  <para_msg paragraph="10526400" >
+			<content effect_num="0" index="1" talker="卢缘">你应该清楚，议会下属的连接点除非遇到特殊情况，否则就算是铭刻者也不能随意穿梭的。</content> 
+			<content effect_num="0" index="2" talker="卢缘">你想跑的话，在我们的世界里到处跑都没事，但扰乱另一个世界的罪名是很严重的。</content>	    						
+	</para_msg>
+  <para_msg paragraph="10526500" >
+			<content effect_num="0" talker="阿娜丝塔夏">我只是想实现他曾经的愿望。</content>			
+	</para_msg>
+  <para_msg paragraph="10526600" >
+			<content effect_num="0" talker="阿娜丝塔夏">很久以前，他曾和我谈起过，希望像一个正常的孩子那样生活。</content>			
+	</para_msg>
+  <para_msg paragraph="10526700" >
+			<content effect_num="0" talker="阿娜丝塔夏">从小就接受教会训练的他，从未过上自己喜欢的日子。</content>			
+	</para_msg>
+  <para_msg paragraph="10526800" >
+			<content effect_num="0" talker="阿娜丝塔夏">他……其实比我更不幸。</content>			
+	</para_msg>
+  <para_msg paragraph="10526900" >
+			<content effect_num="0" index="1" talker="阿娜丝塔夏">所以，不管怎样，我希望能让他得到那样的幸福，即使是虚假的也好。</content>
+			<content effect_num="0" index="2" talker="阿娜丝塔夏">但是，被灾变洗礼的这个世界，已经无法让他幸福了……</content>
+	</para_msg>
+  <para_msg paragraph="10527000" >
+			<content effect_num="0" talker="卢缘">…… ……</content>  					
+	</para_msg>
+  <para_msg paragraph="10527100" >
+			<content effect_num="0" talker="卢缘">算了，总之大主教那边已经取消了对你的指控。</content>  		
+	</para_msg>
+  <para_msg paragraph="10527200" >
+			<content effect_num="0" talker="卢缘">不朽者介入了这件事，玛琳为你做了辩护。</content>  		
+	</para_msg>
+  <para_msg paragraph="10527300" >
+			<content effect_num="0" talker="卢缘">千年议会下属的五个分教会都解散了，包括你以前所在的金色教会。剩余的圣痕铭刻者以后将在议会的指挥下行动。</content>  
+	</para_msg>
+  <para_msg paragraph="10527400" >
+			<content effect_num="0" index="1" talker="卢缘">凯瑟琳和她的修女团正在世界各地关闭连接点。</content>		
+      <content effect_num="0" index="2" talker="卢缘">玛琳封闭了之前被你搅得乌七八糟的另一个世界，进行修复。那边的工作结束之后她也会尽快赶来。</content>	
+	</para_msg>
+  <para_msg paragraph="10527500" >
+			<content effect_num="0" talker="卢缘">我们将发起一场讨伐战争，彻底消灭这个世界里的黄昏之铃余孽。</content>    
+	</para_msg>
+  <para_msg paragraph="10527600" >
+			<content effect_num="0" talker="阿娜丝塔夏">和我说这个做什么？</content>	
+	</para_msg>
+  <para_msg paragraph="10527700" >
+			<content effect_num="0" talker="卢缘">嘛，我只是说说，我没别的意思。</content>  					
+	</para_msg>
+  <para_msg paragraph="10527800" next_p="10527802">
+			<content effect_num="0" talker="卢缘">我之所以来这儿，实际上只为一件事。</content>   
+	</para_msg>
+  <para_msg paragraph="10527802" next_p="10527804">
+			<content effect_num="0" talker="卢缘">作为对十骑士的歉意，玛琳让我把这个东西交给你。</content> 
+	</para_msg>
+  <para_msg paragraph="10527804" next_p="10527806">
+			<content effect_num="0" >一个白色的金属手提箱递了过来。</content> 
+	</para_msg>
+  <para_msg paragraph="10527806" next_p="10527808">
+			<content effect_num="0" index="1">接过它时，手上感觉到了明显的、沉甸甸的重量。</content> 
+			<content effect_num="0" index="2">作为一个外表平凡无奇的箱子，这未免太重了一些，不得不令人联想里面装的到底是什么。</content>	
+	</para_msg>
+  <para_msg paragraph="10527808" next_p="10527810">
+			<content effect_num="0" index="1" talker="卢缘">你的战锤和铠甲都毁坏了吧？</content> 
+			<content effect_num="0" index="2" talker="卢缘">以后如果你必须再次走上战场，就带着这东西去。</content>	
+	</para_msg>
+  <para_msg paragraph="10527810" next_p="10527812">
+			<content effect_num="0" talker="卢缘">贝鲁沃肯，密文里是“唤来战争之匣”的意思。</content> 	
+	</para_msg>
+  <para_msg paragraph="10527812" next_p="10527814">
+			<content effect_num="0" talker="阿娜丝塔夏">把这种东西给我干什么？</content>
+	</para_msg>
+  <para_msg paragraph="10527814" next_p="10527816">
+			<content effect_num="0" index="1" talker="卢缘">玛琳大概很期待你会怎样使用它吧。</content>	
+			<content effect_num="0" index="2" talker="卢缘">毕竟从神话时代到现在，都没人能驯服这箱子里关押的怪物。</content>		 										
+	</para_msg>
+  <para_msg paragraph="10527816" next_p="10527900">
+			<content effect_num="0" talker="卢缘">好啦，时间不早了，我也该走了。于是再见吧，可爱的白鸦。</content>		  				     
+	</para_msg>
+  <para_msg paragraph="10527900" >
+			<content effect_num="0" talker="卢缘">不过，很快我们就会再见面……希望是这样。</content>  
+	</para_msg>
+  <para_msg paragraph="10528000" next_p="10528200">
+			<content effect_num="0" talker="阿娜丝塔夏">…… ……</content>		
+	</para_msg>
+  <para_msg paragraph="10528200" >
+			<content effect_num="2" >太阳朝升夕落，凡人生老病死——世界无时无刻不在重复着这样的轮回。</content> 
+	</para_msg>
+  <para_msg paragraph="10528300" >
+			<content effect_num="0" >当人的生命奔向终点时，上天怜悯他们，给予他们重获救赎的机会。</content> 		 		
+  </para_msg>
+  <para_msg paragraph="10528400" >
+			<content effect_num="0" >但是，我不需要这样的救赎。我也不乞求上天的原谅。</content>     				
+	</para_msg>
+  <para_msg paragraph="10528500" >
+			<content effect_num="0" >因为让我活下去的，不是什么上帝，而是他。</content> 				    			
+	</para_msg>
+  <para_msg paragraph="10528600" >
+			<content effect_num="0" >一个愿意对我微笑的人；一个愿意与我一同做梦的人。</content> 		
+	</para_msg>
+  <para_msg paragraph="10528700" >
+			<content effect_num="0" >现在，我要再一次迈开向前的脚步。</content> 		
+	</para_msg>
+  <para_msg paragraph="10528800" >
+			<content effect_num="0" >只是，他已不在我身边。</content> 
+	</para_msg>
+  <para_msg paragraph="10528900" >
+			<content effect_num="2" talker="阿娜丝塔夏">巴塞特……</content>					
+	</para_msg>
+  <para_msg paragraph="10529000" >
+			<content effect_num="0" talker="阿娜丝塔夏">我……该去哪里好呢？</content>			
+	</para_msg>
+  <para_msg paragraph="10529100" next_p="10529101" end_scence_sound="true">
+			<content effect_num="0" talker="阿娜丝塔夏">告诉我答案啊，巴塞特……</content>
+	</para_msg>
+  <para_msg paragraph="10529101" next_p="10529102">
+			<content effect_num="2" />
+	</para_msg>
+	<para_msg paragraph="10529102" next_p="10529103">
+			<content effect_num="0" />
+	</para_msg>
+	<para_msg paragraph="10529103" date_end="true">
+			<content effect_num="0" />		
+	</para_msg>
+	</para_date>
+	</config>					
+			
+			
+									    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    

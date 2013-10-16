@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<config>
+ <para_date date="8月25日" week="星期一" weather="晴">
+    <para_msg paragraph="10009000">
+        <content effect_num="0"></content>
+    </para_msg>
+    <para_msg paragraph="10009100" start_scence_sound="950002.mp3">
+        <content effect_num="0" talker="谭佳">铛铛！大家好，这里依然是猫玉米小剧场！我是人见人爱花见花开的学妹谭佳，米娜大一思基！</content>
+    </para_msg>
+    <para_msg paragraph="10009200">
+        <content effect_num="0" talker="谭佳">而身边的这位依旧是粗嘴笨舌胸大无脑的笨蛋卢兰。</content>
+    </para_msg>
+    <para_msg paragraph="10009300">
+        <content effect_num="0" talker="卢兰">…… 这糟点用了这么多次,你还没厌倦啊!？</content>
+    </para_msg>
+    <para_msg paragraph="10009400">
+        <content effect_num="0" talker="谭佳">因为我耳边始终回荡着一个声音。</content>
+    </para_msg>
+    <para_msg paragraph="10009500">
+        <content effect_num="0" talker="卢兰">……声音?是什么？ </content>
+
+    </para_msg>
+    <para_msg paragraph="10009600">
+        <content effect_num="0" talker="谭佳">哭声,你听不见吗？</content>
+    </para_msg>
+    <para_msg paragraph="10009700">
+        <content effect_num="0" index="1" talker="卢兰">…… ……鬼，鬼故事什么的可吓不倒我。</content>
+        <content effect_num="0" index="2" talker="卢兰">就算你说这种让人害怕的话，我，我也不会动摇的。</content>
+    </para_msg>
+    <para_msg paragraph="10009800">
+        <content effect_num="0" index="1" talker="谭佳">鬼？</content>
+        <content effect_num="0" index="2" talker="谭佳">明明是来自胸部的哭声，你真听不到？</content>
+    </para_msg>
+    <para_msg paragraph="10009900">
+        <content effect_num="0" talker="卢兰">…… ……</content>
+    </para_msg>
+    <para_msg paragraph="10010000">
+        <content effect_num="0" talker="谭佳">无数被削减的胸部的哭声哦……</content>
+    </para_msg>
+    <para_msg paragraph="10010100">
+        <content effect_num="0" talker="卢兰">为什么你要这么在意胸部啊！！连哭声什么都听的到！！</content>
+    </para_msg>
+    <para_msg paragraph="10010200">
+        <content effect_num="0" talker="谭佳">好吧，其实是塞戈德在哭啦。</content>
+    </para_msg>
+    <para_msg paragraph="10010300">
+        <content effect_num="0" index="1" talker="卢兰">我就知道……</content>
+        <content effect_num="0" index="2" talker="卢兰">那个该死的胸部星人……</content>
+    </para_msg>
+    <para_msg paragraph="10010400">
+        <content effect_num="0" index="1" talker="谭佳">那段时间他天天抱着鲸鱼的大腿打滚哭闹着说什么</content>
+        <content effect_num="0" index="2" talker="谭佳">“至少...至少把司马雪削减的尺寸加到卢兰上吧！”</content>
+    </para_msg>
+    <para_msg paragraph="10010500">
+        <content effect_num="0" talker="谭佳">之后，在一旁冷眼注视这一切的娜娜偷偷用2罐王老吉贿赂了鲸鱼，所以连带卢兰你的尺寸也缩小了。</content>
+    </para_msg>
+    <para_msg paragraph="10010600">
+        <content effect_num="0" index="1" talker="卢兰">我有个问题——</content>
+        <content effect_num="0" index="2" talker="卢兰">为什么是两罐？</content>
+    </para_msg>
+    <para_msg paragraph="10010700">
+        <content effect_num="0" talker="卢兰">再说了，缩小司马雪胸部这件事，鲸鱼自己不是也很乐意吗？</content>
+    </para_msg>
+    <para_msg paragraph="10010800">
+        <content effect_num="0" talker="谭佳">因为卢兰的价钱就是两罐嘛，楼下便利店里两罐王老吉可是价值10元的哦！</content>
+    </para_msg>
+    <para_msg paragraph="10010900">
+        <content effect_num="0"  talker="卢兰">这种会让人误解的说法,我可一点都不觉得好笑啊！</content>
+    </para_msg>
+    <para_msg paragraph="10011000">
+        <content effect_num="0" talker="谭佳">好吧，一罐是用来支付缩小左边胸部的代价，另一罐则是用来支付缩小右边胸部的。</content>
+    </para_msg>
+    <para_msg paragraph="10011100">
+        <content effect_num="0" index="1" talker="谭佳">完全沦为牺牲品的卢兰……</content>
+        <content effect_num="0" index="2" talker="谭佳">…… ……</content>
+    </para_msg>
+    <para_msg paragraph="10011200" >
+        <content effect_num="3" effect_type="timerStop" talker="卢兰">就算用这种快要哭出来的表情，我也知道你根本没同情过我!!</content>
+    </para_msg>
+    <para_msg paragraph="10011300">
+        <content effect_num="0" talker="谭佳">所以说，贫乳控和巨乳控的战争还真是可怕……</content>
+    </para_msg>
+    <para_msg paragraph="10011400">
+        <content effect_num="0" talker="卢兰">算拉，其实我对胸部这种事完全不在意，他们想怎么样就怎么样吧。</content>
+    </para_msg>
+    <para_msg paragraph="10011500">
+        <content effect_num="0" talker="谭佳">而且说了这么多，其实还有很多人对猫玉米小屋并不了解。</content>
+    </para_msg>
+    <para_msg paragraph="10011600">
+        <content effect_num="0" talker="卢兰">“鲸鱼是谁啊？”“娜娜是妹子么？”“塞戈德又是哪个脑残啊？”肯定有大多数刚接触啪啦黑的人们并不清楚。</content>
+    </para_msg>
+    <para_msg paragraph="10011700">
+        <content effect_num="0" index="1" talker="谭佳">用坊间流行的说法就是——</content>
+        <content effect_num="0" index="2" talker="谭佳">几个认为3次元妹子都是都市传说，家里堆满各种绘制不穿衣服2次元美少女纺织物的死宅罢了。</content>
+    </para_msg>
+    <para_msg paragraph="10011800">
+        <content effect_num="0" talker="卢兰">这种自带精准属性的描述哪里出自坊间了！</content>
+    </para_msg>
+    <para_msg paragraph="10011900">
+        <content effect_num="0" talker="谭佳">不过……该怎么说呢，与一般死宅不同的地方在于，他们都通过某种神秘仪式支付代价从而换取了相应的能力。</content>
+    </para_msg>
+    <para_msg paragraph="10012000">
+        <content effect_num="0" talker="卢兰">能力……？</content>
+    </para_msg>
+    <para_msg paragraph="10012100">
+        <content effect_num="0" talker="谭佳">是的，与幻想世界不同，现实中的能力需要支付不小的代价。</content>
+    </para_msg>
+    <para_msg paragraph="10012200">
+        <content effect_num="0" talker="谭佳">比如魔山鲸鱼，猫玉米的主绘师，现在是一只猫哦。</content>
+    </para_msg>
+    <para_msg paragraph="10012300">
+        <content effect_num="0" talker="卢兰">一只名叫鲸鱼的猫么……</content>
+    </para_msg>
+    <para_msg paragraph="10012400">
+        <content effect_num="0" talker="谭佳">一只常常扬起下巴望向窗外的名叫鲸鱼的白猫。</content>
+    </para_msg>
+    <para_msg paragraph="10012500">
+        <content effect_num="0" index="1" talker="谭佳">他的双手具有能创造出天下最萌的妹子、最萌的妹子和最萌的妹子这样程度的能力。</content>
+        <content effect_num="0" index="2" talker="谭佳">为了换取这样的能力，他变成了猫，并且终生无法下水。</content>
+    </para_msg>
+    <para_msg paragraph="10012600">
+        <content effect_num="0" talker="谭佳">所以这只可怜的白猫将自己叫作魔山鲸鱼，以弥补自己不能到海中游泳的遗憾。</content>
+    </para_msg>
+    <para_msg paragraph="10012700">
+        <content effect_num="0" talker="卢兰">因为热爱画画变成猫的人……</content>
+    </para_msg>
+    <para_msg paragraph="10012800">
+        <content effect_num="0" talker="谭佳">以上皆为虚构。</content>
+    </para_msg>
+    <para_msg paragraph="10012900">
+        <content effect_num="0" talker="卢兰">…… ……你妹……</content>
+    </para_msg>
+    <para_msg paragraph="10013000">
+        <content effect_num="0" index="1" talker="谭佳">实际上，鲸鱼付出的代价不是很好说明。</content>
+        <content effect_num="0" index="2" talker="谭佳">嗯，姑且就叫做忽略他人羞耻心这样的代价吧。</content>
+    </para_msg>
+    <para_msg paragraph="10013100">
+        <content effect_num="0" talker="谭佳">具体事例就是让曾经团里唯一的妹子画衣着暴露的CG，当妹子含蓄的表示不会画后，鲸鱼直接丢给那妹子几百G的HCG，然后告诉她先照着描几张试试....</content>
+    </para_msg>
+    <para_msg paragraph="10013200">
+        <content effect_num="0" index="1" talker="卢兰">…… ……</content>
+        <content effect_num="0" index="2" talker="卢兰">…… ……</content>
+    </para_msg>
+    <para_msg paragraph="10013300">
+        <content effect_num="0" index="1" talker="谭佳">那妹子默默流泪描了整整一周的HCG后……</content>
+        <content effect_num="0" index="2" talker="谭佳">从此后就成了一个Galgame热衷者,连男朋友都不理了。</content>
+    </para_msg>
+    <para_msg paragraph="10013400">
+        <content effect_num="0" talker="卢兰">这其实已经算的上是性骚扰了吧……</content>
+    </para_msg>
+    <para_msg paragraph="10013500">
+        <content effect_num="0" talker="谭佳">是吧……</content>
+    </para_msg>
+    <para_msg paragraph="10013600">
+        <content effect_num="0" talker="谭佳">接下来说娜娜，也就是娜琪儿爱丽斯，猫玉米的剧本兼脚本，她是一个名符其实的文学少女。</content>
+    </para_msg>
+    <para_msg paragraph="10013700">
+        <content effect_num="0" talker="谭佳">当然，如果没人在意他的性别和身高，他真的是一个文学少女。</content>
+    </para_msg>
+    <para_msg paragraph="10013800">
+        <content effect_num="0" talker="卢兰">…… ……</content>
+    </para_msg>
+    <para_msg paragraph="10013900">
+        <content effect_num="0" talker="谭佳">他内心深处的世界或许比阿布的肚子还要大，脑袋里装满了糟糕的东西。</content>
+    </para_msg>
+    <para_msg paragraph="10014000">
+        <content effect_num="0" index="1" talker="谭佳">为了换取这样的能力——</content>
+        <content effect_num="0" index="2" talker="谭佳">咳，他必须守护贞洁——是的，再有两年就可以撮火球了。</content>
+    </para_msg>
+    <para_msg paragraph="10014100">
+        <content effect_num="0" talker="卢兰">听起来似乎很悲催的感觉……</content>
+    </para_msg>
+    <para_msg paragraph="10014200">
+        <content effect_num="0" talker="谭佳">不过他是个虚心细腻的好人啦，烧饭、洗衣服、收拾打扫样样精通，还喜欢帮助安慰他人，长的也是又高又帅，几乎所有见过他的人都会有给他介绍对象的冲动。</content>
+    </para_msg>
+    <para_msg paragraph="10014300">
+        <content effect_num="0" index="1" talker="卢兰">可是他又必须守护贞洁……？</content>
+        <content effect_num="0" index="2" talker="卢兰">这种属性搭配好诡异。</content>
+    </para_msg>
+    <para_msg paragraph="10014400">
+        <content effect_num="0" talker="谭佳">所以在这种矛盾中，他成了一个猥琐肮脏的家伙……同时兼具腐宅两种属性，而他最大的爱好就是装妹子调戏男人。</content>
+    </para_msg>
+    <para_msg paragraph="10014500">
+        <content effect_num="0" talker="卢兰">OTZ……</content>
+    </para_msg>
+    <para_msg paragraph="10014600">
+        <content effect_num="0" talker="卢兰">难怪群里谁说了什么奇怪的话就会被吐槽“难道你以后想成为像娜娜一样糟糕的魔法使么？”</content>
+    </para_msg>
+    <para_msg paragraph="10014700">
+        <content effect_num="0" talker="谭佳">至于塞戈德嘛……算是猫玉米的主催吧，自称是没落贵族的管家，即使用脑残对他来说或许仍算的上褒义词的家伙，有着说不完无节操无尊严笑话程度的能力。</content>
+    </para_msg>
+    <para_msg paragraph="10014800">
+        <content effect_num="0" index="1" talker="谭佳">虽然是个没用的能力，不过好在换取这种能力的代价不算太高——</content>
+        <content effect_num="0" index="2" talker="谭佳">仅仅是另人绝望的体重而已，-_,-+。</content>
+    </para_msg>
+    <para_msg paragraph="10014900">
+        <content effect_num="0" talker="卢兰">死胖子…… ……</content>
+    </para_msg>
+    <para_msg paragraph="10015000">
+        <content effect_num="0" talker="谭佳">是的，不过这是个过分热情，同时没有下限的死胖子，他身上总是闪烁着奇怪的光线，然后被这种光线所吸引的，和他们有同样味道的家伙就会从全国各地背着铺盖卷爬过来。</content>
+    </para_msg>
+    <para_msg paragraph="10015100">
+        <content effect_num="0" talker="卢兰">…… ……猫玉米的建立过程基本就浓缩在这样短短一句话里了。</content>
+    </para_msg>
+    <para_msg paragraph="10015200">
+        <content effect_num="0" talker="谭佳">据已经进入猫玉米内部的死宅报告，塞戈德的口头禅——</content>
+    </para_msg>
+    <para_msg paragraph="10015300">
+        <content effect_num="0" talker="谭佳">“如果你写出来的剧本画出来的妹子都没办法让自己有打飞机的冲动，你觉得其他死宅会喜欢吗！？”</content>
+    </para_msg>
+    <para_msg paragraph="10015400">
+        <content effect_num="0" talker="卢兰">…… ……</content>
+    </para_msg>
+    <para_msg paragraph="10015500">
+        <content effect_num="0" talker="谭佳">能在大庭广众之下说出这句话的人实在很碍眼。</content>
+    </para_msg>
+    <para_msg paragraph="10015600">
+        <content effect_num="0" talker="谭佳">而另一个关于这个组织的秘密——他们原本并不叫猫玉米小屋，刚成立的时候是叫黄毛巾工作室来着.... </content>
+    </para_msg>
+    <para_msg paragraph="10015700">
+        <content effect_num="0" index="1" talker="卢兰">我大概明白为什么塞戈德会那么没节操了……不过为什么后来要改名字？</content>
+        <content effect_num="0" index="2" talker="卢兰">黄毛巾这名字一定会红的才对。</content>
+    </para_msg>
+    <para_msg paragraph="10015800">
+        <content effect_num="0" talker="谭佳">社团名进化成现在的猫玉米小屋，本意是希望从鬼畜路线转到卡挖仪路线，当时想着或许会有更多萌妹子加入吧？（大概...）</content>
+    </para_msg>
+    <para_msg paragraph="10015900">
+        <content effect_num="0" talker="卢兰">结果呢？</content>
+    </para_msg>
+    <para_msg paragraph="10016000">
+        <content effect_num="0" index="1" talker="谭佳">结果还是没有啊.... 从社团成立到第一个公司倒闭都没妹子。</content>
+        <content effect_num="0" index="2" talker="谭佳">哼，这年头的宅女真是越来越不可爱了。</content>
+    </para_msg>
+    <para_msg paragraph="10016100">
+        <content effect_num="0" index="1" talker="卢兰">喂喂...你刚才说？</content>
+        <content effect_num="0" index="2" talker="卢兰">猫玉米已经倒闭了吗？</content>
+    </para_msg>
+    <para_msg paragraph="10016200">
+        <content effect_num="0" talker="谭佳">据说又拉到投资成立新公司了！</content>
+    </para_msg>
+    <para_msg paragraph="10016300">
+        <content effect_num="0" talker="卢兰">投资？国家林业局、中国环保协会之类的？</content>
+    </para_msg>
+    <para_msg paragraph="10016400">
+        <content effect_num="0" talker="谭佳">…… ……</content>
+    </para_msg>
+    <para_msg paragraph="10016500">
+        <content effect_num="0" talker="卢兰">…… ……</content>
+    </para_msg>
+    <para_msg paragraph="10016600">
+        <content effect_num="0" talker="谭佳">…… ……</content>
+    </para_msg>
+    <para_msg paragraph="10016700">
+        <content effect_num="0" talker="卢兰">…… ……</content>
+    </para_msg>
+    <para_msg paragraph="10016800">
+        <content effect_num="0" index="1" talker="谭佳">这个槽点在小剧场2里已经用过了，我都强调过吐槽这种事情必须要有时效性才有意义。</content>
+        <content effect_num="0" index="2" talker="谭佳">而且我们的资方比这个要牛比多了！</content>
+    </para_msg>
+    <para_msg paragraph="10016900" end_scence_sound="true">
+        <content effect_num="0" talker="卢兰">难道说....</content>
+    </para_msg>
+    <para_msg paragraph="10017000">
+        <content effect_num="0" talker="谭佳">你想的没错！就是沙[哔~]小吃！</content>
+    </para_msg>
+    <para_msg paragraph="10017100">
+        <content effect_num="0" index="1" talker="谭佳">肩负着振兴祖国动漫的艰巨任务的我们可不会轻易放弃啊，浑淡。</content>
+        <content effect_num="0" index="2" talker="谭佳">还记得入党誓词里倒数第六句是什么吗？</content>
+    </para_msg>
+    <para_msg paragraph="10017200">
+        <content effect_num="0" talker="卢兰">「保守党的秘密！」</content>
+    </para_msg>
+    <para_msg paragraph="10017300">
+        <content effect_num="0" talker="谭佳">一曲忠诚的赞歌！甘撒热血谱春秋！</content>
+    </para_msg>
+    <para_msg paragraph="10017400">
+        <content effect_num="0" talker="谭佳">晚上一起潜入KFC内部吧。</content>
+    </para_msg>
+    <para_msg paragraph="10017500" >
+        <content effect_num="0" talker="卢兰">唔，那么这期小剧场到这里就先结束了。</content>
+    </para_msg>
+    <para_msg paragraph="10017600">
+        <content effect_num="0" >（完）</content>
+    </para_msg>
+    <para_msg paragraph="10017700">
+        <content effect_num="0" talker="迷之音">终于找到了，有快递，收件人卢兰小姐订的丰胸器……</content>
+    </para_msg>
+    <para_msg paragraph="10017800" >
+        <content effect_num="3" effect_type="timerStop" talker="卢兰" >浑淡！悄悄拿过来就好了！不要叫这么大声啊！！</content>
+    </para_msg>
+    <para_msg paragraph="10017900" over="true">
+        <content effect_num="0"  >……</content>
+    </para_msg>
+ </para_date>
+</config>

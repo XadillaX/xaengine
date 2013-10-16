@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Loader>
+    <SpriteInformation type="UI">
+        <Sprite name="Cursor_Arrow">media/images/ui/cursor_Arrow.png</Sprite>
+        <Sprite name="Cursor_Pointer">media/images/ui/cursor_point.png</Sprite>
+    </SpriteInformation>
+
+    <SpriteInformation type="Welcome">
+        <Sprite name="BG">media/images/welcome/bg.png</Sprite>
+        
+        <Sprite name="start0">media/images/welcome/start0.png</Sprite>
+        <Sprite name="start1">media/images/welcome/start1.png</Sprite>
+        <Sprite name="start2">media/images/welcome/start1.png</Sprite>
+
+        <Sprite name="quit0">media/images/welcome/quit0.png</Sprite>
+        <Sprite name="quit1">media/images/welcome/quit1.png</Sprite>
+        <Sprite name="quit2">media/images/welcome/quit1.png</Sprite>
+    </SpriteInformation>
+	
+	<SpriteInformation type="Loading">
+        <Sprite name="BG">media/images/loading/background.png</Sprite>
+    </SpriteInformation>
+    
+    <SpriteInformation type="AVG">
+        <Sprite name="textbox">media/images/ui/textbox.png</Sprite>
+    </SpriteInformation>
+
+    <SpriteInformation type="Revive">
+        <Sprite name="Background">media/images/revive/background.png</Sprite>
+
+        <Sprite name="yes0">media/images/revive/yes0.png</Sprite>
+        <Sprite name="yes1">media/images/revive/yes1.png</Sprite>
+        <Sprite name="yes2">media/images/revive/yes1.png</Sprite>
+
+        <Sprite name="no0">media/images/revive/no0.png</Sprite>
+        <Sprite name="no1">media/images/revive/no1.png</Sprite>
+        <Sprite name="no2">media/images/revive/no1.png</Sprite>
+    </SpriteInformation>
+
+    <SpriteInformation type="Logo">
+        <Sprite name="logo">media/images/logo/logo.png</Sprite>
+    </SpriteInformation>
+	
+	<SpriteInformation type="Block">
+        <Sprite name="flap">media/images/block/flap.png</Sprite>
+		 <Sprite name="ball">media/images/block/ball.png</Sprite>
+		 <Sprite name="loseBG">media/images/block/lose.png</Sprite>
+		 
+		 <Sprite name="rightPanel">media/images/block/rightGUI.png</Sprite>
+		 
+		 <Sprite name="treasure0">media/images/block/treasure/0.png</Sprite>
+		 <Sprite name="treasure1">media/images/block/treasure/1.png</Sprite>
+		 <Sprite name="treasure2">media/images/block/treasure/2.png</Sprite>
+		 <Sprite name="treasure3">media/images/block/treasure/3.png</Sprite>
+		 <Sprite name="treasure4">media/images/block/treasure/4.png</Sprite>
+    </SpriteInformation>
+</Loader>

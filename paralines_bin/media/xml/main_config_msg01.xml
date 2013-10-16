@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!--
+(paragraph:段落编号 talker:对话者 content:对话内容 isselect:是否有分支 effect_num:特效编号 sound:声音 select_type:选择类型)
+effect_num(1-8  0:没有特效) isbattle="true" :有战斗  next_p="语句编号"：下一句是（语句编号） effect_type="clickOpen"：打开特效 effect_type="clickStop"：关闭特效
+weather(1：晴朗 2：阴天 3：下雨)
+-->
+<config>
+	<para_date date="？？" week="？？" weather="？？">
+	<para_msg paragraph="10000100" start_scence_sound="950001.mp3" >
+			<content effect_num="0" />
+	</para_msg>
+	<para_msg paragraph="10000200" end_scence_sound="true">
+			<content effect_num="0" />
+	</para_msg>
+	<para_msg paragraph="10000300" start_scence_sound="960018.mp3">
+			<content effect_num="2" >月亮……</content>
+	</para_msg>
+	<para_msg paragraph="10000400" >
+			<content effect_num="0" >月亮，升起来了……</content>
+	</para_msg>
+	<para_msg paragraph="10000500" next_p="10000502">
+			<content effect_num="0" >美丽的、摄人心魄的月光。</content>
+	</para_msg>
+	<para_msg paragraph="10000502" next_p="10000504">
+			<content effect_num="0" >以及……在教堂的顶端，那片光芒照耀之下……</content>	
+	</para_msg>
+	<para_msg paragraph="10000504" next_p="10000505">
+			<content effect_num="2" talker="少女">大教堂，多么华美，多么神圣。</content>	
+	</para_msg>
+	<para_msg paragraph="10000505" next_p="10000506">
+			<content effect_num="0" index="1" talker="少女">但是，这仅仅是表皮上的光鲜而已。</content>
+			<content effect_num="0" index="2" talker="少女">皮下的东西，早已肮脏得流脓，散发出腥臭的味道。</content>		
+	</para_msg>
+	<para_msg paragraph="10000506" next_p="10000507">
+			<content effect_num="0" index="1" talker="少女">很可憎，对吗？于是去吧，我的仆人们。</content>
+			<content effect_num="0" index="2" talker="少女">就像对待你们面前的这个可笑十字架一样，尽情蹂躏那些天堂的走狗吧！</content>
+	</para_msg>
+	<para_msg paragraph="10000507" next_p="10000508">
+			<content effect_num="0" talker="少女">是时候让他们为自己的卑劣行径付出代价了。</content>	
+	</para_msg>
+	<para_msg paragraph="10000508" next_p="10000509">
+			<content effect_num="0" talker="黑仆从">您的教导，我们将永远铭记于心，大人。</content>
+	</para_msg>
+	<para_msg paragraph="10000509" next_p="10000510">
+			<content effect_num="0" talker="黑仆从">那么……</content>
+	</para_msg>
+	<para_msg paragraph="10000510" next_p="10000511">
+			<content effect_num="2" talker="黑仆从">狩猎……开始……</content>
+	</para_msg>
+	<para_msg paragraph="10000511" next_p="10000512" >
+			<content effect_num="0" sound="960005.mp3"/>
+	</para_msg>
+	<para_msg paragraph="10000512" next_p="10000600" end_scence_sound="true">
+			<content effect_num="2" />						
+	</para_msg>
+	<para_msg paragraph="10000600" start_scence_sound="950003.mp3">
+			<content effect_num="2">神圣的大教堂已然失去了往日的光辉。</content>
+	</para_msg>
+	<para_msg paragraph="10000700" >
+			<content effect_num="0" index="1" >顺着正门台阶流下来的血，甚至能淹到脚踝。</content>
+			<content effect_num="0" index="2" >同伴们临死前的惨叫声此起彼伏，把这儿衬得跟活地狱一般。</content>
+	</para_msg>
+	<para_msg paragraph="10000800" >
+			<content effect_num="0" >仅仅一个星期以前，在这儿能听见的还是虔诚的祷告之音。</content>
+	</para_msg>
+	<para_msg paragraph="10000900" >
+			<content effect_num="0" >现在为何变成这样？</content>
+	</para_msg>
+	<para_msg paragraph="10001000" >
+			<content effect_num="0" talker="阿娜丝塔夏">这些恶徒——！</content>
+	</para_msg>
+	<para_msg paragraph="10001100" >
+			<content effect_num="0" talker="巴塞特">…… ……</content>
+	</para_msg>
+	<para_msg paragraph="10001200" >
+			<content effect_num="0" index="1" >在我身边的这个人是阿娜丝塔夏-格林维尔，我长久以来最信赖的搭档。</content>
+			<content effect_num="0" index="2" >从她此刻咬牙切齿的模样，可以看出她的愤怒已经到了无法遏止的程度。</content>
+	</para_msg>
+	<para_msg paragraph="10001300" >
+			<content effect_num="0" talker="巴塞特">冷静下来，娜薇。（阿娜丝塔夏的爱称）</content>
+	</para_msg>
+	<para_msg paragraph="10001400" >
+			<content effect_num="0" talker="巴塞特">不要因为愤怒而失去理智，那样就上了敌人的当。</content>
+	</para_msg>
+	<para_msg paragraph="10001500" >
+			<content effect_num="0" talker="巴塞特">敌人显然是有备而来，我们更不可自乱阵脚。</content>
+	</para_msg>
+	<para_msg paragraph="10001600" >
+			<content effect_num="0" talker="阿娜丝塔夏">我当然知道这个道理！但是……</content>
+	</para_msg>
+	<para_msg paragraph="10001700" >
+			<content effect_num="0" talker="？？？">帮帮我们！</content>
+	</para_msg>
+	<para_msg paragraph="10001800" >
+			<content effect_num="0" talker="？？？">快来人！帮帮我们！！</content>
+	</para_msg>
+	<para_msg paragraph="10001900" >
+			<content effect_num="0" >前方的大门突然被人从里面推开。</content>
+	</para_msg>
+	<para_msg paragraph="10002000" >
+			<content effect_num="0" index="1" >几个教士连滚带爬跑了出来。</content>
+			<content effect_num="0" index="2" >他们衣衫破烂，脸上都带着显而易见的恐惧。</content>
+	</para_msg>
+	<para_msg paragraph="10002100" >
+			<content effect_num="0" index="1" >他们背后是深邃的黑暗。</content>
+			<content effect_num="0" index="2" >昔日的阳光此刻也不愿眷顾这个被鲜血笼罩的场所。</content>
+	</para_msg>
+	<para_msg paragraph="10002200" >
+			<content effect_num="0" >跑在最后的那个人脚下滑了一跤，摔倒在地。</content>
+	</para_msg>
+	<para_msg paragraph="10002300" >
+			<content effect_num="1" sound="960027.mp3">他还没来得及站起，那片黑暗里突然飞出一柄尖刀，准确地从背后插入了他的心脏。</content>	
+	</para_msg>
+	<para_msg paragraph="10002400" >
+			<content effect_num="1" index="1" >这是我们曾经的同伴。</content>
+			<content effect_num="0" index="2" >现在，他就以这样残酷的方式，倒在离我们不到十步远的地方，永远也无法站起来。</content>
+	</para_msg>
+	<para_msg paragraph="10002500" >
+			<content effect_num="0" >虽然已不是第一次看到同伴在眼前死去了，也一直告诫自己要冷静，但这时候还是不免一股无名火起。</content>	
+	</para_msg>
+	<para_msg paragraph="10002600" >
+			<content effect_num="0" talker="黑仆从">很好，有新的猎物上门。</content>	
+	</para_msg>
+	<para_msg paragraph="10002700" >
+			<content effect_num="0" talker="黑仆从">这么快就要开始举办第二场宴会了……</content>
+	</para_msg>
+	<para_msg paragraph="10002800" >
+			<content effect_num="0" >一群身着黑衣的刺客从门后追了出来。</content>
+	</para_msg>
+	<para_msg paragraph="10002900" >
+			<content effect_num="0" talker="阿娜丝塔夏">是黄昏之铃的成员。</content>
+	</para_msg>
+	<para_msg paragraph="10003000" >
+			<content effect_num="0" talker="教士">巴塞特，救我们！</content>
+	</para_msg>
+	<para_msg paragraph="10003100" >
+			<content effect_num="0" talker="巴塞特">啊啊，我知道。</content>
+	</para_msg>
+	<para_msg paragraph="10003200" >
+			<content effect_num="0" talker="巴塞特">娜薇，今天没时间热身了。</content>
+	</para_msg>
+	<para_msg paragraph="10003300" >
+			<content effect_num="0" talker="巴塞特">我们得在太阳落山之前把这儿打扫干净。</content>	
+	</para_msg>
+	<para_msg paragraph="10003400" >
+			<content effect_num="0" talker="阿娜丝塔夏">就算你不说，我也会马上动手的。</content>
+	</para_msg>
+	<para_msg paragraph="10003500" >
+			<content effect_num="0" talker="阿娜丝塔夏">正好一肚子火找不到地方发泄呢……</content>	
+	</para_msg>
+	<para_msg paragraph="10003600" >
+			<content effect_num="0">话音刚落，她就像出膛的炮弹一样冲了上去。</content>	
+	</para_msg>
+	<para_msg paragraph="10003700" >
+			<content effect_num="0" talker="黑仆从">哦，开始了……</content>		
+	</para_msg>
+	<para_msg paragraph="10003800" >
+			<content effect_num="0" />
+	</para_msg>
+	<para_msg paragraph="10003900" >
+			<content effect_num="0" talker="黑仆从">啊？怎么……</content>		
+	</para_msg>
+	<para_msg paragraph="10004000" >
+			<content effect_num="0" />
+	</para_msg>
+	<para_msg paragraph="10004100" >
+			<content effect_num="3" effect_type="timerStop"  index="1" >战锤至下而上，重重砸在敌人的要害处。</content>
+			<content effect_num="0" index="2" >听着那声闷响，连我这个旁观的都觉得痛。</content>	
+	</para_msg>
+	<para_msg paragraph="10004200" >
+			<content effect_num="0" >这个可怜虫飞上了天，身体扭成了难看的形状。</content>			
+	</para_msg>
+	<para_msg paragraph="10004300" >
+			<content effect_num="0" >至于其他敌人……现在已经愣在了原地。</content>			
+	</para_msg>
+	<para_msg paragraph="10004400" >
+			<content effect_num="0" talker="阿娜丝塔夏">下一个是谁？是你吗？</content>		
+	</para_msg>
+	<para_msg paragraph="10004500" >
+			<content effect_num="0" >她把锤子竖立在身前，一只手指着离自己最近的魔法使。</content>				
+	</para_msg>
+	<para_msg paragraph="10004600" >
+			<content effect_num="0" index="1" >我不由得叹起气来。</content>
+			<content effect_num="0" index="2" >娜薇的坏习惯还是没改掉，一旦进入战斗就变得异常狂热，甚至乐在其中。</content>		
+	</para_msg>
+	<para_msg paragraph="10004700" >
+			<content effect_num="0" talker="黑仆从">死……死吧，你们这些教会的走狗！</content>	
+	</para_msg>
+	<para_msg paragraph="10004800" >
+			<content effect_num="0" sound="960001.mp3">躲在后面的一个敌人带着枪，趁娜薇没留意到他的时候扣下了扳机。</content>	
+	</para_msg>
+	<para_msg paragraph="10004900" >
+			<content effect_num="0">子弹正中娜薇的脸，她的头被冲力带着向后一仰。</content>				
+	</para_msg>
+	<para_msg paragraph="10005000" >
+			<content effect_num="0" talker="黑仆从">我打死她了！哈哈！</content>		
+	</para_msg>	
+	<para_msg paragraph="10005100" >
+			<content effect_num="0" talker="巴塞特">呃……那个……</content>	
+	</para_msg>	
+	<para_msg paragraph="10005200" >
+			<content effect_num="0" talker="巴塞特">我觉得你们还是快跑吧……</content>		
+	</para_msg>
+	<para_msg paragraph="10005300" >
+			<content effect_num="0" talker="黑仆从">动手，兄弟们！把那个发呆的教士，还有剩下的人全杀掉！</content>							
+	</para_msg>
+	<para_msg paragraph="10005400" >
+			<content effect_num="0" talker="阿娜丝塔夏">谁告诉你，我已经死了？</content>		
+	</para_msg>
+	<para_msg paragraph="10005500" >
+			<content effect_num="0">听到“死人”突然发话，敌人的脸色顿时变得惨白。</content>	
+	</para_msg>
+	<para_msg paragraph="10005600" >
+			<content effect_num="0">也难怪，他们以前应该没有遇见过像我和娜薇这样的人。</content>		
+	</para_msg>
+	<para_msg paragraph="10005700" >
+			<content effect_num="0">圣痕铭刻者——从严格意义上来说，甚至不应称之为人，而是另外一种生物。</content>		
+	</para_msg>
+	<para_msg paragraph="10005800" >
+			<content effect_num="0">要用什么词来形容的话，大概“怪物”比较合适。</content>
+	</para_msg>
+	<para_msg paragraph="10005900" >
+			<content effect_num="0" index="1" >娜薇若无其事地把刚刚用牙咬住的子弹吐在地上。</content>
+			<content effect_num="0" index="2" >——这个动作已足够让他们说不出话。</content>			
+	</para_msg>
+	<para_msg paragraph="10006000" >
+			<content effect_num="0" talker="阿娜丝塔夏">巴塞特，你打算在那里站到什么时候？！</content>			
+	</para_msg>
+	<para_msg paragraph="10006100" >
+			<content effect_num="0" talker="巴塞特">…… ……</content>
+	</para_msg>
+	<para_msg paragraph="10006200" >
+			<content effect_num="0" talker="巴塞特">好，好。我马上就动手。</content>					
+	</para_msg>
+	<para_msg paragraph="10006300" >
+			<content effect_num="0" sound="960012.mp3" talker="巴塞特">别怪我不给面子啊，各位。杀人偿命是自古以来全世界通用的准则。</content>	
+	</para_msg>
+	<para_msg paragraph="10006400" >
+			<content effect_num="0" sound="960022.mp3"/>
+	</para_msg>
+	<para_msg paragraph="10006500" >
+			<content effect_num="2" index="1" >敌人的数量和实力都比以往要高出一截，但还没到无法料理的程度。</content>
+			<content effect_num="0" index="2" >现在他们全倒在了地上，大部分都死了。</content>		
+	</para_msg>
+	<para_msg paragraph="10006600" >
+			<content effect_num="0">不过，还有个例外。</content>		
+	</para_msg>
+	<para_msg paragraph="10006700" >
+			<content effect_num="0">站在队伍最后的那个看上去像领导者一样的魔法使还活着。</content>		
+	</para_msg>
+	<para_msg paragraph="10006800" >
+			<content effect_num="0">从刚才开始，他一直将同伙当作挡箭牌，而自己不停地在地上勾画什么东西。</content>	
+	</para_msg>
+	<para_msg paragraph="10006900" >
+			<content effect_num="0">当其他人都阵亡后，我才注意到他脚下出现了一个魔法阵。恶徒的污血正好为这不祥之物染上了鲜艳的色彩。</content>	
+	</para_msg>
+	<para_msg paragraph="10007000" >
+			<content effect_num="0">他狰狞地笑着，把手按在魔法阵中央。</content>					
+	</para_msg>	
+	<para_msg paragraph="10007100" >
+			<content effect_num="0" talker="阿娜丝塔夏">小心，敌人好像准备召唤恶魔。</content>
+	</para_msg>	
+	<para_msg paragraph="10007200" >
+			<content effect_num="0" talker="巴塞特">唔…… ……</content>	
+	</para_msg>	
+	<para_msg paragraph="10007300" >
+			<content effect_num="0" talker="黑仆从">你们——全部都去死吧！</content>
+	</para_msg>	
+	<para_msg paragraph="10007400" >
+			<content effect_num="0" sound="960001.mp3" talker="黑仆从">…… ……</content>											
+	</para_msg>	
+	<para_msg paragraph="10007500" >
+			<content effect_num="0" >精准的一枪。</content>
+	</para_msg>
+	<para_msg paragraph="10007600" >
+			<content effect_num="0" index="1" >子弹从魔法使的脖子穿过。他身子歪斜着倒地，吟唱也停了下来。</content>
+			<content effect_num="0" index="2" >教会的最后一个铭刻者从树林后面走了出来，一脸不耐烦的样子。</content>		
+  </para_msg>	
+	<para_msg paragraph="10007700" >
+			<content effect_num="0" talker="卡尔">吵死了，总之先给他一枪再说。</content>	
+	</para_msg>	
+	<para_msg paragraph="10007800" >
+			<content effect_num="0" talker="卡尔">我好像来晚了一点。</content>	
+  </para_msg>	
+	<para_msg paragraph="10007900" >
+			<content effect_num="0" talker="阿娜丝塔夏">……你害我们没办法抓敌人逼问口供了。</content>
+	</para_msg>	
+	<para_msg paragraph="10008000" >
+			<content effect_num="0" talker="卡尔">对黄昏之铃的人，你觉得可能逼出什么口供来么？</content>
+	</para_msg>	
+	<para_msg paragraph="10008100" >
+			<content effect_num="0" talker="巴塞特">如果把他们绑个严实，用鹅毛挠三小时的脚，他们还是会说一点的。</content>
+	</para_msg>	
+	<para_msg paragraph="10008200" >
+			<content effect_num="0" talker="卡尔/娜薇">…… ……</content>
+	</para_msg>	
+	<para_msg paragraph="10008300" >
+			<content effect_num="0" talker="卡尔">好了，说回正事。</content>									
+  </para_msg>	
+	<para_msg paragraph="10008400" >
+			<content effect_num="0" talker="卡尔">我刚刚从大主教那边得到消息，教会系统内部出了叛徒。全部铭刻者的一举一动都在敌人掌握之中。</content>	
+  </para_msg>	
+	<para_msg paragraph="10008500" >
+			<content effect_num="0" talker="卡尔">最近两个月，我们被敌人玩得团团转。</content>	
+  </para_msg>	
+	<para_msg paragraph="10008600" >
+			<content effect_num="0" talker="卡尔">我们去东边，他们就攻击西边；我们去西边，他们就攻击南边。</content>	
+  </para_msg>	
+	<para_msg paragraph="10008700" >
+			<content effect_num="0" talker="卡尔">我们疲于奔命，其它教会也是。结果敌人集中起力量，将我们分割起来消灭。</content>	
+	</para_msg>	
+	<para_msg paragraph="10008800" >
+			<content effect_num="0" talker="卡尔">灰色教会和赤红教会已经瓦解了，隶属于这两个教会的铭刻者也全部战死。</content>			
+	</para_msg>	
+	<para_msg paragraph="10008900" >
+			<content effect_num="0" talker="卡尔">没想到，今天轮到了我们金色教会……</content>
+	</para_msg>	
+	<para_msg paragraph="10009000" >
+			<content effect_num="0" talker="阿娜丝塔夏">容我说一句，他们这一次的目的恐怕不止是和以往一样的小打小闹那么简单。</content>
+	</para_msg>	
+	<para_msg paragraph="10009100" >
+			<content effect_num="0" talker="巴塞特">…… ……</content>		
+	</para_msg>	
+	<para_msg paragraph="10009200" >
+			<content effect_num="0" talker="巴塞特">卡尔，北方的守备军最近有和这边通过信吗？</content>	
+	</para_msg>	
+	<para_msg paragraph="10009300" >
+			<content effect_num="0" talker="卡尔">没有。</content>					
+	</para_msg>	
+	<para_msg paragraph="10009400" >
+			<content effect_num="0" talker="巴塞特">那我们去北方，现在就动身。</content>
+	</para_msg>	
+	<para_msg paragraph="10009500" >
+			<content effect_num="0" talker="卡尔">呃……啊？！</content>
+	</para_msg>	
+	<para_msg paragraph="10009600" >
+			<content effect_num="0" talker="巴塞特">有件事我担心了很长一段时间，现在不去确认一下的话，着实不安。</content>
+	</para_msg>	
+	<para_msg paragraph="10009700" >
+			<content effect_num="0" talker="巴塞特">黄昏之铃在全世界制造混乱，但偏偏从那边没有任何消息传来。这也太安静了，安静得异常。</content>						
+  </para_msg>	
+	<para_msg paragraph="10009800" >
+			<content effect_num="0" talker="巴塞特">不管那么多了。安德鲁主教已死，现在暂时由我来安排金色教会的事务。</content>	
+	</para_msg>	
+	<para_msg paragraph="10009900" >
+			<content effect_num="0" talker="巴塞特">我带着剩余的人去那边，你赶快去向议会求援。</content>	
+	</para_msg>	
+	<para_msg paragraph="10010000" >
+			<content effect_num="0" talker="卡尔">巴塞特，这么草率地做决定，是不是有点……</content>	
+	</para_msg>	
+	<para_msg paragraph="10010100" >
+			<content effect_num="0" talker="巴塞特">卡尔，相信我并且按我说的去做就好。</content>					
+  </para_msg>	
+	<para_msg paragraph="10010200" >
+			<content effect_num="0" talker="巴塞特">娜薇，我们走。</content>
+	</para_msg>	
+	<para_msg paragraph="10010300" >
+			<content effect_num="0" talker="阿娜丝塔夏">好的。</content>					
+  </para_msg>	
+	<para_msg paragraph="10010400" >
+			<content effect_num="0" talker="卡尔">等……</content>	
+	</para_msg>	
+	<para_msg paragraph="10010500" >
+			<content effect_num="0" talker="卡尔">……唉，干嘛那么急？</content>		
+	</para_msg>	
+	<para_msg paragraph="10010600" >
+			<content effect_num="0" talker="黑仆从">呜……他们走了吗？</content>					
+	</para_msg>	
+	<para_msg paragraph="10010700" >
+			<content effect_num="0" talker="黑仆从">大人，您……为什么……</content>
+	</para_msg>	
+	<para_msg paragraph="10010800" >
+			<content effect_num="0" talker="卡尔">嗯？我怎么了？</content>
+	</para_msg>	
+	<para_msg paragraph="10010900" >
+			<content effect_num="0" talker="黑仆从">为什么要对我们开枪？在下明明可以……</content>	
+	</para_msg>
+	<para_msg paragraph="10011000" >
+			<content effect_num="0" index="1" talker="卡尔">我说啊——！</content>
+			<content effect_num="0" index="2" talker="卡尔">好好睡你的觉就是，别以为你们那种三脚猫的法术对刻了圣痕的人有用。</content>								
+	</para_msg>	
+	<para_msg paragraph="10011100" >
+			<content effect_num="0" talker="卡尔">快睡吧，最好永远都不要醒来。</content>	
+	</para_msg>	
+	<para_msg paragraph="10011200" >
+			<content effect_num="0" talker="黑仆从">你——！</content>	
+	</para_msg>	
+	<para_msg paragraph="10011300" next_p="10011302">
+			<content effect_num="0" talker="卡尔">吵死了……</content>							
+	</para_msg>	
+	<para_msg paragraph="10011302" next_p="10011304">
+			<content effect_num="2" sound="960001.mp3"/>
+	</para_msg>	
+	<para_msg paragraph="10011304" next_p="10011400">
+			<content effect_num="0" />				
+	</para_msg>	
+	<para_msg paragraph="10011400"  date_end="true" >
+			<content effect_num="0"  />			
+	</para_msg>
+	</para_date>
+	</config>
+			
+	
+
+	
+
+

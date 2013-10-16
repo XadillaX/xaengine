@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!--
+paragraph:段落编号 scence_num:场景编号 lefter:左边的人 center:中间的人 righter:右边的人
+-->
+<config>
+	<para_date date="终" >
+		<para_jpg paragraph="10454500" scence_num="970049" />
+		<para_jpg paragraph="10454600" scence_num="970035" />
+		<para_jpg paragraph="10454700" scence_num="970035" />
+	  <para_jpg paragraph="10454800" scence_num="970035" />
+		<para_jpg paragraph="10454900" scence_num="970035" />
+		<para_jpg paragraph="10455000" scence_num="970035" />
+		<para_jpg paragraph="10455100" scence_num="970035" />
+		<para_jpg paragraph="10455200" scence_num="970035" />
+		<para_jpg paragraph="10455300" scence_num="970035" />
+		<para_jpg paragraph="10455400" scence_num="970035" />
+		<para_jpg paragraph="10455500" scence_num="970082" />
+		<para_jpg paragraph="10455600" scence_num="970002" />
+		<para_jpg paragraph="10455700" scence_num="970002" />
+		<para_jpg paragraph="10455800" scence_num="970002" />
+		<para_jpg paragraph="10455900" scence_num="970002" />
+		<para_jpg paragraph="10456000" scence_num="970002" />
+		<para_jpg paragraph="10456100" scence_num="970002" center="D800008" />
+		<para_jpg paragraph="10456200" scence_num="970002" center="D800008" />
+		<para_jpg paragraph="10456300" scence_num="970002" center="D800008" />
+		<para_jpg paragraph="10456400" scence_num="970002" />
+		<para_jpg paragraph="10456500" scence_num="970002" />
+		<para_jpg paragraph="10456600" scence_num="970002" />
+		<para_jpg paragraph="10456700" scence_num="970002" />
+		<para_jpg paragraph="10456800" scence_num="970002" />
+		<para_jpg paragraph="10456900" scence_num="970002" />
+		<para_jpg paragraph="10457000" scence_num="970002" />
+		<para_jpg paragraph="10457100" scence_num="970001" />
+		<para_jpg paragraph="10457200" scence_num="970001" />
+		<para_jpg paragraph="10457300" scence_num="970001" />
+		<para_jpg paragraph="10457400" scence_num="970002" center="D800029" />
+		<para_jpg paragraph="10457500" scence_num="970002" center="D800029" />
+		<para_jpg paragraph="10457600" scence_num="970002" />
+		<para_jpg paragraph="10457700" scence_num="970002" />
+		<para_jpg paragraph="10457800" scence_num="970002" center="D800029" />
+		<para_jpg paragraph="10457900" scence_num="970002" />
+	  <para_jpg paragraph="10458000" scence_num="970002" />
+		<para_jpg paragraph="10458100" scence_num="970002" center="D800026" />
+		<para_jpg paragraph="10458200" scence_num="970002" center="D800026" />
+		<para_jpg paragraph="10458300" scence_num="970002" center="D800026" />
+		<para_jpg paragraph="10458400" scence_num="970002" center="D800028" />
+		<para_jpg paragraph="10458500" scence_num="970002" center="D800008" />
+		<para_jpg paragraph="10458600" scence_num="970002" />
+		<para_jpg paragraph="10458700" scence_num="970002" />
+		<para_jpg paragraph="10458800" scence_num="970002" />
+		<para_jpg paragraph="10458900" scence_num="970054" />
+		<para_jpg paragraph="10459000" scence_num="970002" lefter="D700008" righter="D600021" />
+		<para_jpg paragraph="10459100" scence_num="970002" lefter="D700008" righter="D600021" />
+		<para_jpg paragraph="10459200" scence_num="970002" center="D800008" />
+		<para_jpg paragraph="10459300" scence_num="970002" center="D800021" />
+		<para_jpg paragraph="10459400" scence_num="970002" center="D800021" />
+		<para_jpg paragraph="10459500" scence_num="970002" center="D800021" />
+		<para_jpg paragraph="10459600" scence_num="970002" center="D800021" />
+		<para_jpg paragraph="10459700" scence_num="970002" center="D800012" />
+		<para_jpg paragraph="10459800" scence_num="970002" center="D800012" />
+		<para_jpg paragraph="10459900" scence_num="970002" center="D800012" />
+	  <para_jpg paragraph="10460000" scence_num="970002" center="D800008" />
+		<para_jpg paragraph="10460100" scence_num="970002" center="D800008" />
+		<para_jpg paragraph="10460200" scence_num="970002" center="D800008" />
+		<para_jpg paragraph="10460300" scence_num="970002" center="D800008" />
+		<para_jpg paragraph="10460400" scence_num="970002" center="D800025" />
+		<para_jpg paragraph="10460500" scence_num="970002" center="D800024" />
+		<para_jpg paragraph="10460600" scence_num="970002" lefter="D800024" righter="D600006" />
+		<para_jpg paragraph="10460700" scence_num="970002" lefter="D800024" righter="D600006" />
+		<para_jpg paragraph="10460800" scence_num="970002" center="D800024" />
+		<para_jpg paragraph="10460900" scence_num="970002" center="D800008" />
+		<para_jpg paragraph="10461000" scence_num="970002" center="D800008" />
+		<para_jpg paragraph="10461100" scence_num="970002" center="D800008" />
+		<para_jpg paragraph="10461200" scence_num="970002" center="D800008" />
+		<para_jpg paragraph="10461300" scence_num="970002" center="D800008" />
+		<para_jpg paragraph="10461400" scence_num="970002" center="D800008" />
+		<para_jpg paragraph="10461500" scence_num="970002" center="D800008" />
+		<para_jpg paragraph="10461600" scence_num="970002" center="D800008" />
+	  <para_jpg paragraph="10461700" scence_num="970002" center="D800008" />
+		<para_jpg paragraph="10461800" scence_num="970002" center="D800008" />
+		<para_jpg paragraph="10461900" scence_num="970002" center="D800008" />
+		<para_jpg paragraph="10462000" scence_num="970002" center="D800008" />
+		<para_jpg paragraph="10462100" scence_num="970002" center="D800008" />
+		<para_jpg paragraph="10462200" scence_num="970002" center="D800012" />
+		<para_jpg paragraph="10462300" scence_num="970040" />
+		<para_jpg paragraph="10462400" scence_num="970040" />
+		<para_jpg paragraph="10462500" scence_num="970040" />
+		<para_jpg paragraph="10462600" scence_num="970002" center="D600003" />
+		<para_jpg paragraph="10462700" scence_num="970002" center="D600006" />
+		<para_jpg paragraph="10462800" scence_num="970002" center="D600006" />
+		<para_jpg paragraph="10462900" scence_num="970002" center="D600006" />
+		<para_jpg paragraph="10463000" scence_num="970088"  />
+		<para_jpg paragraph="10463100" scence_num="970088"  />
+		<para_jpg paragraph="10463200" scence_num="970088" />
+		<para_jpg paragraph="10463300" scence_num="970088" />
+		<para_jpg paragraph="10463400" scence_num="970088" />
+		<para_jpg paragraph="10463500" scence_num="970088" />
+		<para_jpg paragraph="10463600" scence_num="970002" />
+		<para_jpg paragraph="10463700" scence_num="970002" />
+		<para_jpg paragraph="10463800" scence_num="970002" />
+		<para_jpg paragraph="10463900" scence_num="970088" />
+		<para_jpg paragraph="10464000" scence_num="970088" />
+		<para_jpg paragraph="10464100" scence_num="970088" />
+		<para_jpg paragraph="10464200" scence_num="970088" />
+		<para_jpg paragraph="10464300" scence_num="970088" />
+		<para_jpg paragraph="10464400" scence_num="970088" />
+		<para_jpg paragraph="10464600" scence_num="970002" center="D800009" />
+		<para_jpg paragraph="10464700" scence_num="970002" center="D800009" />
+	  <para_jpg paragraph="10464800" scence_num="970002" center="D600012" />
+		<para_jpg paragraph="10464900" scence_num="970041" />
+		<para_jpg paragraph="10465000" scence_num="970002" center="D800009" />
+		<para_jpg paragraph="10465100" scence_num="970002" center="D800009" />
+		<para_jpg paragraph="10465200" scence_num="970002" center="D800009" />
+		<para_jpg paragraph="10465300" scence_num="970002" center="D600012" />
+		<para_jpg paragraph="10465400" scence_num="970002" center="D700001" />
+		<para_jpg paragraph="10465500" scence_num="970002" center="D600012" />
+		<para_jpg paragraph="10465600" scence_num="970087" />
+		<para_jpg paragraph="10465700" scence_num="970087" />
+		<para_jpg paragraph="10465800" scence_num="970087" />
+		<para_jpg paragraph="10465900" scence_num="970002" center="D600012" />
+		<para_jpg paragraph="10466000" scence_num="970002" center="D600012" />
+		<para_jpg paragraph="10466100" scence_num="980002.swf" />
+		<para_jpg paragraph="10466200" scence_num="970002" center="D700020" />
+		<para_jpg paragraph="10466300" scence_num="970002" center="D700019" />
+		<para_jpg paragraph="10466400" scence_num="970002" center="D800012" />
+		<para_jpg paragraph="10466500" scence_num="970002" center="D800012" />
+		<para_jpg paragraph="10466600" scence_num="970002" center="D800007" />
+		<para_jpg paragraph="10466700" scence_num="970002" lefter="D800010" righter="D600023" />
+		<para_jpg paragraph="10466800" scence_num="970002" lefter="D800010" righter="D600023" />
+		<para_jpg paragraph="10466900" scence_num="970002" lefter="D800010" righter="D600023" />
+		<para_jpg paragraph="10467000" scence_num="970002" lefter="D800010" righter="D600023" />
+		<para_jpg paragraph="10467100" scence_num="970002" lefter="D800010" righter="D600023" />
+		<para_jpg paragraph="10467200" scence_num="970002" />
+		<para_jpg paragraph="10467300" scence_num="970039" />
+		<para_jpg paragraph="10467400" scence_num="970039" />
+		<para_jpg paragraph="10467500" scence_num="970039" center="D800011"  />
+		<para_jpg paragraph="10467600" scence_num="970002" lefter="D800011" righter="D600012" />
+		<para_jpg paragraph="10467700" scence_num="970002" lefter="D800011" righter="D600012" />
+		<para_jpg paragraph="10467800" scence_num="970002" lefter="D800008" righter="D600012" />
+		<para_jpg paragraph="10467900" scence_num="970002" lefter="D800008" righter="D600012" />
+	  <para_jpg paragraph="10468000" scence_num="970002" lefter="D800008" righter="D600012" />
+		<para_jpg paragraph="10468100" scence_num="970002" lefter="D800008" righter="D600012" />
+		<para_jpg paragraph="10468200" scence_num="970002" lefter="D800008" righter="D600012" />
+		<para_jpg paragraph="10468300" scence_num="970002" lefter="D800025" righter="D600012" />
+		<para_jpg paragraph="10468400" scence_num="970002" lefter="D800025" righter="D600012" />
+		<para_jpg paragraph="10468600" scence_num="970007" />
+		<para_jpg paragraph="10468700" scence_num="970007" />
+		<para_jpg paragraph="10468800" scence_num="970007" />
+		<para_jpg paragraph="10468900" scence_num="970007" />
+		<para_jpg paragraph="10469000" scence_num="970007" />
+		<para_jpg paragraph="10469100" scence_num="970007" />
+		<para_jpg paragraph="10469200" scence_num="970007" />
+		<para_jpg paragraph="10469300" scence_num="970007" />
+		<para_jpg paragraph="10469400" scence_num="970007" />
+		<para_jpg paragraph="10469500" scence_num="970007" />
+		<para_jpg paragraph="10469600" scence_num="970007" />
+		<para_jpg paragraph="10469700" scence_num="970007" />
+		<para_jpg paragraph="10469800" scence_num="970083" />
+		<para_jpg paragraph="10469900" scence_num="970002" />
+	  <para_jpg paragraph="10470000" scence_num="970001" />
+		<para_jpg paragraph="10470100" scence_num="970002" />
+		<para_jpg paragraph="10470200" scence_num="970006" />
+		<para_jpg paragraph="10470300" scence_num="970006" />
+		<para_jpg paragraph="10470500" scence_num="970031" center="D700019" />
+		<para_jpg paragraph="10470600" scence_num="970031" center="D700019" />
+		<para_jpg paragraph="10470700" scence_num="970031" center="D700019" />
+		<para_jpg paragraph="10470800" scence_num="970031" center="D600012" />
+		<para_jpg paragraph="10470900" scence_num="970031" center="D700019" />
+		<para_jpg paragraph="10471000" scence_num="970031" center="D700019" />
+		<para_jpg paragraph="10471100" scence_num="970031" center="D700019" />
+		<para_jpg paragraph="10471200" scence_num="970031" lefter="D700020" righter="D600012" />
+		<para_jpg paragraph="10471300" scence_num="970031" lefter="D700020" righter="D600012" />
+		<para_jpg paragraph="10471400" scence_num="970031" center="D700019" />
+		<para_jpg paragraph="10471500" scence_num="970031" />
+		<para_jpg paragraph="10471600" scence_num="970031" />
+	  <para_jpg paragraph="10471700" scence_num="970031" />
+		<para_jpg paragraph="10471800" scence_num="970031" />
+		<para_jpg paragraph="10471900" scence_num="970031" />
+		<para_jpg paragraph="10472000" scence_num="970088" />
+		<para_jpg paragraph="10472100" scence_num="970088" />
+		<para_jpg paragraph="10472200" scence_num="970088" />
+		<para_jpg paragraph="10472300" scence_num="970088" />
+		<para_jpg paragraph="10472400" scence_num="970031" center="D600012" />
+		<para_jpg paragraph="10472500" scence_num="970006" center="D600012" />
+		<para_jpg paragraph="10472600" scence_num="970006" center="D600012" />
+		<para_jpg paragraph="10472700" scence_num="970006" center="D600003" />
+		<para_jpg paragraph="10472800" scence_num="970006" center="D600024" />
+		<para_jpg paragraph="10472900" scence_num="970006" />
+		<para_jpg paragraph="10473000" scence_num="970035" />
+		<para_jpg paragraph="10473100" scence_num="970035" />
+		<para_jpg paragraph="10473200" scence_num="970035" />
+		<para_jpg paragraph="10473300" scence_num="970035" />
+		<para_jpg paragraph="10473400" scence_num="970035" />
+		<para_jpg paragraph="10473500" scence_num="970035" />
+		<para_jpg paragraph="10473600" scence_num="970035" />
+		<para_jpg paragraph="10473700" scence_num="970035" />
+		<para_jpg paragraph="10473800" scence_num="970035" />
+		<para_jpg paragraph="10473900" scence_num="970035" />
+		<para_jpg paragraph="10474000" scence_num="970035" />
+		<para_jpg paragraph="10474100" scence_num="970035" />
+		<para_jpg paragraph="10474200" scence_num="970035" />
+		<para_jpg paragraph="10474300" scence_num="970035" />
+		<para_jpg paragraph="10474400" scence_num="970035" />
+		<para_jpg paragraph="10474500" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10474600" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10474700" scence_num="970035" center="D300021" />
+	  <para_jpg paragraph="10474800" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10474900" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10475000" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10475100" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10475200" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10475300" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10475400" scence_num="970035" />
+		<para_jpg paragraph="10475500" scence_num="970035" />
+		<para_jpg paragraph="10475600" scence_num="970035" />
+		<para_jpg paragraph="10475700" scence_num="970035" />
+		<para_jpg paragraph="10475800" scence_num="970035" />
+		<para_jpg paragraph="10475900" scence_num="970035" />
+		<para_jpg paragraph="10476000" scence_num="970035" />
+		<para_jpg paragraph="10476100" scence_num="970035" />
+		<para_jpg paragraph="10476200" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10476300" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10476400" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10476500" scence_num="990012" />
+		<para_jpg paragraph="10476600" scence_num="990012" />
+		<para_jpg paragraph="10476700" scence_num="990012" />
+		<para_jpg paragraph="10476800" scence_num="990012" />
+		<para_jpg paragraph="10476900" scence_num="970007" />
+		<para_jpg paragraph="10477000" scence_num="970007" />
+		<para_jpg paragraph="10477100" scence_num="970007" />
+		<para_jpg paragraph="10477200" scence_num="970007" />
+		<para_jpg paragraph="10477300" scence_num="970007" />
+		<para_jpg paragraph="10477400" scence_num="970007" />
+		<para_jpg paragraph="10477500" scence_num="970007" />
+		<para_jpg paragraph="10477600" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10477700" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10477800" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10477900" scence_num="970035" center="D300021" />
+	  <para_jpg paragraph="10478000" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10478100" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10478200" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10478300" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10478400" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10478500" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10478600" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10478700" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10478800" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10478900" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10479000" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10479100" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10479200" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10479300" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10479400" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10479500" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10479600" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10479700" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10479800" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10479900" scence_num="970035" center="D300021" />
+	  <para_jpg paragraph="10480000" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10480100" scence_num="970035" />
+		<para_jpg paragraph="10480200" scence_num="970035" />
+		<para_jpg paragraph="10480300" scence_num="970035" />
+		<para_jpg paragraph="10480400" scence_num="970035" />
+		<para_jpg paragraph="10480500" scence_num="970035" />
+		<para_jpg paragraph="10480600" scence_num="970035" />
+		<para_jpg paragraph="10480700" scence_num="970035" />
+		<para_jpg paragraph="10480800" scence_num="970035" />
+		<para_jpg paragraph="10480900" scence_num="970035" center="D400002" />
+		<para_jpg paragraph="10481000" scence_num="970035" lefter="D300005" righter="D400002" />
+		<para_jpg paragraph="10481100" scence_num="970035" lefter="D300005" righter="D400001" />
+		<para_jpg paragraph="10481200" scence_num="970035" lefter="D300005" righter="D400001" />
+		<para_jpg paragraph="10481300" scence_num="970035" lefter="D300005" righter="D400001" />
+		<para_jpg paragraph="10481400" scence_num="970035" lefter="D300005" righter="D400001" />
+		<para_jpg paragraph="10481500" scence_num="970035" lefter="D300005" righter="D400004" />
+		<para_jpg paragraph="10481600" scence_num="970035" lefter="D300005" righter="D400004" />
+	  <para_jpg paragraph="10481700" scence_num="970035" lefter="D300005" righter="D400011" />
+		<para_jpg paragraph="10481800" scence_num="970035" lefter="D300005" righter="D400004" />
+		<para_jpg paragraph="10481900" scence_num="970035" lefter="D300005" righter="D400004" />
+		<para_jpg paragraph="10482000" scence_num="970035" lefter="D300005" righter="D400004" />
+		<para_jpg paragraph="10482100" scence_num="970035" lefter="D300005" righter="D400011" />
+		<para_jpg paragraph="10482200" scence_num="970035" lefter="D300005" righter="D400004" />
+		<para_jpg paragraph="10482300" scence_num="970035" lefter="D300005" righter="D400011" />
+		<para_jpg paragraph="10482400" scence_num="970035" lefter="D300021" righter="D400011" />
+		<para_jpg paragraph="10482500" scence_num="970035" lefter="D300021" righter="D400011" />
+		<para_jpg paragraph="10482600" scence_num="970035" lefter="D300021" righter="D400011" />
+		<para_jpg paragraph="10482700" scence_num="970035" lefter="D300021" righter="D400011" />
+		<para_jpg paragraph="10482800" scence_num="970035" lefter="D300021" righter="D400011" />
+		<para_jpg paragraph="10482900" scence_num="970035" lefter="D300005" righter="D400011" />
+		<para_jpg paragraph="10483000" scence_num="970035" lefter="D300005" righter="D400011" />
+		<para_jpg paragraph="10483100" scence_num="970035" lefter="D300021" righter="D400011" />
+		<para_jpg paragraph="10483200" scence_num="970035" lefter="D300021" righter="D400011" />
+		<para_jpg paragraph="10483300" scence_num="970035" lefter="D300021" righter="D400011" />
+		<para_jpg paragraph="10483400" scence_num="970035" lefter="D300005" righter="D400011" />
+		<para_jpg paragraph="10483500" scence_num="970035" lefter="D300021" righter="D400011" />
+		<para_jpg paragraph="10483600" scence_num="970035" lefter="D300021" righter="D400011" />
+		<para_jpg paragraph="10483700" scence_num="970035" lefter="D300021" righter="D400011" />
+		<para_jpg paragraph="10483800" scence_num="970035" />
+		<para_jpg paragraph="10483900" scence_num="970035" />
+		<para_jpg paragraph="10484000" scence_num="970035" />
+		<para_jpg paragraph="10484100" scence_num="970035" />
+		<para_jpg paragraph="10484200" scence_num="970035" />
+		<para_jpg paragraph="10484300" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10484400" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10484500" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10484600" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10484700" scence_num="970035" center="D300005" />
+	  <para_jpg paragraph="10484800" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10484900" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10485000" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10485100" scence_num="970035" />
+		<para_jpg paragraph="10485200" scence_num="970035" />
+		<para_jpg paragraph="10485300" scence_num="970035" />
+		<para_jpg paragraph="10485400" scence_num="970035" />
+		<para_jpg paragraph="10485500" scence_num="970035" />
+		<para_jpg paragraph="10485600" scence_num="970035" />
+		<para_jpg paragraph="10485700" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10485800" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10485900" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10486000" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10486100" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10486200" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10486300" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10486400" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10486500" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10486600" scence_num="970035" />
+		<para_jpg paragraph="10486700" scence_num="970035" />
+		<para_jpg paragraph="10486800" scence_num="970035" />
+		<para_jpg paragraph="10486900" scence_num="970035" />
+		<para_jpg paragraph="10487000" scence_num="970035" />
+		<para_jpg paragraph="10487100" scence_num="970035" />
+		<para_jpg paragraph="10487200" scence_num="970035" />
+		<para_jpg paragraph="10487300" scence_num="970035" />
+		<para_jpg paragraph="10487400" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10487500" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10487600" scence_num="970035" />
+		<para_jpg paragraph="10487700" scence_num="970035" />
+		<para_jpg paragraph="10487800" scence_num="970035" />
+		<para_jpg paragraph="10487900" scence_num="970035" center="D300005" />
+	  <para_jpg paragraph="10488000" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10488100" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10488200" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10488300" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10488400" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10488500" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10488600" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10488700" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10488800" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10488900" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10489000" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10489100" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10489200" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10489300" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10489400" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10489500" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10489600" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10489700" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10489800" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10489900" scence_num="970035" center="D300005" />
+	  <para_jpg paragraph="10490000" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10490100" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10490200" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10490300" scence_num="970035" center="D300021" />
+		<para_jpg paragraph="10490400" scence_num="970035" center="D300005" />
+		<para_jpg paragraph="10490500" scence_num="970035" />
+		<para_jpg paragraph="10490600" scence_num="970006" />
+		<para_jpg paragraph="10490700" scence_num="970006" />
+		<para_jpg paragraph="10490800" scence_num="970006" />
+		<para_jpg paragraph="10490900" scence_num="970035" lefter="D300008" righter="D400007" />
+		<para_jpg paragraph="10491000" scence_num="970035" lefter="D300010" righter="D400007" />
+		<para_jpg paragraph="10491100" scence_num="970035" lefter="D300010" righter="D400007" />
+		<para_jpg paragraph="10491200" scence_num="970035" lefter="D300010" righter="D400007" />
+		<para_jpg paragraph="10491300" scence_num="970035" lefter="D300008" righter="D400001" />
+		<para_jpg paragraph="10491400" scence_num="970035" lefter="D300010" righter="D400002" />
+		<para_jpg paragraph="10491500" scence_num="970035" lefter="D300010" righter="D400002" />
+		<para_jpg paragraph="10491600" scence_num="970035" lefter="D300010" righter="D400002" />
+	  <para_jpg paragraph="10491700" scence_num="970035" lefter="D300010" righter="D400002" />
+		<para_jpg paragraph="10491800" scence_num="970035" lefter="D300010" righter="D400002" />
+		<para_jpg paragraph="10491900" scence_num="970035" lefter="D300010" righter="D400002" />
+		<para_jpg paragraph="10492000" scence_num="970035" lefter="D300010" righter="D400002" />
+		<para_jpg paragraph="10492100" scence_num="970035" lefter="D300010" righter="D400002" />
+		<para_jpg paragraph="10492200" scence_num="970035" lefter="D300008" righter="D400001" />
+		<para_jpg paragraph="10492300" scence_num="970035" lefter="D300008" righter="D400001" />
+		<para_jpg paragraph="10492400" scence_num="970035" lefter="D300008" righter="D400001" />
+		<para_jpg paragraph="10492500" scence_num="970035" lefter="D300008" righter="D400002" />
+		<para_jpg paragraph="10492600" scence_num="970035" lefter="D300004" righter="D400002" />
+		<para_jpg paragraph="10492700" scence_num="970090" />
+		<para_jpg paragraph="10492800" scence_num="970090" />
+		<para_jpg paragraph="10492900" scence_num="970090" />
+		<para_jpg paragraph="10493000" scence_num="970090" />
+		<para_jpg paragraph="10493100" scence_num="970090" />
+		<para_jpg paragraph="10493200" scence_num="970006" />
+		<para_jpg paragraph="10493300" scence_num="970001" />
+		<para_jpg paragraph="10493400" scence_num="970001" />
+		<para_jpg paragraph="10493500" scence_num="970031" />
+		<para_jpg paragraph="10493600" scence_num="970031" />
+		<para_jpg paragraph="10493700" scence_num="970031" />
+		<para_jpg paragraph="10493800" scence_num="970031" />
+		<para_jpg paragraph="10493900" scence_num="970031" />
+		<para_jpg paragraph="10494000" scence_num="970031" />
+		<para_jpg paragraph="10494100" scence_num="970031" />
+		<para_jpg paragraph="10494300" scence_num="970007" />
+		<para_jpg paragraph="10494400" scence_num="970031" />
+		<para_jpg paragraph="10494500" scence_num="970031" />
+		<para_jpg paragraph="10494600" scence_num="970031" />
+		<para_jpg paragraph="10494700" scence_num="970031" />
+	  <para_jpg paragraph="10494800" scence_num="970031" />
+		<para_jpg paragraph="10494900" scence_num="970031" />
+		<para_jpg paragraph="10495000" scence_num="980019.swf" />
+		<para_jpg paragraph="10495600" scence_num="970031" />
+		<para_jpg paragraph="10495700" scence_num="970031" />
+		<para_jpg paragraph="10495800" scence_num="970031" />
+		<para_jpg paragraph="10495900" scence_num="970031" />
+		<para_jpg paragraph="10496100" scence_num="970029" />
+		<para_jpg paragraph="10496200" scence_num="970029" />
+		<para_jpg paragraph="10496300" scence_num="970029" />
+		<para_jpg paragraph="10496400" scence_num="970029" />
+		<para_jpg paragraph="10496500" scence_num="970029" />
+		<para_jpg paragraph="10496600" scence_num="970029" />
+		<para_jpg paragraph="10496700" scence_num="970029" />
+		<para_jpg paragraph="10496800" scence_num="970029" />
+		<para_jpg paragraph="10496900" scence_num="970029" />
+		<para_jpg paragraph="10497000" scence_num="970029" />
+		<para_jpg paragraph="10497100" scence_num="970029" />
+		<para_jpg paragraph="10497200" scence_num="970007" />
+		<para_jpg paragraph="10497300" scence_num="970084" />
+		<para_jpg paragraph="10497400" scence_num="970007" />
+		<para_jpg paragraph="10497500" scence_num="970007" />
+		<para_jpg paragraph="10497600" scence_num="970007" />
+		<para_jpg paragraph="10497700" scence_num="970007" />
+		<para_jpg paragraph="10497800" scence_num="970007" />
+		<para_jpg paragraph="10497900" scence_num="970007" />
+	  <para_jpg paragraph="10498000" scence_num="970007" />
+		<para_jpg paragraph="10498100" scence_num="970007" />
+		<para_jpg paragraph="10498200" scence_num="970007" />
+		<para_jpg paragraph="10498300" scence_num="990015" />
+		<para_jpg paragraph="10498400" scence_num="990015" />
+		<para_jpg paragraph="10498500" scence_num="990015" />
+		<para_jpg paragraph="10498600" scence_num="990015" />
+		<para_jpg paragraph="10498700" scence_num="990015" />
+		<para_jpg paragraph="10498800" scence_num="990015" />
+		<para_jpg paragraph="10498900" scence_num="990015" />
+		<para_jpg paragraph="10499000" scence_num="990015" />
+		<para_jpg paragraph="10499100" scence_num="990015" />
+		<para_jpg paragraph="10499200" scence_num="990015" />
+		<para_jpg paragraph="10499300" scence_num="990015" />
+		<para_jpg paragraph="10499400" scence_num="990015" />
+		<para_jpg paragraph="10499500" scence_num="990020" />
+		<para_jpg paragraph="10499600" scence_num="990020" />
+		<para_jpg paragraph="10499700" scence_num="990020" />
+		<para_jpg paragraph="10499800" scence_num="990020" />
+		<para_jpg paragraph="10499900" scence_num="990020" />
+	  <para_jpg paragraph="10500000" scence_num="990020" />
+		<para_jpg paragraph="10500100" scence_num="990020" />
+		<para_jpg paragraph="10500200" scence_num="970007" />
+		<para_jpg paragraph="10500400" scence_num="970029" />
+		<para_jpg paragraph="10500500" scence_num="970029" />
+		<para_jpg paragraph="10500600" scence_num="970029" />
+		<para_jpg paragraph="10500700" scence_num="970029" />
+		<para_jpg paragraph="10500800" scence_num="970029" />
+		<para_jpg paragraph="10500900" scence_num="970029" />
+		<para_jpg paragraph="10501000" scence_num="970029" />
+		<para_jpg paragraph="10501100" scence_num="970029" />
+		<para_jpg paragraph="10501200" scence_num="970029" />
+		<para_jpg paragraph="10501300" scence_num="970029" />
+		<para_jpg paragraph="10501400" scence_num="970029" />
+		<para_jpg paragraph="10501500" scence_num="970029" />
+	  <para_jpg paragraph="10501700" scence_num="970007" />
+		<para_jpg paragraph="10501800" scence_num="970007" />
+		<para_jpg paragraph="10501900" scence_num="970007" />
+		<para_jpg paragraph="10502000" scence_num="970007" />
+		<para_jpg paragraph="10502100" scence_num="970007" />
+		<para_jpg paragraph="10502200" scence_num="970007" />
+		<para_jpg paragraph="10502300" scence_num="990016" />
+		<para_jpg paragraph="10502400" scence_num="990016" />
+		<para_jpg paragraph="10502500" scence_num="990016" />
+		<para_jpg paragraph="10502600" scence_num="990016" />
+		<para_jpg paragraph="10502700" scence_num="990016" />
+		<para_jpg paragraph="10502800" scence_num="990016" />
+		<para_jpg paragraph="10502900" scence_num="990016" />
+		<para_jpg paragraph="10503000" scence_num="990016" />
+		<para_jpg paragraph="10503100" scence_num="990016" />
+		<para_jpg paragraph="10503300" scence_num="970029" />
+		<para_jpg paragraph="10503400" scence_num="970029" />
+		<para_jpg paragraph="10503500" scence_num="970089" />
+		<para_jpg paragraph="10503600" scence_num="970089" />
+		<para_jpg paragraph="10503700" scence_num="970089" />
+		<para_jpg paragraph="10503800" scence_num="970089" />
+		<para_jpg paragraph="10503900" scence_num="970089" />
+		<para_jpg paragraph="10504000" scence_num="970089" />
+		<para_jpg paragraph="10504100" scence_num="970089" />
+		<para_jpg paragraph="10504200" scence_num="970089" />
+		<para_jpg paragraph="10504300" scence_num="970089" />
+		<para_jpg paragraph="10504400" scence_num="970089" />
+		<para_jpg paragraph="10504500" scence_num="970089" />
+		<para_jpg paragraph="10504600" scence_num="970089" />
+		<para_jpg paragraph="10504700" scence_num="970007" />		
+	</para_date>
+
+</config>				 								

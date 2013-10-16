@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<config>
+ <para_date date="8月25日" week="星期一" weather="晴">
+    <para_msg paragraph="10000100">
+        <content effect_num="0"></content>
+    </para_msg>
+    <para_msg paragraph="10000200">
+        <content effect_num="2" talker="谜之音">猫玉米小屋茶餐厅……究竟在哪儿啊？</content>
+    </para_msg>
+    <para_msg paragraph="10000300">
+        <content effect_num="0"></content>
+    </para_msg>
+    <para_msg paragraph="10000400" start_scence_sound="950002.mp3">
+        <content effect_num="0" talker="卢兰">看来终于要出了呢，《啪啦莱斯布莱克》。</content>
+    </para_msg>
+    <para_msg paragraph="10000500">
+        <content effect_num="0" talker="谭佳">现在该叫《PARADISE啪啦黑》了。</content>
+    </para_msg>
+    <para_msg paragraph="10000600">
+        <content effect_num="0" talker="卢兰">事实是这样，但我还是比较怀念两年前那个名字……</content>
+    </para_msg>
+    <para_msg paragraph="10000700">
+        <content effect_num="0" talker="谭佳">怀念，是因为那时候你胸部比现在大么？</content>
+    </para_msg>
+    <para_msg paragraph="10000800">
+        <content effect_num="0">……</content>
+    </para_msg>
+    <para_msg paragraph="10000900">
+        <content effect_num="0" talker="谭佳">由于制作组后来招募人员里贫乳控较多，而强行将你的尺寸从D缩减到A，想必你一直对此事怀恨在心吧？</content>
+    </para_msg>
+    <para_msg paragraph="10001000">
+        <content effect_num="0" talker="卢兰">……</content>
+    </para_msg>
+    <para_msg paragraph="10001100">
+        <content effect_num="0" talker="谭佳">结果说什么贫乳控，可事实明明就是胸部越小宅男的关注度越低。因为没人气，所以只能在剧情里不断削减你的戏份，在这一作里卢兰你最终将会沦落为边缘角色....</content>
+    </para_msg>
+    <para_msg paragraph="10001200">
+        <content effect_num="0" talker="卢兰">……突然有种杀了这货能升好几级的感觉,沉寂两年的毒舌又再次苏醒了……</content>
+    </para_msg>
+    <para_msg paragraph="10001300">
+        <content effect_num="0" index="1" talker="卢兰">为什么一定要我和她搭配小剧场啊……</content>
+        <content effect_num="0" index="2" talker="卢兰">啊，好想回家……但是难得在预热小剧场里露面……</content>
+    </para_msg>
+    <para_msg paragraph="10001400">
+        <content effect_num="0" talker="谭佳">对了，卢兰。</content>
+    </para_msg>
+    <para_msg paragraph="10001500">
+        <content effect_num="0" talker="卢兰">什么？</content>
+    </para_msg>
+    <para_msg paragraph="10001600">
+        <content effect_num="0" talker="谭佳">在零章里出现的过的很多角色，包括你，名字都重新定义了吧？</content>
+    </para_msg>
+    <para_msg paragraph="10001700">
+        <content effect_num="0" talker="卢兰">是啊，与游戏名一样因为一些无法说出口的秘密，很多人物名字都进行了更换。</content>
+    </para_msg>
+    <para_msg paragraph="10001800">
+        <content effect_num="0" talker="谭佳">唔，无法说出口的秘密，这种好像情色小说标题一样的短语，卢兰你也成长不少嘛，红袖添香这种网站看来没少上呢，而名字更换的原因，实际上也是因为某些暧昧的事情被记者写了爆料新闻，才不得已为之的吧？</content>
+    </para_msg>
+    <para_msg paragraph="10001900">
+        <content effect_num="0" talker="卢兰">（……绝对，绝对不能被她把话题带歪过去……）</content>
+    </para_msg>
+    <para_msg paragraph="10002000">
+        <content effect_num="0" talker="卢兰">哈哈哈，比如说我现在的名字是杰西卡，而姐姐的名字则换成了塞列欧斯，就连卡尔那家伙也有了艾克萨罗斯这样帅气的姓氏。</content>
+    </para_msg>
+    <para_msg paragraph="10002100">
+        <content effect_num="0" talker="谭佳">一点都不帅哦……那种妄想NTR女主角，自身又没什么优势的男人，用这种名字制作人员不会觉得稍微可惜了点么？</content>
+    </para_msg>
+    <para_msg paragraph="10002200">
+        <content effect_num="0" index="1" talker="卢兰">…… ……</content>
+        <content effect_num="0" index="2" talker="卢兰">其实，在新的故事中，我相信卡尔一定会带给大家与前作些许不同的感受，比如，偶尔也会很帅气，这样的感觉。</content>
+    </para_msg>
+    <para_msg paragraph="10002300">
+        <content effect_num="0" index="1" talker="谭佳">娜薇死了，卡尔残了，萌妹子后半辈子全砸进去了……</content>
+        <content effect_num="0" index="2" talker="谭佳">这样吗？</content>
+    </para_msg>
+    <para_msg paragraph="10002400">
+        <content effect_num="0" talker="卢兰">……　……</content>
+    </para_msg>
+    <para_msg paragraph="10002500">
+        <content effect_num="0" talker="谭佳">啊？抱歉， 抱歉，打开方式错误，刚刚不小心翻到某钢弹剧本，最近在看机械类热血动画，天香2号五道杠实在是帅爆了，红色有角三倍速在它面前那就是战斗力只有5的渣渣啊！</content>
+    </para_msg>
+    <para_msg paragraph="10002600">
+        <content effect_num="0" index="1" talker="卢兰">…… ……</content>
+        <content effect_num="0" index="2" talker="卢兰">（给我闭嘴啊！）新故事里……增加了40多名全新定义的角色。</content>
+    </para_msg>
+    <para_msg paragraph="10002700">
+        <content effect_num="0" talker="谭佳">过去的高达实在是弱爆了！</content>
+    </para_msg>
+    <para_msg paragraph="10002800">
+        <content effect_num="0" index="1" talker="卢兰">…… ……</content>
+        <content effect_num="2" index="2" talker="卢兰">我想自己总算是明白一件事情了</content>
+    </para_msg>
+    <para_msg paragraph="10002900" >
+        <content effect_num="3" effect_type="timerStop" index="1" talker="卢兰">喂！别以为歇了两年老娘就不会打人了！！！！！</content>
+        <content effect_num="3" effect_type="timerStop" index="2" talker="卢兰">这是《PARADISE啪啦黑》的第一个小剧场，你也给我差不多一点啊！！！！！！！！</content>
+    </para_msg>
+    <para_msg paragraph="10003000" >
+        <content effect_num="3" effect_type="timerStop" index="1" talker="卢兰">一来就吐槽胸部有木有！！！！！！</content>
+        <content effect_num="3" effect_type="timerStop" index="2" talker="卢兰">上场2分钟就把话题到处乱带有木有！！！！！！！</content>
+    </para_msg>
+    <para_msg paragraph="10003100" >
+        <content effect_num="3" effect_type="timerStop" talker="卢兰">就算游戏里没有出场，但尼玛可以上小剧场，有什么不满啊！！！！！！！</content>
+    </para_msg>
+    <para_msg paragraph="10003200" >
+        <content effect_num="3" effect_type="timerStop" index="1" talker="卢兰">腹黑毒舌属性你伤不起！！！！！</content>
+        <content effect_num="3" effect_type="timerStop" index="2" talker="卢兰">从ＺＥＲＯ时期小剧场开始，你就是折翼的天使啊！！！！！</content>
+    </para_msg>
+    <para_msg paragraph="10003300" >
+        <content effect_num="3" effect_type="timerStop" index="1" talker="卢兰">装乖乖女哦，亲！！！！</content>
+        <content effect_num="3" effect_type="timerStop" index="2" talker="卢兰">要给李俊明下药哦，亲！！！</content>
+    </para_msg>
+    <para_msg paragraph="10003400" >
+        <content effect_num="3" effect_type="timerStop" index="1" talker="卢兰">偷看司马雪内裤各种叫嚣蓝白条纹，尼玛要崩坏到什么程度啊！！！</content>
+        <content effect_num="3" effect_type="timerStop" index="2" talker="卢兰">浑淡啊！！！！！这世界就只剩下我一个正常人了吗？！！！！！</content>
+    </para_msg>
+    <para_msg paragraph="10003500" >
+        <content effect_num="3" effect_type="timerStop" index="1" talker="卢兰">剧本尼玛让这样一个角色来主持小剧场真的没问题吗！！！！</content>
+        <content effect_num="3" effect_type="timerStop" index="2" talker="卢兰">陪这种重口味角色主持节目，就算有9条命都死不够啊，有木有！！！有木有！！！！！</content>
+    </para_msg>
+    <para_msg paragraph="10003600">
+        <content effect_num="2" talker="卢兰">哈……哈……哈……哈……</content>
+    </para_msg>
+    <para_msg paragraph="10003700">
+        <content effect_num="0" talker="谭佳">说完了么，卢兰？喘气很厉害呢……</content>
+    </para_msg>
+    <para_msg paragraph="10003800">
+        <content effect_num="0" talker="谭佳">对了，听到你刚才的发言，剧本同学很受伤，他托工作人员带了句话给你。</content>
+    </para_msg>
+    <para_msg paragraph="10003900">
+        <content effect_num="0" talker="卢兰">那个死宅男说什么！？</content>
+    </para_msg>
+    <para_msg paragraph="10004000">
+        <content effect_num="0" index="1" talker="谭佳">他说——</content>
+        <content effect_num="0" index="2" talker="谭佳">怎么能算重口呢？只是大家萌点不同罢了。</content>
+    </para_msg>
+    <para_msg paragraph="10004100">
+        <content effect_num="0">…… ……</content>
+    </para_msg>
+    <para_msg paragraph="10004200">
+        <content effect_num="0">…… ……</content>
+    </para_msg>
+    <para_msg paragraph="10004300">
+        <content effect_num="0" talker="卢兰">突然……觉得好悲伤……这种眼泪想要夺眶而出的感觉……</content>
+    </para_msg>
+    <para_msg paragraph="10004400">
+        <content effect_num="0" talker="谭佳">没事，我能理解这种感觉，大丈夫，萌大奶，作为超元气三姐妹之一，啊不，卢家三姐妹之一，卢兰你必须振作起来。</content>
+    </para_msg>
+    <para_msg paragraph="10004500">
+        <content effect_num="0" talker="卢兰">是啊，眼泪什么的……真是……好丢脸。</content>
+    </para_msg>
+    <para_msg paragraph="10004600">
+        <content effect_num="0" talker="谭佳">人们因羞愧而流出悔恨的泪水，才能原谅自己，而世界也因此才能前进。</content>
+    </para_msg>
+    <para_msg paragraph="10004700">
+        <content effect_num="0" talker="卢兰">这点程度的挫折，我也实在是太孩子气了。</content>
+    </para_msg>
+    <para_msg paragraph="10004800">
+        <content effect_num="0" talker="谭佳">所以，我会原谅你的哦，用我满满的治愈感，帮你再次拾回主持好这个节目的信心。</content>
+    </para_msg>
+    <para_msg paragraph="10004900">
+        <content effect_num="0" talker="卢兰">嗯……不过，你和治愈这两个字真的完全粘不上边呢……</content>
+    </para_msg>
+    <para_msg paragraph="10005000">
+        <content effect_num="0" talker="谭佳">呣……不管怎样，接下来我们还是继续探讨新作吧，卢兰你可不要再把话题带歪了。</content>
+    </para_msg>
+    <para_msg paragraph="10005100">
+        <content effect_num="0" talker="卢兰">…… ……</content>
+    </para_msg>
+    <para_msg paragraph="10005200">
+        <content effect_num="0" talker="谭佳">就先从蓝白涂装的司马雪说起好了。</content>
+    </para_msg>
+    <para_msg paragraph="10005300">
+        <content effect_num="0" talker="卢兰">我实在懒得纠正她了，不过好在人设已经放了出来，相信玩家也不会误解什么。</content>
+    </para_msg>
+    <para_msg paragraph="10005400">
+        <content effect_num="0" talker="谭佳">司马雪的魔眼，在前作中一定给大家留下了很深的印象吧，不过可以完美伪装成其它人，这只不过是魔眼其中的一个作用而已。</content>
+    </para_msg>
+    <para_msg paragraph="10005500">
+        <content effect_num="0" talker="卢兰">好像的确是照着剧本在读的样子，看来这家伙也认识到第一个小剧场的重要性了。</content>
+    </para_msg>
+    <para_msg paragraph="10005600">
+        <content effect_num="0" index="1" talker="谭佳">魔眼，还可以进行战斗力预测哦！</content>
+        <content effect_num="0" index="2" talker="谭佳">噼啪 ——孙悟空，战斗力不过5000，没什么好担心的，贝吉塔。</content>
+    </para_msg>
+    <para_msg paragraph="10005700">
+        <content effect_num="0" >…… ……</content>
+    </para_msg>
+    <para_msg paragraph="10005800">
+        <content effect_num="0" index="1" talker="谭佳">魔眼，还可以发射激光射线哦！</content>
+        <content effect_num="0" index="2" talker="谭佳">美冴，看——动感光波……</content>
+    </para_msg>
+    <para_msg paragraph="10005900">
+        <content effect_num="0" >…… ……</content>
+    </para_msg>
+    <para_msg paragraph="10006000">
+        <content effect_num="0" index="1" talker="谭佳">魔眼，最神秘的功能，咳咳。</content>
+        <content effect_num="0" index="2" talker="谭佳">广大宅男的福音——自动去码！</content>
+    </para_msg>
+    <para_msg paragraph="10006100">
+        <content effect_num="0" talker="谭佳">完全过滤任何厚码，薄码，人工水印，真实还原一个纯粹的世界！去图层什么的噱头真是弱爆了！</content>
+    </para_msg>
+    <para_msg paragraph="10006200">
+        <content effect_num="0" sound="960002.mp3">(射箭声)</content>
+    </para_msg>
+    <para_msg paragraph="10006300">
+        <content effect_num="0" talker="司马雪">（画外音）……我最讨厌别人在背后说我坏话。</content>
+    </para_msg>
+    <para_msg paragraph="10006400">
+        <content effect_num="0" talker="卢兰">……看来已经有人受不了而提前出手了。</content>
+    </para_msg>
+    <para_msg paragraph="10006500">
+        <content effect_num="0" talker="谭佳">但我完全没事啊。</content>
+    </para_msg>
+    <para_msg paragraph="10006600">
+        <content effect_num="0" talker="卢兰">…… ……</content>
+    </para_msg>
+    <para_msg paragraph="10006700">
+        <content effect_num="0" talker="谭佳">别忘记我也是人类啊，在原罪风暴后获得了难以想象的异能。</content>
+    </para_msg>
+    <para_msg paragraph="10006800" >
+        <content effect_num="3" effect_type="timerStop"  talker="卢兰">你什么时候穿越到Black Line去的啊！！？</content>
+    </para_msg>
+    <para_msg paragraph="10006900">
+        <content effect_num="0" talker="谭佳">任何矢量攻击都对我无效，我可以操纵任何矢量方向，简单来说，这种能力就是‘一方[哔~]行’这样子。</content>
+    </para_msg>
+    <para_msg paragraph="10007000" >
+        <content effect_num="3" effect_type="timerStop" talker="卢兰">随便抄袭别的动画里的能力真的没问题吗！！？</content>
+    </para_msg>
+    <para_msg paragraph="10007100">
+        <content effect_num="0" talker="谭佳">刚刚被爆头的是剧本君。</content>
+    </para_msg>
+    <para_msg paragraph="10007200" >
+        <content effect_num="3" effect_type="timerStop" talker="卢兰">那接下来的剧本要谁来写啊！！？</content>
+    </para_msg>
+    <para_msg paragraph="10007300">
+        <content effect_num="0" talker="谭佳">除非被像都市传说一样的3次元妹子杀死，否则剧本君是可以无限复活的。</content>
+    </para_msg>
+    <para_msg paragraph="10007400" >
+        <content effect_num="3"  effect_type="timerStop" talker="卢兰">…… ……剧本君的本体是蟑螂吗?蟑螂!?</content>
+    </para_msg>
+    <para_msg paragraph="10007500">
+        <content effect_num="0" talker="谭佳">其实，说到能力，有玩家曾提问，一名角色可以有多个能力吗？</content>
+    </para_msg>
+    <para_msg paragraph="10007600">
+        <content effect_num="0" talker="卢兰">（喘气）哈……哈……哈……哈……</content>
+        <content effect_num="0" talker="卢兰">这应该是不行的……</content>
+    </para_msg>
+    <para_msg paragraph="10007700">
+        <content effect_num="0" talker="谭佳">…… ……</content>
+        <content effect_num="0" talker="谭佳">卢兰你胸部变小了，人也聪明了呢。</content>
+    </para_msg>
+    <para_msg paragraph="10007800">
+        <content effect_num="0" talker="卢兰">不要反复强调这一点！</content>
+    </para_msg>
+    <para_msg paragraph="10007900">
+        <content effect_num="0" talker="谭佳">的确，在剧本君的定义里，一名人类只可能拥有一个能力，但我是例外……</content>
+    </para_msg>
+    <para_msg paragraph="10008000">
+        <content effect_num="0" talker="卢兰">…… ……?</content>
+    </para_msg>
+    <para_msg paragraph="10008100">
+        <content effect_num="0" talker="谭佳">除‘一方[哔~]行’以外，我还有——</content>
+    </para_msg>
+    <para_msg paragraph="10008200" >
+        <content effect_num="3"  effect_type="timerStop" talker="谭佳">凝视打折单图片就可具现化外卖的能力！!</content>
+    </para_msg>
+    <para_msg paragraph="10008300" >
+        <content effect_num="3"  effect_type="timerStop" talker="谭佳">不用出门交网费，电脑就可以继续上网的能力！!</content>
+    </para_msg>
+    <para_msg paragraph="10008400" >
+        <content effect_num="3"  effect_type="timerStop" talker="谭佳">在团长拾取金币和分配装备时，立刻复制到自己包包里的能力！!</content>
+    </para_msg>
+    <para_msg paragraph="10008500">
+        <content effect_num="0" talker="卢兰">这根本就是死宅技能吧！!</content>
+    </para_msg>
+    <para_msg paragraph="10008600" end_scence_sound="true">
+        <content effect_num="2" index="1" talker="谭佳">另外——</content>
+        <content effect_num="0" index="2" talker="谭佳">还有能够删掉学长手机上其它女人联系方式，以及抹除那个女人在这世界上痕迹的能力……</content>
+    </para_msg>
+    <para_msg paragraph="10008700">
+        <content effect_num="0" index="1" talker="卢兰">…… ……</content>
+        <content effect_num="0" index="2" talker="卢兰">诶，突,突然好冷的感觉……</content>
+    </para_msg>
+    <para_msg paragraph="10008800" next_p="10008810">
+        <content effect_num="0" talker="谭佳">王八蛋……负心汉……死ね死ね死ね死ね死んじまえ.</content>
+    </para_msg>
+    <para_msg paragraph="10008810" next_p="10008900">
+        <content effect_num="0" talker="谭佳">西奈西奈西奈西奈西奈西奈西奈西奈.</content>
+    </para_msg>
+    <para_msg paragraph="10008900" >
+        <content effect_num="0" talker="卢兰">还是先结束吧，这个小剧场，下次再见。</content>
+    </para_msg>
+    <para_msg paragraph="10009000" date_end="true">
+        <content effect_num="2">……</content>
+    </para_msg>
+ </para_date>
+</config>

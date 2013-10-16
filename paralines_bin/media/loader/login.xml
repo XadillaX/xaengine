@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Loader>
+    <!-- 背景 -->
+    <SpriteInformation type="BG">
+        <Sprite name="Underpainting">media/AVG_main/image 79.jpg</Sprite>
+    </SpriteInformation>
+    
+    <!-- 标题 -->
+    <SpriteInformation type="Title">
+        <Sprite name="1">media/Login_main/image 3.png</Sprite>
+        <Sprite name="2">media/Login_main/image 6.png</Sprite>
+        <Sprite name="3">media/Login_main/image 9.png</Sprite>
+        
+        <Sprite name="Line">media/Login_main/image 1.png</Sprite>
+    </SpriteInformation>
+    
+    <!-- 按钮 -->
+    <SpriteInformation type="Button">
+        <Sprite name="Back0">media/Login_main/image 61.png</Sprite>
+        <Sprite name="Back1">media/Login_main/image 63.png</Sprite>
+        <Sprite name="Back2">media/Login_main/image 63.png</Sprite>
+    </SpriteInformation>
+    
+    <SpriteInformation type="StageSelect">
+        <!-- 一周目 -->
+        <Sprite name="stage1_0">media/Login_main/image 13.png</Sprite>
+        <Sprite name="stage1_1">media/Login_main/image 15.png</Sprite>
+        <Sprite name="stage1_2">media/Login_main/image 15.png</Sprite>
+        
+        <Sprite name="stage2_0">media/Login_main/image 19.png</Sprite>
+        <Sprite name="stage2_1">media/Login_main/image 21.png</Sprite>
+        <Sprite name="stage2_2">media/Login_main/image 21.png</Sprite>
+        
+        <Sprite name="stage3_0">media/Login_main/image 25.png</Sprite>
+        <Sprite name="stage3_1">media/Login_main/image 27.png</Sprite>
+        <Sprite name="stage3_2">media/Login_main/image 27.png</Sprite>
+        
+        <Sprite name="stage4_0">media/Login_main/image 31.png</Sprite>
+        <Sprite name="stage4_1">media/Login_main/image 33.png</Sprite>
+        <Sprite name="stage4_2">media/Login_main/image 33.png</Sprite>
+        
+        <!-- 二周目 -->
+        <Sprite name="stage5_0">media/Login_main/image 37.png</Sprite>
+        <Sprite name="stage5_1">media/Login_main/image 39.png</Sprite>
+        <Sprite name="stage5_2">media/Login_main/image 39.png</Sprite>
+        
+        <Sprite name="stage6_0">media/Login_main/image 13.png</Sprite>
+        <Sprite name="stage6_1">media/Login_main/image 15.png</Sprite>
+        <Sprite name="stage6_2">media/Login_main/image 15.png</Sprite>
+        
+        <Sprite name="stage7_0">media/Login_main/image 19.png</Sprite>
+        <Sprite name="stage7_1">media/Login_main/image 21.png</Sprite>
+        <Sprite name="stage7_2">media/Login_main/image 21.png</Sprite>
+        
+        <Sprite name="stage8_0">media/Login_main/image 25.png</Sprite>
+        <Sprite name="stage8_1">media/Login_main/image 27.png</Sprite>
+        <Sprite name="stage8_2">media/Login_main/image 27.png</Sprite>
+        
+        <Sprite name="stage9_0">media/Login_main/image 31.png</Sprite>
+        <Sprite name="stage9_1">media/Login_main/image 33.png</Sprite>
+        <Sprite name="stage9_2">media/Login_main/image 33.png</Sprite>
+        
+        <Sprite name="stage10_0">media/Login_main/image 43.png</Sprite>
+        <Sprite name="stage10_1">media/Login_main/image 45.png</Sprite>
+        <Sprite name="stage10_2">media/Login_main/image 45.png</Sprite>
+        
+        <Sprite name="stage11_0">media/Login_main/image 49.png</Sprite>
+        <Sprite name="stage11_1">media/Login_main/image 51.png</Sprite>
+        <Sprite name="stage11_2">media/Login_main/image 51.png</Sprite>
+        
+        <Sprite name="stage12_0">media/Login_main/image 55.png</Sprite>
+        <Sprite name="stage12_1">media/Login_main/image 57.png</Sprite>
+        <Sprite name="stage12_2">media/Login_main/image 57.png</Sprite>
+        
+        <!-- 小剧场 -->
+        <Sprite name="stage13_0">media/Login_main/image 67.png</Sprite>
+        <Sprite name="stage13_1">media/Login_main/image 69.png</Sprite>
+        <Sprite name="stage13_2">media/Login_main/image 69.png</Sprite>
+    </SpriteInformation>
+    
+    <SpriteInformation type="Cursor">
+        <Sprite name="Pointer">media/cursor_point.png</Sprite>
+    </SpriteInformation>
+</Loader>
